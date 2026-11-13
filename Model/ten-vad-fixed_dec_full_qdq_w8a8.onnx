@@ -1,0 +1,2482 @@
+
+onnx.quantize0.1.0:נן
+¦
+LSTM__102_19_R_quantized
+LSTM__102_19_R_scale
+LSTM__102_19_R_zero_point&LSTM__102_19_R_DequantizeLinear_OutputLSTM__102_19_R_DequantizeLinear"DequantizeLinear
+§
+LSTM__102_19_Rb_quantized
+LSTM__102_19_Rb_quantized_scale
+$LSTM__102_19_Rb_quantized_zero_pointLSTM__102_19_Rb LSTM__102_19_Rb_DequantizeLinear"DequantizeLinear
+¦
+LSTM__102_19_W_quantized
+LSTM__102_19_W_scale
+LSTM__102_19_W_zero_point&LSTM__102_19_W_DequantizeLinear_OutputLSTM__102_19_W_DequantizeLinear"DequantizeLinear
+§
+LSTM__102_19_Wb_quantized
+LSTM__102_19_Wb_quantized_scale
+$LSTM__102_19_Wb_quantized_zero_pointLSTM__102_19_Wb LSTM__102_19_Wb_DequantizeLinear"DequantizeLinear
+×
+LSTM__102_19_c_inp
+LSTM__102_19_c_inp_scale
+LSTM__102_19_c_inp_zero_point(LSTM__102_19_c_inp_QuantizeLinear_Output!LSTM__102_19_c_inp_QuantizeLinear"QuantizeLinear
+×
+LSTM__102_19_h_inp
+LSTM__102_19_h_inp_scale
+LSTM__102_19_h_inp_zero_point(LSTM__102_19_h_inp_QuantizeLinear_Output!LSTM__102_19_h_inp_QuantizeLinear"QuantizeLinear
+¡
+LSTM__73_15_R_quantized
+LSTM__73_15_R_scale
+LSTM__73_15_R_zero_point%LSTM__73_15_R_DequantizeLinear_OutputLSTM__73_15_R_DequantizeLinear"DequantizeLinear
+¢
+LSTM__73_15_Rb_quantized
+LSTM__73_15_Rb_quantized_scale
+#LSTM__73_15_Rb_quantized_zero_pointLSTM__73_15_RbLSTM__73_15_Rb_DequantizeLinear"DequantizeLinear
+¡
+LSTM__73_15_W_quantized
+LSTM__73_15_W_scale
+LSTM__73_15_W_zero_point%LSTM__73_15_W_DequantizeLinear_OutputLSTM__73_15_W_DequantizeLinear"DequantizeLinear
+¢
+LSTM__73_15_Wb_quantized
+LSTM__73_15_Wb_quantized_scale
+#LSTM__73_15_Wb_quantized_zero_pointLSTM__73_15_WbLSTM__73_15_Wb_DequantizeLinear"DequantizeLinear
+¥
+LSTM__73_15_c_inp
+LSTM__73_15_c_inp_scale
+LSTM__73_15_c_inp_zero_point'LSTM__73_15_c_inp_QuantizeLinear_Output LSTM__73_15_c_inp_QuantizeLinear"QuantizeLinear
+¥
+LSTM__73_15_h_inp
+LSTM__73_15_h_inp_scale
+LSTM__73_15_h_inp_zero_point'LSTM__73_15_h_inp_QuantizeLinear_Output LSTM__73_15_h_inp_QuantizeLinear"QuantizeLinear
+×
+LStatefulPartitionedCall/vad_model/dense_3/BiasAdd/ReadVariableOp:0_quantized
+HStatefulPartitionedCall/vad_model/dense_3/BiasAdd/ReadVariableOp:0_scale
+MStatefulPartitionedCall/vad_model/dense_3/BiasAdd/ReadVariableOp:0_zero_pointZStatefulPartitionedCall/vad_model/dense_3/BiasAdd/ReadVariableOp:0_DequantizeLinear_OutputSStatefulPartitionedCall/vad_model/dense_3/BiasAdd/ReadVariableOp:0_DequantizeLinear"DequantizeLinear
+´
+NStatefulPartitionedCall/vad_model/dense_3/Tensordot/ReadVariableOp:0_quantized
+JStatefulPartitionedCall/vad_model/dense_3/Tensordot/ReadVariableOp:0_scale
+OStatefulPartitionedCall/vad_model/dense_3/Tensordot/ReadVariableOp:0_zero_point\StatefulPartitionedCall/vad_model/dense_3/Tensordot/ReadVariableOp:0_DequantizeLinear_OutputUStatefulPartitionedCall/vad_model/dense_3/Tensordot/ReadVariableOp:0_DequantizeLinear"DequantizeLinear
+×
+LStatefulPartitionedCall/vad_model/dense_5/BiasAdd/ReadVariableOp:0_quantized
+HStatefulPartitionedCall/vad_model/dense_5/BiasAdd/ReadVariableOp:0_scale
+MStatefulPartitionedCall/vad_model/dense_5/BiasAdd/ReadVariableOp:0_zero_pointZStatefulPartitionedCall/vad_model/dense_5/BiasAdd/ReadVariableOp:0_DequantizeLinear_OutputSStatefulPartitionedCall/vad_model/dense_5/BiasAdd/ReadVariableOp:0_DequantizeLinear"DequantizeLinear
+´
+NStatefulPartitionedCall/vad_model/dense_5/Tensordot/ReadVariableOp:0_quantized
+JStatefulPartitionedCall/vad_model/dense_5/Tensordot/ReadVariableOp:0_scale
+OStatefulPartitionedCall/vad_model/dense_5/Tensordot/ReadVariableOp:0_zero_point\StatefulPartitionedCall/vad_model/dense_5/Tensordot/ReadVariableOp:0_DequantizeLinear_OutputUStatefulPartitionedCall/vad_model/dense_5/Tensordot/ReadVariableOp:0_DequantizeLinear"DequantizeLinear
+׃
+UStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd/ReadVariableOp:0_quantized
+[StatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd/ReadVariableOp:0_quantized_scale
+`StatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd/ReadVariableOp:0_quantized_zero_pointKStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd/ReadVariableOp:0\StatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd/ReadVariableOp:0_DequantizeLinear"DequantizeLinear
+¥
+KStatefulPartitionedCall/vad_model/separable_conv1d/ExpandDims_2:0_quantized
+GStatefulPartitionedCall/vad_model/separable_conv1d/ExpandDims_2:0_scale
+LStatefulPartitionedCall/vad_model/separable_conv1d/ExpandDims_2:0_zero_pointYStatefulPartitionedCall/vad_model/separable_conv1d/ExpandDims_2:0_DequantizeLinear_OutputRStatefulPartitionedCall/vad_model/separable_conv1d/ExpandDims_2:0_DequantizeLinear"DequantizeLinear
+Ý
+WStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd/ReadVariableOp:0_quantized
+]StatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd/ReadVariableOp:0_quantized_scale
+bStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd/ReadVariableOp:0_quantized_zero_pointMStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd/ReadVariableOp:0^StatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd/ReadVariableOp:0_DequantizeLinear"DequantizeLinear
+¯
+MStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims_2:0_quantized
+IStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims_2:0_scale
+NStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims_2:0_zero_point[StatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims_2:0_DequantizeLinear_OutputTStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims_2:0_DequantizeLinear"DequantizeLinear
+׃
+UStatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd/ReadVariableOp:0_quantized
+[StatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd/ReadVariableOp:0_quantized_scale
+`StatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd/ReadVariableOp:0_quantized_zero_pointKStatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd/ReadVariableOp:0\StatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd/ReadVariableOp:0_DequantizeLinear"DequantizeLinear
+
+`StatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/ReadVariableOp_1:0_quantized
+\StatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/ReadVariableOp_1:0_scale
+aStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/ReadVariableOp_1:0_zero_pointnStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/ReadVariableOp_1:0_DequantizeLinear_OutputgStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/ReadVariableOp_1:0_DequantizeLinear"DequantizeLinear
+¿
+const_fold_opt__178_quantized
+const_fold_opt__178_scale
+const_fold_opt__178_zero_point+const_fold_opt__178_DequantizeLinear_Output$const_fold_opt__178_DequantizeLinear"DequantizeLinear
+¿
+const_fold_opt__179_quantized
+const_fold_opt__179_scale
+const_fold_opt__179_zero_point+const_fold_opt__179_DequantizeLinear_Output$const_fold_opt__179_DequantizeLinear"DequantizeLinear
+¿
+const_fold_opt__180_quantized
+const_fold_opt__180_scale
+const_fold_opt__180_zero_point+const_fold_opt__180_DequantizeLinear_Output$const_fold_opt__180_DequantizeLinear"DequantizeLinear
+s
+input_1
+input_1_scale
+input_1_zero_pointinput_1_QuantizeLinear_Outputinput_1_QuantizeLinear"QuantizeLinear
+ֶ
+(LSTM__102_19_c_inp_QuantizeLinear_Output
+LSTM__102_19_c_inp_scale
+LSTM__102_19_c_inp_zero_point*LSTM__102_19_c_inp_DequantizeLinear_Output#LSTM__102_19_c_inp_DequantizeLinear"DequantizeLinear
+ֶ
+(LSTM__102_19_h_inp_QuantizeLinear_Output
+LSTM__102_19_h_inp_scale
+LSTM__102_19_h_inp_zero_point*LSTM__102_19_h_inp_DequantizeLinear_Output#LSTM__102_19_h_inp_DequantizeLinear"DequantizeLinear
+ֱ
+'LSTM__73_15_c_inp_QuantizeLinear_Output
+LSTM__73_15_c_inp_scale
+LSTM__73_15_c_inp_zero_point)LSTM__73_15_c_inp_DequantizeLinear_Output"LSTM__73_15_c_inp_DequantizeLinear"DequantizeLinear
+ֱ
+'LSTM__73_15_h_inp_QuantizeLinear_Output
+LSTM__73_15_h_inp_scale
+LSTM__73_15_h_inp_zero_point)LSTM__73_15_h_inp_DequantizeLinear_Output"LSTM__73_15_h_inp_DequantizeLinear"DequantizeLinear
+
+input_1_QuantizeLinear_Output
+input_1_scale
+input_1_zero_pointinput_1_DequantizeLinear_Outputinput_1_DequantizeLinear"DequantizeLinear
+Ù
+*LSTM__102_19_h_inp_DequantizeLinear_Output
+&LSTM__102_19_R_DequantizeLinear_Output
+LSTM__102_19_RbLSTM__102_19RH__41onnx_graphsurgeon_node_42"Gemm*
+transA  *
+alpha  €? *
+beta  €? *
+transB  
+׃
+)LSTM__73_15_h_inp_DequantizeLinear_Output
+%LSTM__73_15_R_DequantizeLinear_Output
+LSTM__73_15_RbLSTM__73_15RH__5onnx_graphsurgeon_node_6"Gemm*
+transA  *
+alpha  €? *
+beta  €? *
+transB  
+ײ
+input_1_DequantizeLinear_Output
++const_fold_opt__178_DequantizeLinear_OutputOStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0MStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise"Conv*
+	dilations@@ *
+kernel_shape@@ *
+strides@@ *
+group *
+auto_pad"NOTSET 
+×
+LSTM__102_19RH__41
+LSTM__102_19RH__41_scale
+LSTM__102_19RH__41_zero_point(LSTM__102_19RH__41_QuantizeLinear_Output!LSTM__102_19RH__41_QuantizeLinear"QuantizeLinear
+ 
+LSTM__73_15RH__5
+LSTM__73_15RH__5_scale
+LSTM__73_15RH__5_zero_point&LSTM__73_15RH__5_QuantizeLinear_OutputLSTM__73_15RH__5_QuantizeLinear"QuantizeLinear
+Û
+OStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0
+UStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_scale
+ZStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_zero_pointeStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_QuantizeLinear_Output^StatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_QuantizeLinear"QuantizeLinear
+ֶ
+(LSTM__102_19RH__41_QuantizeLinear_Output
+LSTM__102_19RH__41_scale
+LSTM__102_19RH__41_zero_point*LSTM__102_19RH__41_DequantizeLinear_Output#LSTM__102_19RH__41_DequantizeLinear"DequantizeLinear
+¼
+&LSTM__73_15RH__5_QuantizeLinear_Output
+LSTM__73_15RH__5_scale
+LSTM__73_15RH__5_zero_point(LSTM__73_15RH__5_DequantizeLinear_Output!LSTM__73_15RH__5_DequantizeLinear"DequantizeLinear
+ק
+eStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_QuantizeLinear_Output
+UStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_scale
+ZStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_zero_pointgStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_DequantizeLinear_Output`StatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_DequantizeLinear"DequantizeLinear
+…
+gStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_DequantizeLinear_Output
+nStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/ReadVariableOp_1:0_DequantizeLinear_Output
+KStatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd/ReadVariableOp:09StatefulPartitionedCall/vad_model/separable_conv2d/Relu:0:StatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd"Conv*
+	dilations@@ *
+kernel_shape@@ *
+strides@@ *
+group *
+auto_pad"NOTSET 
+ם
+9StatefulPartitionedCall/vad_model/separable_conv2d/Relu:0
+?StatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_scale
+DStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_zero_pointOStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_QuantizeLinear_OutputHStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_QuantizeLinear"QuantizeLinear
+‰
+OStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_QuantizeLinear_Output
+?StatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_scale
+DStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_zero_pointQStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_DequantizeLinear_OutputJStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_DequantizeLinear"DequantizeLinear
+׃
+QStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_DequantizeLinear_OutputTStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise__127:07StatefulPartitionedCall/vad_model/max_pooling2d/MaxPool"MaxPool*
+kernel_shape@@ *
+strides@@ *
+storage_order  *
+	ceil_mode  *
+auto_pad"NOTSET 
+¾
+TStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise__127:0
+?StatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_scale
+DStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_zero_pointjStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise__127:0_QuantizeLinear_OutputcStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise__127:0_QuantizeLinear"QuantizeLinear
+Ú
+jStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise__127:0_QuantizeLinear_Output
+?StatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_scale
+DStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_zero_pointlStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise__127:0_DequantizeLinear_OutputeStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise__127:0_DequantizeLinear"DequantizeLinear
+¶
+lStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise__127:0_DequantizeLinear_Output
++const_fold_opt__179_DequantizeLinear_OutputOStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0MStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise"Conv*
+pads@ @@ @ *
+kernel_shape@@ *
+group *
+strides@@ *
+	dilations@@ *
+auto_pad"NOTSET 
+Û
+OStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0
+UStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_scale
+ZStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_zero_pointeStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_QuantizeLinear_Output^StatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_QuantizeLinear"QuantizeLinear
+ק
+eStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_QuantizeLinear_Output
+UStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_scale
+ZStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_zero_pointgStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_DequantizeLinear_Output`StatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_DequantizeLinear"DequantizeLinear
+ף
+gStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_DequantizeLinear_Output
+YStatefulPartitionedCall/vad_model/separable_conv1d/ExpandDims_2:0_DequantizeLinear_Output
+KStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd/ReadVariableOp:0<StatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0:StatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd"Conv*
+	dilations@@ *
+kernel_shape@@ *
+strides@@ *
+group *
+auto_pad"NOTSET 
+ü
+<StatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0
+BStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_scale
+GStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_zero_pointRStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_QuantizeLinear_OutputKStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_QuantizeLinear"QuantizeLinear
+˜
+RStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_QuantizeLinear_Output
+BStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_scale
+GStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_zero_pointTStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_DequantizeLinear_OutputMStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_DequantizeLinear"DequantizeLinear
+Ý
+TStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_DequantizeLinear_Output
+_v_989StatefulPartitionedCall/vad_model/separable_conv1d/Relu:0:StatefulPartitionedCall/vad_model/separable_conv1d/Squeeze"Squeeze
+ם
+9StatefulPartitionedCall/vad_model/separable_conv1d/Relu:0
+?StatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_scale
+DStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_zero_pointOStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_QuantizeLinear_OutputHStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_QuantizeLinear"QuantizeLinear
+‰
+OStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_QuantizeLinear_Output
+?StatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_scale
+DStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_zero_pointQStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_DequantizeLinear_OutputJStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_DequantizeLinear"DequantizeLinear
+י
+QStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_DequantizeLinear_Output
+_v_98AStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims:0?StatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims"	Unsqueeze
+…
+AStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims:0
+?StatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_scale
+DStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_zero_pointWStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims:0_QuantizeLinear_OutputPStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims:0_QuantizeLinear"QuantizeLinear
+¡
+WStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims:0_QuantizeLinear_Output
+?StatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_scale
+DStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_zero_pointYStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims:0_DequantizeLinear_OutputRStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims:0_DequantizeLinear"DequantizeLinear
+§
+YStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims:0_DequantizeLinear_Output
++const_fold_opt__180_DequantizeLinear_OutputQStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0OStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise"Conv*
+pads@ @ @ @ *
+kernel_shape@@ *
+group *
+strides@@ *
+	dilations@@ *
+auto_pad"NOTSET 
+ו
+QStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0
+WStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_scale
+\StatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_zero_pointgStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_QuantizeLinear_Output`StatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_QuantizeLinear"QuantizeLinear
+
+gStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_QuantizeLinear_Output
+WStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_scale
+\StatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_zero_pointiStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_DequantizeLinear_OutputbStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_DequantizeLinear"DequantizeLinear
+‎
+iStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_DequantizeLinear_Output
+[StatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims_2:0_DequantizeLinear_Output
+MStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd/ReadVariableOp:0>StatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0<StatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd"Conv*
+	dilations@@ *
+kernel_shape@@ *
+strides@@ *
+group *
+auto_pad"NOTSET 
+†
+>StatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0
+DStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_scale
+IStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_zero_pointTStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_QuantizeLinear_OutputMStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_QuantizeLinear"QuantizeLinear
+¢
+TStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_QuantizeLinear_Output
+DStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_scale
+IStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_zero_pointVStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_DequantizeLinear_OutputOStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_DequantizeLinear"DequantizeLinear
+ד
+VStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_DequantizeLinear_Output
+_v_98;StatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0<StatefulPartitionedCall/vad_model/separable_conv1d_1/Squeeze"Squeeze
+ק
+;StatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0
+AStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_scale
+FStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_zero_pointQStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_QuantizeLinear_OutputJStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_QuantizeLinear"QuantizeLinear
+“
+QStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_QuantizeLinear_Output
+AStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_scale
+FStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_zero_pointSStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_DequantizeLinear_OutputLStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_DequantizeLinear"DequantizeLinear
+ש
+SStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_DequantizeLinear_OutputCStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd__147:0AStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd__147"	Transpose*
+perm@ @@ 
+
+CStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd__147:0
+AStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_scale
+FStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_zero_pointYStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd__147:0_QuantizeLinear_OutputRStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd__147:0_QuantizeLinear"QuantizeLinear
+«
+YStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd__147:0_QuantizeLinear_Output
+AStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_scale
+FStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_zero_point[StatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd__147:0_DequantizeLinear_OutputTStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd__147:0_DequantizeLinear"DequantizeLinear
+ק
+[StatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd__147:0_DequantizeLinear_Output
+JStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_new_shapeLSTM__73_15_squeeze_1LStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_new_reshape"Reshape*
+	allowzero  2LReshape for StatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose
+…
+LSTM__73_15_squeeze_1
+AStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_scale
+FStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_zero_point+LSTM__73_15_squeeze_1_QuantizeLinear_Output$LSTM__73_15_squeeze_1_QuantizeLinear"QuantizeLinear
+¡
++LSTM__73_15_squeeze_1_QuantizeLinear_Output
+AStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_scale
+FStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_zero_point-LSTM__73_15_squeeze_1_DequantizeLinear_Output&LSTM__73_15_squeeze_1_DequantizeLinear"DequantizeLinear
+׳
+-LSTM__73_15_squeeze_1_DequantizeLinear_Output
+%LSTM__73_15_W_DequantizeLinear_Output
+LSTM__73_15_WbLSTM__73_15WX__3onnx_graphsurgeon_node_4"Gemm*
+transA  *
+alpha  €? *
+beta  €? *
+transB  
+ 
+LSTM__73_15WX__3
+LSTM__73_15WX__3_scale
+LSTM__73_15WX__3_zero_point&LSTM__73_15WX__3_QuantizeLinear_OutputLSTM__73_15WX__3_QuantizeLinear"QuantizeLinear
+¼
+&LSTM__73_15WX__3_QuantizeLinear_Output
+LSTM__73_15WX__3_scale
+LSTM__73_15WX__3_zero_point(LSTM__73_15WX__3_DequantizeLinear_Output!LSTM__73_15WX__3_DequantizeLinear"DequantizeLinear
+ˆ
+(LSTM__73_15WX__3_DequantizeLinear_Output
+(LSTM__73_15RH__5_DequantizeLinear_OutputLSTM__73_15WX+RH__7onnx_graphsurgeon_node_8"Add
+¯
+LSTM__73_15WX+RH__7
+LSTM__73_15WX+RH__7_scale
+LSTM__73_15WX+RH__7_zero_point)LSTM__73_15WX+RH__7_QuantizeLinear_Output"LSTM__73_15WX+RH__7_QuantizeLinear"QuantizeLinear
+ֻ
+)LSTM__73_15WX+RH__7_QuantizeLinear_Output
+LSTM__73_15WX+RH__7_scale
+LSTM__73_15WX+RH__7_zero_point+LSTM__73_15WX+RH__7_DequantizeLinear_Output$LSTM__73_15WX+RH__7_DequantizeLinear"DequantizeLinear
+£
++LSTM__73_15WX+RH__7_DequantizeLinear_OutputLSTM__73_15_0_9LSTM__73_15_1_10LSTM__73_15_2_11LSTM__73_15_3_12onnx_graphsurgeon_node_13"Split*
+axis 
+£
+LSTM__73_15_0_9
+LSTM__73_15WX+RH__7_scale
+LSTM__73_15WX+RH__7_zero_point%LSTM__73_15_0_9_QuantizeLinear_OutputLSTM__73_15_0_9_QuantizeLinear"QuantizeLinear
+¦
+LSTM__73_15_1_10
+LSTM__73_15WX+RH__7_scale
+LSTM__73_15WX+RH__7_zero_point&LSTM__73_15_1_10_QuantizeLinear_OutputLSTM__73_15_1_10_QuantizeLinear"QuantizeLinear
+¦
+LSTM__73_15_2_11
+LSTM__73_15WX+RH__7_scale
+LSTM__73_15WX+RH__7_zero_point&LSTM__73_15_2_11_QuantizeLinear_OutputLSTM__73_15_2_11_QuantizeLinear"QuantizeLinear
+¦
+LSTM__73_15_3_12
+LSTM__73_15WX+RH__7_scale
+LSTM__73_15WX+RH__7_zero_point&LSTM__73_15_3_12_QuantizeLinear_OutputLSTM__73_15_3_12_QuantizeLinear"QuantizeLinear
+¿
+%LSTM__73_15_0_9_QuantizeLinear_Output
+LSTM__73_15WX+RH__7_scale
+LSTM__73_15WX+RH__7_zero_point'LSTM__73_15_0_9_DequantizeLinear_Output LSTM__73_15_0_9_DequantizeLinear"DequantizeLinear
+ֲ
+&LSTM__73_15_1_10_QuantizeLinear_Output
+LSTM__73_15WX+RH__7_scale
+LSTM__73_15WX+RH__7_zero_point(LSTM__73_15_1_10_DequantizeLinear_Output!LSTM__73_15_1_10_DequantizeLinear"DequantizeLinear
+ֲ
+&LSTM__73_15_2_11_QuantizeLinear_Output
+LSTM__73_15WX+RH__7_scale
+LSTM__73_15WX+RH__7_zero_point(LSTM__73_15_2_11_DequantizeLinear_Output!LSTM__73_15_2_11_DequantizeLinear"DequantizeLinear
+ֲ
+&LSTM__73_15_3_12_QuantizeLinear_Output
+LSTM__73_15WX+RH__7_scale
+LSTM__73_15WX+RH__7_zero_point(LSTM__73_15_3_12_DequantizeLinear_Output!LSTM__73_15_3_12_DequantizeLinear"DequantizeLinear
+a
+'LSTM__73_15_0_9_DequantizeLinear_OutputLSTM__73_15_i_t_14onnx_graphsurgeon_node_15"Sigmoid
+b
+(LSTM__73_15_1_10_DequantizeLinear_OutputLSTM__73_15_o_t_16onnx_graphsurgeon_node_17"Sigmoid
+b
+(LSTM__73_15_2_11_DequantizeLinear_OutputLSTM__73_15_f_t_18onnx_graphsurgeon_node_19"Sigmoid
+_
+(LSTM__73_15_3_12_DequantizeLinear_OutputLSTM__73_15_c_t_20onnx_graphsurgeon_node_21"Tanh
+×
+LSTM__73_15_i_t_14
+LSTM__73_15_i_t_14_scale
+LSTM__73_15_i_t_14_zero_point(LSTM__73_15_i_t_14_QuantizeLinear_Output!LSTM__73_15_i_t_14_QuantizeLinear"QuantizeLinear
+×
+LSTM__73_15_o_t_16
+LSTM__73_15_o_t_16_scale
+LSTM__73_15_o_t_16_zero_point(LSTM__73_15_o_t_16_QuantizeLinear_Output!LSTM__73_15_o_t_16_QuantizeLinear"QuantizeLinear
+×
+LSTM__73_15_f_t_18
+LSTM__73_15_f_t_18_scale
+LSTM__73_15_f_t_18_zero_point(LSTM__73_15_f_t_18_QuantizeLinear_Output!LSTM__73_15_f_t_18_QuantizeLinear"QuantizeLinear
+×
+LSTM__73_15_c_t_20
+LSTM__73_15_c_t_20_scale
+LSTM__73_15_c_t_20_zero_point(LSTM__73_15_c_t_20_QuantizeLinear_Output!LSTM__73_15_c_t_20_QuantizeLinear"QuantizeLinear
+ֶ
+(LSTM__73_15_i_t_14_QuantizeLinear_Output
+LSTM__73_15_i_t_14_scale
+LSTM__73_15_i_t_14_zero_point*LSTM__73_15_i_t_14_DequantizeLinear_Output#LSTM__73_15_i_t_14_DequantizeLinear"DequantizeLinear
+ֶ
+(LSTM__73_15_o_t_16_QuantizeLinear_Output
+LSTM__73_15_o_t_16_scale
+LSTM__73_15_o_t_16_zero_point*LSTM__73_15_o_t_16_DequantizeLinear_Output#LSTM__73_15_o_t_16_DequantizeLinear"DequantizeLinear
+ֶ
+(LSTM__73_15_f_t_18_QuantizeLinear_Output
+LSTM__73_15_f_t_18_scale
+LSTM__73_15_f_t_18_zero_point*LSTM__73_15_f_t_18_DequantizeLinear_Output#LSTM__73_15_f_t_18_DequantizeLinear"DequantizeLinear
+ֶ
+(LSTM__73_15_c_t_20_QuantizeLinear_Output
+LSTM__73_15_c_t_20_scale
+LSTM__73_15_c_t_20_zero_point*LSTM__73_15_c_t_20_DequantizeLinear_Output#LSTM__73_15_c_t_20_DequantizeLinear"DequantizeLinear
+”
+*LSTM__73_15_f_t_18_DequantizeLinear_Output
+)LSTM__73_15_c_inp_DequantizeLinear_OutputLSTM__73_15_ft_mul_C_t-1_22onnx_graphsurgeon_node_23"Mul
+“
+*LSTM__73_15_i_t_14_DequantizeLinear_Output
+*LSTM__73_15_c_t_20_DequantizeLinear_OutputLSTM__73_15_it_mul_c_t_24onnx_graphsurgeon_node_25"Mul
+׳
+LSTM__73_15_ft_mul_C_t-1_22
+!LSTM__73_15_ft_mul_C_t-1_22_scale
+&LSTM__73_15_ft_mul_C_t-1_22_zero_point1LSTM__73_15_ft_mul_C_t-1_22_QuantizeLinear_Output*LSTM__73_15_ft_mul_C_t-1_22_QuantizeLinear"QuantizeLinear
+ֽ
+LSTM__73_15_it_mul_c_t_24
+LSTM__73_15_it_mul_c_t_24_scale
+$LSTM__73_15_it_mul_c_t_24_zero_point/LSTM__73_15_it_mul_c_t_24_QuantizeLinear_Output(LSTM__73_15_it_mul_c_t_24_QuantizeLinear"QuantizeLinear
+ף
+1LSTM__73_15_ft_mul_C_t-1_22_QuantizeLinear_Output
+!LSTM__73_15_ft_mul_C_t-1_22_scale
+&LSTM__73_15_ft_mul_C_t-1_22_zero_point3LSTM__73_15_ft_mul_C_t-1_22_DequantizeLinear_Output,LSTM__73_15_ft_mul_C_t-1_22_DequantizeLinear"DequantizeLinear
+י
+/LSTM__73_15_it_mul_c_t_24_QuantizeLinear_Output
+LSTM__73_15_it_mul_c_t_24_scale
+$LSTM__73_15_it_mul_c_t_24_zero_point1LSTM__73_15_it_mul_c_t_24_DequantizeLinear_Output*LSTM__73_15_it_mul_c_t_24_DequantizeLinear"DequantizeLinear
+³
+3LSTM__73_15_ft_mul_C_t-1_22_DequantizeLinear_Output
+1LSTM__73_15_it_mul_c_t_24_DequantizeLinear_Output)LSTM__73_15_c_out_26_QuantizeLinear_Inputonnx_graphsurgeon_node_27"Add
+ֹ
+)LSTM__73_15_c_out_26_QuantizeLinear_Input
+LSTM__73_15_c_out_26_scale
+LSTM__73_15_c_out_26_zero_point*LSTM__73_15_c_out_26_QuantizeLinear_Output#LSTM__73_15_c_out_26_QuantizeLinear"QuantizeLinear
+¸
+*LSTM__73_15_c_out_26_QuantizeLinear_Output
+LSTM__73_15_c_out_26_scale
+LSTM__73_15_c_out_26_zero_pointLSTM__73_15_c_out_26%LSTM__73_15_c_out_26_DequantizeLinear"DequantizeLinear
+P
+LSTM__73_15_c_out_26LSTM__73_15_tanh_C_t_28onnx_graphsurgeon_node_29"Tanh
+ֳ
+LSTM__73_15_tanh_C_t_28
+LSTM__73_15_tanh_C_t_28_scale
+"LSTM__73_15_tanh_C_t_28_zero_point-LSTM__73_15_tanh_C_t_28_QuantizeLinear_Output&LSTM__73_15_tanh_C_t_28_QuantizeLinear"QuantizeLinear
+ß
+-LSTM__73_15_tanh_C_t_28_QuantizeLinear_Output
+LSTM__73_15_tanh_C_t_28_scale
+"LSTM__73_15_tanh_C_t_28_zero_point/LSTM__73_15_tanh_C_t_28_DequantizeLinear_Output(LSTM__73_15_tanh_C_t_28_DequantizeLinear"DequantizeLinear
+¨
+*LSTM__73_15_o_t_16_DequantizeLinear_Output
+/LSTM__73_15_tanh_C_t_28_DequantizeLinear_Output)LSTM__73_15_h_out_30_QuantizeLinear_Inputonnx_graphsurgeon_node_31"Mul
+ֹ
+)LSTM__73_15_h_out_30_QuantizeLinear_Input
+LSTM__73_15_h_out_30_scale
+LSTM__73_15_h_out_30_zero_point*LSTM__73_15_h_out_30_QuantizeLinear_Output#LSTM__73_15_h_out_30_QuantizeLinear"QuantizeLinear
+¸
+*LSTM__73_15_h_out_30_QuantizeLinear_Output
+LSTM__73_15_h_out_30_scale
+LSTM__73_15_h_out_30_zero_pointLSTM__73_15_h_out_30%LSTM__73_15_h_out_30_DequantizeLinear"DequantizeLinear
+k
+LSTM__73_15_h_out_30
+!onnx_graphsurgeon_lst_constant_32
+LSTM__73:0onnx_graphsurgeon_node_33"	Unsqueeze
+–
+
+LSTM__73:0
+LSTM__73_15_h_out_30_scale
+LSTM__73_15_h_out_30_zero_point LSTM__73:0_QuantizeLinear_OutputLSTM__73:0_QuantizeLinear"QuantizeLinear
+²
+ LSTM__73:0_QuantizeLinear_Output
+LSTM__73_15_h_out_30_scale
+LSTM__73_15_h_out_30_zero_point"LSTM__73:0_DequantizeLinear_OutputLSTM__73:0_DequantizeLinear"DequantizeLinear
+Q
+"LSTM__73:0_DequantizeLinear_Output
+_v_104Squeeze__75:0Squeeze__75"Squeeze
+
+Squeeze__75:0
+LSTM__73_15_h_out_30_scale
+LSTM__73_15_h_out_30_zero_point#Squeeze__75:0_QuantizeLinear_OutputSqueeze__75:0_QuantizeLinear"QuantizeLinear
+»
+#Squeeze__75:0_QuantizeLinear_Output
+LSTM__73_15_h_out_30_scale
+LSTM__73_15_h_out_30_zero_point%Squeeze__75:0_DequantizeLinear_OutputSqueeze__75:0_DequantizeLinear"DequantizeLinear
+Ü
+%Squeeze__75:0_DequantizeLinear_Output
+new_shape__176DStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1:0BStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1"Reshape*
+	allowzero  
+ִ
+DStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1:0
+LSTM__73_15_h_out_30_scale
+LSTM__73_15_h_out_30_zero_pointZStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1:0_QuantizeLinear_OutputSStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1:0_QuantizeLinear"QuantizeLinear
+א
+ZStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1:0_QuantizeLinear_Output
+LSTM__73_15_h_out_30_scale
+LSTM__73_15_h_out_30_zero_point\StatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1:0_DequantizeLinear_OutputUStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1:0_DequantizeLinear"DequantizeLinear
+…
+\StatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1:0_DequantizeLinear_Output
+#onnx_graphsurgeon_node_35_new_shapeLSTM__102_19_squeeze_37%onnx_graphsurgeon_node_35_new_reshape"Reshape*
+	allowzero  2%Reshape for onnx_graphsurgeon_node_35
+½
+LSTM__102_19_squeeze_37
+LSTM__73_15_h_out_30_scale
+LSTM__73_15_h_out_30_zero_point-LSTM__102_19_squeeze_37_QuantizeLinear_Output&LSTM__102_19_squeeze_37_QuantizeLinear"QuantizeLinear
+Ù
+-LSTM__102_19_squeeze_37_QuantizeLinear_Output
+LSTM__73_15_h_out_30_scale
+LSTM__73_15_h_out_30_zero_point/LSTM__102_19_squeeze_37_DequantizeLinear_Output(LSTM__102_19_squeeze_37_DequantizeLinear"DequantizeLinear
+Þ
+/LSTM__102_19_squeeze_37_DequantizeLinear_Output
+&LSTM__102_19_W_DequantizeLinear_Output
+LSTM__102_19_WbLSTM__102_19WX__39onnx_graphsurgeon_node_40"Gemm*
+transA  *
+alpha  €? *
+beta  €? *
+transB  
+×
+LSTM__102_19WX__39
+LSTM__102_19WX__39_scale
+LSTM__102_19WX__39_zero_point(LSTM__102_19WX__39_QuantizeLinear_Output!LSTM__102_19WX__39_QuantizeLinear"QuantizeLinear
+ֶ
+(LSTM__102_19WX__39_QuantizeLinear_Output
+LSTM__102_19WX__39_scale
+LSTM__102_19WX__39_zero_point*LSTM__102_19WX__39_DequantizeLinear_Output#LSTM__102_19WX__39_DequantizeLinear"DequantizeLinear
+
+*LSTM__102_19WX__39_DequantizeLinear_Output
+*LSTM__102_19RH__41_DequantizeLinear_OutputLSTM__102_19WX+RH__43onnx_graphsurgeon_node_44"Add
+¹
+LSTM__102_19WX+RH__43
+LSTM__102_19WX+RH__43_scale
+ LSTM__102_19WX+RH__43_zero_point+LSTM__102_19WX+RH__43_QuantizeLinear_Output$LSTM__102_19WX+RH__43_QuantizeLinear"QuantizeLinear
+ױ
++LSTM__102_19WX+RH__43_QuantizeLinear_Output
+LSTM__102_19WX+RH__43_scale
+ LSTM__102_19WX+RH__43_zero_point-LSTM__102_19WX+RH__43_DequantizeLinear_Output&LSTM__102_19WX+RH__43_DequantizeLinear"DequantizeLinear
+×
+-LSTM__102_19WX+RH__43_DequantizeLinear_OutputLSTM__102_19_0_45LSTM__102_19_1_46LSTM__102_19_2_47LSTM__102_19_3_48onnx_graphsurgeon_node_49"Split*
+axis 
+­
+LSTM__102_19_0_45
+LSTM__102_19WX+RH__43_scale
+ LSTM__102_19WX+RH__43_zero_point'LSTM__102_19_0_45_QuantizeLinear_Output LSTM__102_19_0_45_QuantizeLinear"QuantizeLinear
+­
+LSTM__102_19_1_46
+LSTM__102_19WX+RH__43_scale
+ LSTM__102_19WX+RH__43_zero_point'LSTM__102_19_1_46_QuantizeLinear_Output LSTM__102_19_1_46_QuantizeLinear"QuantizeLinear
+­
+LSTM__102_19_2_47
+LSTM__102_19WX+RH__43_scale
+ LSTM__102_19WX+RH__43_zero_point'LSTM__102_19_2_47_QuantizeLinear_Output LSTM__102_19_2_47_QuantizeLinear"QuantizeLinear
+­
+LSTM__102_19_3_48
+LSTM__102_19WX+RH__43_scale
+ LSTM__102_19WX+RH__43_zero_point'LSTM__102_19_3_48_QuantizeLinear_Output LSTM__102_19_3_48_QuantizeLinear"QuantizeLinear
+ֹ
+'LSTM__102_19_0_45_QuantizeLinear_Output
+LSTM__102_19WX+RH__43_scale
+ LSTM__102_19WX+RH__43_zero_point)LSTM__102_19_0_45_DequantizeLinear_Output"LSTM__102_19_0_45_DequantizeLinear"DequantizeLinear
+ֹ
+'LSTM__102_19_1_46_QuantizeLinear_Output
+LSTM__102_19WX+RH__43_scale
+ LSTM__102_19WX+RH__43_zero_point)LSTM__102_19_1_46_DequantizeLinear_Output"LSTM__102_19_1_46_DequantizeLinear"DequantizeLinear
+ֹ
+'LSTM__102_19_2_47_QuantizeLinear_Output
+LSTM__102_19WX+RH__43_scale
+ LSTM__102_19WX+RH__43_zero_point)LSTM__102_19_2_47_DequantizeLinear_Output"LSTM__102_19_2_47_DequantizeLinear"DequantizeLinear
+ֹ
+'LSTM__102_19_3_48_QuantizeLinear_Output
+LSTM__102_19WX+RH__43_scale
+ LSTM__102_19WX+RH__43_zero_point)LSTM__102_19_3_48_DequantizeLinear_Output"LSTM__102_19_3_48_DequantizeLinear"DequantizeLinear
+d
+)LSTM__102_19_0_45_DequantizeLinear_OutputLSTM__102_19_i_t_50onnx_graphsurgeon_node_51"Sigmoid
+d
+)LSTM__102_19_1_46_DequantizeLinear_OutputLSTM__102_19_o_t_52onnx_graphsurgeon_node_53"Sigmoid
+d
+)LSTM__102_19_2_47_DequantizeLinear_OutputLSTM__102_19_f_t_54onnx_graphsurgeon_node_55"Sigmoid
+a
+)LSTM__102_19_3_48_DequantizeLinear_OutputLSTM__102_19_c_t_56onnx_graphsurgeon_node_57"Tanh
+¯
+LSTM__102_19_i_t_50
+LSTM__102_19_i_t_50_scale
+LSTM__102_19_i_t_50_zero_point)LSTM__102_19_i_t_50_QuantizeLinear_Output"LSTM__102_19_i_t_50_QuantizeLinear"QuantizeLinear
+¯
+LSTM__102_19_o_t_52
+LSTM__102_19_o_t_52_scale
+LSTM__102_19_o_t_52_zero_point)LSTM__102_19_o_t_52_QuantizeLinear_Output"LSTM__102_19_o_t_52_QuantizeLinear"QuantizeLinear
+¯
+LSTM__102_19_f_t_54
+LSTM__102_19_f_t_54_scale
+LSTM__102_19_f_t_54_zero_point)LSTM__102_19_f_t_54_QuantizeLinear_Output"LSTM__102_19_f_t_54_QuantizeLinear"QuantizeLinear
+¯
+LSTM__102_19_c_t_56
+LSTM__102_19_c_t_56_scale
+LSTM__102_19_c_t_56_zero_point)LSTM__102_19_c_t_56_QuantizeLinear_Output"LSTM__102_19_c_t_56_QuantizeLinear"QuantizeLinear
+ֻ
+)LSTM__102_19_i_t_50_QuantizeLinear_Output
+LSTM__102_19_i_t_50_scale
+LSTM__102_19_i_t_50_zero_point+LSTM__102_19_i_t_50_DequantizeLinear_Output$LSTM__102_19_i_t_50_DequantizeLinear"DequantizeLinear
+ֻ
+)LSTM__102_19_o_t_52_QuantizeLinear_Output
+LSTM__102_19_o_t_52_scale
+LSTM__102_19_o_t_52_zero_point+LSTM__102_19_o_t_52_DequantizeLinear_Output$LSTM__102_19_o_t_52_DequantizeLinear"DequantizeLinear
+ֻ
+)LSTM__102_19_f_t_54_QuantizeLinear_Output
+LSTM__102_19_f_t_54_scale
+LSTM__102_19_f_t_54_zero_point+LSTM__102_19_f_t_54_DequantizeLinear_Output$LSTM__102_19_f_t_54_DequantizeLinear"DequantizeLinear
+ֻ
+)LSTM__102_19_c_t_56_QuantizeLinear_Output
+LSTM__102_19_c_t_56_scale
+LSTM__102_19_c_t_56_zero_point+LSTM__102_19_c_t_56_DequantizeLinear_Output$LSTM__102_19_c_t_56_DequantizeLinear"DequantizeLinear
+—
++LSTM__102_19_f_t_54_DequantizeLinear_Output
+*LSTM__102_19_c_inp_DequantizeLinear_OutputLSTM__102_19_ft_mul_C_t-1_58onnx_graphsurgeon_node_59"Mul
+–
++LSTM__102_19_i_t_50_DequantizeLinear_Output
++LSTM__102_19_c_t_56_DequantizeLinear_OutputLSTM__102_19_it_mul_c_t_60onnx_graphsurgeon_node_61"Mul
+Ü
+LSTM__102_19_ft_mul_C_t-1_58
+"LSTM__102_19_ft_mul_C_t-1_58_scale
+'LSTM__102_19_ft_mul_C_t-1_58_zero_point2LSTM__102_19_ft_mul_C_t-1_58_QuantizeLinear_Output+LSTM__102_19_ft_mul_C_t-1_58_QuantizeLinear"QuantizeLinear
+ׂ
+LSTM__102_19_it_mul_c_t_60
+ LSTM__102_19_it_mul_c_t_60_scale
+%LSTM__102_19_it_mul_c_t_60_zero_point0LSTM__102_19_it_mul_c_t_60_QuantizeLinear_Output)LSTM__102_19_it_mul_c_t_60_QuantizeLinear"QuantizeLinear
+ר
+2LSTM__102_19_ft_mul_C_t-1_58_QuantizeLinear_Output
+"LSTM__102_19_ft_mul_C_t-1_58_scale
+'LSTM__102_19_ft_mul_C_t-1_58_zero_point4LSTM__102_19_ft_mul_C_t-1_58_DequantizeLinear_Output-LSTM__102_19_ft_mul_C_t-1_58_DequantizeLinear"DequantizeLinear
+מ
+0LSTM__102_19_it_mul_c_t_60_QuantizeLinear_Output
+ LSTM__102_19_it_mul_c_t_60_scale
+%LSTM__102_19_it_mul_c_t_60_zero_point2LSTM__102_19_it_mul_c_t_60_DequantizeLinear_Output+LSTM__102_19_it_mul_c_t_60_DequantizeLinear"DequantizeLinear
+¶
+4LSTM__102_19_ft_mul_C_t-1_58_DequantizeLinear_Output
+2LSTM__102_19_it_mul_c_t_60_DequantizeLinear_Output*LSTM__102_19_c_out_62_QuantizeLinear_Inputonnx_graphsurgeon_node_63"Add
+־
+*LSTM__102_19_c_out_62_QuantizeLinear_Input
+LSTM__102_19_c_out_62_scale
+ LSTM__102_19_c_out_62_zero_point+LSTM__102_19_c_out_62_QuantizeLinear_Output$LSTM__102_19_c_out_62_QuantizeLinear"QuantizeLinear
+½
++LSTM__102_19_c_out_62_QuantizeLinear_Output
+LSTM__102_19_c_out_62_scale
+ LSTM__102_19_c_out_62_zero_pointLSTM__102_19_c_out_62&LSTM__102_19_c_out_62_DequantizeLinear"DequantizeLinear
+R
+LSTM__102_19_c_out_62LSTM__102_19_tanh_C_t_64onnx_graphsurgeon_node_65"Tanh
+ָ
+LSTM__102_19_tanh_C_t_64
+LSTM__102_19_tanh_C_t_64_scale
+#LSTM__102_19_tanh_C_t_64_zero_point.LSTM__102_19_tanh_C_t_64_QuantizeLinear_Output'LSTM__102_19_tanh_C_t_64_QuantizeLinear"QuantizeLinear
+ה
+.LSTM__102_19_tanh_C_t_64_QuantizeLinear_Output
+LSTM__102_19_tanh_C_t_64_scale
+#LSTM__102_19_tanh_C_t_64_zero_point0LSTM__102_19_tanh_C_t_64_DequantizeLinear_Output)LSTM__102_19_tanh_C_t_64_DequantizeLinear"DequantizeLinear
+«
++LSTM__102_19_o_t_52_DequantizeLinear_Output
+0LSTM__102_19_tanh_C_t_64_DequantizeLinear_Output*LSTM__102_19_h_out_66_QuantizeLinear_Inputonnx_graphsurgeon_node_67"Mul
+־
+*LSTM__102_19_h_out_66_QuantizeLinear_Input
+LSTM__102_19_h_out_66_scale
+ LSTM__102_19_h_out_66_zero_point+LSTM__102_19_h_out_66_QuantizeLinear_Output$LSTM__102_19_h_out_66_QuantizeLinear"QuantizeLinear
+½
++LSTM__102_19_h_out_66_QuantizeLinear_Output
+LSTM__102_19_h_out_66_scale
+ LSTM__102_19_h_out_66_zero_pointLSTM__102_19_h_out_66&LSTM__102_19_h_out_66_DequantizeLinear"DequantizeLinear
+m
+LSTM__102_19_h_out_66
+!onnx_graphsurgeon_lst_constant_32LSTM__102:0onnx_graphsurgeon_node_69"	Unsqueeze
+›
+LSTM__102:0
+LSTM__102_19_h_out_66_scale
+ LSTM__102_19_h_out_66_zero_point!LSTM__102:0_QuantizeLinear_OutputLSTM__102:0_QuantizeLinear"QuantizeLinear
+·
+!LSTM__102:0_QuantizeLinear_Output
+LSTM__102_19_h_out_66_scale
+ LSTM__102_19_h_out_66_zero_point#LSTM__102:0_DequantizeLinear_OutputLSTM__102:0_DequantizeLinear"DequantizeLinear
+T
+#LSTM__102:0_DequantizeLinear_Output
+_v_104Squeeze__104:0Squeeze__104"Squeeze
+₪
+Squeeze__104:0
+LSTM__102_19_h_out_66_scale
+ LSTM__102_19_h_out_66_zero_point$Squeeze__104:0_QuantizeLinear_OutputSqueeze__104:0_QuantizeLinear"QuantizeLinear
+ְ
+$Squeeze__104:0_QuantizeLinear_Output
+LSTM__102_19_h_out_66_scale
+ LSTM__102_19_h_out_66_zero_point&Squeeze__104:0_DequantizeLinear_OutputSqueeze__104:0_DequantizeLinear"DequantizeLinear
+ֹ
+&Squeeze__104:0_DequantizeLinear_Output
+!onnx_graphsurgeon_lst_constant_70FStatefulPartitionedCall/vad_model/lstm_2/PartitionedCall/transpose_1:0onnx_graphsurgeon_node_71"Reshape*
+	allowzero  
+ּ
+FStatefulPartitionedCall/vad_model/lstm_2/PartitionedCall/transpose_1:0
+LSTM__102_19_h_out_66_scale
+ LSTM__102_19_h_out_66_zero_point\StatefulPartitionedCall/vad_model/lstm_2/PartitionedCall/transpose_1:0_QuantizeLinear_OutputUStatefulPartitionedCall/vad_model/lstm_2/PartitionedCall/transpose_1:0_QuantizeLinear"QuantizeLinear
+ט
+\StatefulPartitionedCall/vad_model/lstm_2/PartitionedCall/transpose_1:0_QuantizeLinear_Output
+LSTM__102_19_h_out_66_scale
+ LSTM__102_19_h_out_66_zero_point^StatefulPartitionedCall/vad_model/lstm_2/PartitionedCall/transpose_1:0_DequantizeLinear_OutputWStatefulPartitionedCall/vad_model/lstm_2/PartitionedCall/transpose_1:0_DequantizeLinear"DequantizeLinear
+­
+^StatefulPartitionedCall/vad_model/lstm_2/PartitionedCall/transpose_1:0_DequantizeLinear_Output
+\StatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1:0_DequantizeLinear_Output,StatefulPartitionedCall/vad_model/concat_1:0*StatefulPartitionedCall/vad_model/concat_1"Concat*
+axis 
+¬
+,StatefulPartitionedCall/vad_model/concat_1:0
+2StatefulPartitionedCall/vad_model/concat_1:0_scale
+7StatefulPartitionedCall/vad_model/concat_1:0_zero_pointBStatefulPartitionedCall/vad_model/concat_1:0_QuantizeLinear_Output;StatefulPartitionedCall/vad_model/concat_1:0_QuantizeLinear"QuantizeLinear
+ָ
+BStatefulPartitionedCall/vad_model/concat_1:0_QuantizeLinear_Output
+2StatefulPartitionedCall/vad_model/concat_1:0_scale
+7StatefulPartitionedCall/vad_model/concat_1:0_zero_pointDStatefulPartitionedCall/vad_model/concat_1:0_DequantizeLinear_Output=StatefulPartitionedCall/vad_model/concat_1:0_DequantizeLinear"DequantizeLinear
+£
+DStatefulPartitionedCall/vad_model/concat_1:0_DequantizeLinear_Output
+DStatefulPartitionedCall/vad_model/dense/Tensordot/Reshape_shape__186=StatefulPartitionedCall/vad_model/dense_3/Tensordot/Reshape:0;StatefulPartitionedCall/vad_model/dense_3/Tensordot/Reshape"Reshape*
+	allowzero  
+ß
+=StatefulPartitionedCall/vad_model/dense_3/Tensordot/Reshape:0
+2StatefulPartitionedCall/vad_model/concat_1:0_scale
+7StatefulPartitionedCall/vad_model/concat_1:0_zero_pointSStatefulPartitionedCall/vad_model/dense_3/Tensordot/Reshape:0_QuantizeLinear_OutputLStatefulPartitionedCall/vad_model/dense_3/Tensordot/Reshape:0_QuantizeLinear"QuantizeLinear
+û
+SStatefulPartitionedCall/vad_model/dense_3/Tensordot/Reshape:0_QuantizeLinear_Output
+2StatefulPartitionedCall/vad_model/concat_1:0_scale
+7StatefulPartitionedCall/vad_model/concat_1:0_zero_pointUStatefulPartitionedCall/vad_model/dense_3/Tensordot/Reshape:0_DequantizeLinear_OutputNStatefulPartitionedCall/vad_model/dense_3/Tensordot/Reshape:0_DequantizeLinear"DequantizeLinear
+·
+UStatefulPartitionedCall/vad_model/dense_3/Tensordot/Reshape:0_DequantizeLinear_Output
+\StatefulPartitionedCall/vad_model/dense_3/Tensordot/ReadVariableOp:0_DequantizeLinear_Output<StatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0:StatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul"MatMul
+ü
+<StatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0
+BStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_scale
+GStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_zero_pointRStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_QuantizeLinear_OutputKStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_QuantizeLinear"QuantizeLinear
+˜
+RStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_QuantizeLinear_Output
+BStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_scale
+GStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_zero_pointTStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_DequantizeLinear_OutputMStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_DequantizeLinear"DequantizeLinear
+™
+TStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_DequantizeLinear_Output
+:StatefulPartitionedCall/vad_model/dense_3/Tensordot__167:05StatefulPartitionedCall/vad_model/dense_3/Tensordot:03StatefulPartitionedCall/vad_model/dense_3/Tensordot"Reshape*
+	allowzero  
+ח
+5StatefulPartitionedCall/vad_model/dense_3/Tensordot:0
+BStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_scale
+GStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_zero_pointKStatefulPartitionedCall/vad_model/dense_3/Tensordot:0_QuantizeLinear_OutputDStatefulPartitionedCall/vad_model/dense_3/Tensordot:0_QuantizeLinear"QuantizeLinear
+ƒ
+KStatefulPartitionedCall/vad_model/dense_3/Tensordot:0_QuantizeLinear_Output
+BStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_scale
+GStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_zero_pointMStatefulPartitionedCall/vad_model/dense_3/Tensordot:0_DequantizeLinear_OutputFStatefulPartitionedCall/vad_model/dense_3/Tensordot:0_DequantizeLinear"DequantizeLinear
+•
+MStatefulPartitionedCall/vad_model/dense_3/Tensordot:0_DequantizeLinear_Output
+ZStatefulPartitionedCall/vad_model/dense_3/BiasAdd/ReadVariableOp:0_DequantizeLinear_Output0StatefulPartitionedCall/vad_model/dense_3/Relu:01StatefulPartitionedCall/vad_model/dense_3/BiasAdd"Add
+ְ
+0StatefulPartitionedCall/vad_model/dense_3/Relu:0
+6StatefulPartitionedCall/vad_model/dense_3/Relu:0_scale
+;StatefulPartitionedCall/vad_model/dense_3/Relu:0_zero_pointFStatefulPartitionedCall/vad_model/dense_3/Relu:0_QuantizeLinear_Output?StatefulPartitionedCall/vad_model/dense_3/Relu:0_QuantizeLinear"QuantizeLinear
+Ü
+FStatefulPartitionedCall/vad_model/dense_3/Relu:0_QuantizeLinear_Output
+6StatefulPartitionedCall/vad_model/dense_3/Relu:0_scale
+;StatefulPartitionedCall/vad_model/dense_3/Relu:0_zero_pointHStatefulPartitionedCall/vad_model/dense_3/Relu:0_DequantizeLinear_OutputAStatefulPartitionedCall/vad_model/dense_3/Relu:0_DequantizeLinear"DequantizeLinear
+©
+HStatefulPartitionedCall/vad_model/dense_3/Relu:0_DequantizeLinear_Output
+FStatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape_shape__183=StatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape:0;StatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape"Reshape*
+	allowzero  
+ח
+=StatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape:0
+6StatefulPartitionedCall/vad_model/dense_3/Relu:0_scale
+;StatefulPartitionedCall/vad_model/dense_3/Relu:0_zero_pointSStatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape:0_QuantizeLinear_OutputLStatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape:0_QuantizeLinear"QuantizeLinear
+ƒ
+SStatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape:0_QuantizeLinear_Output
+6StatefulPartitionedCall/vad_model/dense_3/Relu:0_scale
+;StatefulPartitionedCall/vad_model/dense_3/Relu:0_zero_pointUStatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape:0_DequantizeLinear_OutputNStatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape:0_DequantizeLinear"DequantizeLinear
+·
+UStatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape:0_DequantizeLinear_Output
+\StatefulPartitionedCall/vad_model/dense_5/Tensordot/ReadVariableOp:0_DequantizeLinear_Output<StatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0:StatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul"MatMul
+ü
+<StatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0
+BStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_scale
+GStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_zero_pointRStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_QuantizeLinear_OutputKStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_QuantizeLinear"QuantizeLinear
+˜
+RStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_QuantizeLinear_Output
+BStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_scale
+GStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_zero_pointTStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_DequantizeLinear_OutputMStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_DequantizeLinear"DequantizeLinear
+™
+TStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_DequantizeLinear_Output
+:StatefulPartitionedCall/vad_model/dense_5/Tensordot__173:05StatefulPartitionedCall/vad_model/dense_5/Tensordot:03StatefulPartitionedCall/vad_model/dense_5/Tensordot"Reshape*
+	allowzero  
+ח
+5StatefulPartitionedCall/vad_model/dense_5/Tensordot:0
+BStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_scale
+GStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_zero_pointKStatefulPartitionedCall/vad_model/dense_5/Tensordot:0_QuantizeLinear_OutputDStatefulPartitionedCall/vad_model/dense_5/Tensordot:0_QuantizeLinear"QuantizeLinear
+ƒ
+KStatefulPartitionedCall/vad_model/dense_5/Tensordot:0_QuantizeLinear_Output
+BStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_scale
+GStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_zero_pointMStatefulPartitionedCall/vad_model/dense_5/Tensordot:0_DequantizeLinear_OutputFStatefulPartitionedCall/vad_model/dense_5/Tensordot:0_DequantizeLinear"DequantizeLinear
+‘
+MStatefulPartitionedCall/vad_model/dense_5/Tensordot:0_DequantizeLinear_Output
+ZStatefulPartitionedCall/vad_model/dense_5/BiasAdd/ReadVariableOp:0_DequantizeLinear_Output,StatefulPartitionedCall/vad_model/concat_2:01StatefulPartitionedCall/vad_model/dense_5/BiasAdd"Add
+¬
+,StatefulPartitionedCall/vad_model/concat_2:0
+2StatefulPartitionedCall/vad_model/concat_2:0_scale
+7StatefulPartitionedCall/vad_model/concat_2:0_zero_pointBStatefulPartitionedCall/vad_model/concat_2:0_QuantizeLinear_Output;StatefulPartitionedCall/vad_model/concat_2:0_QuantizeLinear"QuantizeLinear
+ָ
+BStatefulPartitionedCall/vad_model/concat_2:0_QuantizeLinear_Output
+2StatefulPartitionedCall/vad_model/concat_2:0_scale
+7StatefulPartitionedCall/vad_model/concat_2:0_zero_pointDStatefulPartitionedCall/vad_model/concat_2:0_DequantizeLinear_Output=StatefulPartitionedCall/vad_model/concat_2:0_DequantizeLinear"DequantizeLinear
+™
+DStatefulPartitionedCall/vad_model/concat_2:0_DequantizeLinear_Outputoutput_1_QuantizeLinear_Input)StatefulPartitionedCall/vad_model/Sigmoid"Sigmoid
+
+output_1_QuantizeLinear_Input
+output_1_scale
+output_1_zero_pointoutput_1_QuantizeLinear_Outputoutput_1_QuantizeLinear"QuantizeLinear
+|
+output_1_QuantizeLinear_Output
+output_1_scale
+output_1_zero_pointoutput_1output_1_DequantizeLinear"DequantizeLineartf2onnx*:B_v_98*bBJStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_new_shapeJ       P       *;B#onnx_graphsurgeon_node_35_new_shapeJ       @       *9B!onnx_graphsurgeon_lst_constant_32J               *:B_v_104*.Bnew_shape__176J       ÿÿÿÿÿÿÿÿ@       *ZB:StatefulPartitionedCall/vad_model/dense_5/Tensordot__173:0J                     *AB!onnx_graphsurgeon_lst_constant_70J              @       *\BDStatefulPartitionedCall/vad_model/dense/Tensordot/Reshape_shape__186Jÿÿÿÿÿÿÿÿ€       *ZB:StatefulPartitionedCall/vad_model/dense_3/Tensordot__167:0J                      *^BFStatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape_shape__183Jÿÿÿÿÿÿÿÿ        *"*
+üÿÿÿÿÿÿÿÿBinput_1_zero_point*"­<Binput_1_scale*j*
+ÿÿÿÿÿÿÿÿÿBZStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_zero_point*_"ּ<BUStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0_scale*%* Bconst_fold_opt__178_zero_point*#">ת;Bconst_fold_opt__178_scale*4Bconst_fold_opt__178_quantizedJ	+
+"Ú'ßצ*h* BaStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/ReadVariableOp_1:0_zero_point*f"Pד;B\StatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/ReadVariableOp_1:0_scale*~B`StatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/ReadVariableOp_1:0_quantizedJ´½¢1­*₪ ×Sֲָ»*T*
+€ÿÿÿÿÿÿÿÿBDStatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_zero_point*I"ט¬C<B?StatefulPartitionedCall/vad_model/separable_conv2d/Relu:0_scale*a*BZStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_zero_point*_"²<BUStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0_scale*%* Bconst_fold_opt__179_zero_point*#"3N<Bconst_fold_opt__179_scale*[Bconst_fold_opt__179_quantizedJ0חװך‎*´׃ÞÜך#>û 1אהן‏‏üֲ?%8ל¾ּYDÿבסצû(7*N* BGStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_zero_point*L"³1־=BBStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0_scale*S* BLStatefulPartitionedCall/vad_model/separable_conv1d/ExpandDims_2:0_zero_point*Q"F™“<BGStatefulPartitionedCall/vad_model/separable_conv1d/ExpandDims_2:0_scale*ÚBKStatefulPartitionedCall/vad_model/separable_conv1d/ExpandDims_2:0_quantizedJ€פץ	ֲ ֽ ש³‏קיש7נכײ		ü
+'פÿתל+3¬$ 
+ְOq&6ÝY×‎בÿˆ=קרyנ]מת	ר‎ןיוו<חח /ם?פNה‏ַÜ*הת־5ך ‏צ(ס‎ק‏‏@מס üף״תנץׂHכAמע³ûכÿ?%)נÊך"ײהלעײ$ףןמ	Û	גÿשױנםטצÛנ­?³ֳמ¾¬׃&בע"·׀	שך5ץע	ֱגתûןÿותקת‏ûrÜצל	שת4ןtÞ*T*
+€ÿÿÿÿÿÿÿÿBDStatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_zero_point*I"ש=B?StatefulPartitionedCall/vad_model/separable_conv1d/Relu:0_scale*l*
+מÿÿÿÿÿÿÿÿB\StatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_zero_point*a"™ײ=BWStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0_scale*%* Bconst_fold_opt__180_zero_point*#"ָלך;Bconst_fold_opt__180_scale*[Bconst_fold_opt__180_quantizedJ0Sבײ׳ס'ÿֲֻ״%'ֶף1ֱי,ז71ִ¾מ3‹קױֱ?תA9K"¾*P*BIStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_zero_point*N"iחY=BDStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0_scale*U* BNStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims_2:0_zero_point*S"yת@<BIStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims_2:0_scale*ÜBMStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims_2:0_quantizedJ€ק»־Ú/פ'םע8§קׂ&-ף׃Ûגÿ9ְֻח /עףְÜÚ7ע״Kװnִü¬ .גUק½*ֵ
+ן+8û‎ß÷™ÜDÞֶ£י	ת*P\( ¼49־Þ;קף¸ְֶן<ץ­יצ]*,Ý7ג׀ס±	@D
+7*#»ת&ז׳¯
+כüֳ73הקנ½ֻN׳ׁ<Z+4
+$צ°:0ÿ׀נ.53װ˜6ÞׂהÛףj
+%9שקנûֿב‎/ֶת:ÿאYÜ¸*ן)ָפס*Ý¾¨יֵס5׀#טפ!פךi¬2³ÞךÞÿׂקת
+	*V*
+€ÿÿÿÿÿÿÿÿBFStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_zero_point*K"q¨<BAStatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0_scale*"*BLSTM__73_15WX__3_zero_point* "‘¬_>BLSTM__73_15WX__3_scale** BLSTM__73_15_W_zero_point*"²<BLSTM__73_15_W_scale*₪ P€BLSTM__73_15_W_quantizedJ€ ה׀‎‎קילגפיצהתüֿחי עÿי
+תםנפÙיךס‏חנעוןאךי	
+פכךטי	וץ
+#ץֿ‏#ב‎נûגש‎‏ץûתû")D"ÿû‎	‏	‎ץ‎זû ûדרטûל‏ןטדמצüף  ףüכÿ	נת‎פûֻןר‏קתןנלפ&Þüן עÿנמך
+ציס
+המשהסחררל
+ûםע־‎זÚכב‏	ששנ%ןüה‎עקױֹמתץ צ)לדסÝתבדÛלץשü‏דךס
+לזךתמ‏עש ÿ0ר
+ףü$ֻüשר‎‏נת4üÿ#üסüנצע	Ü	קמופפתצסמתֲקÿיחושמ.נÿü‏זמיםרןקאû0עערקךשקßיקצגן	שתÿשנרÿצÞחפûעצ+ ץמ	שףüםז'üüפ	שÛ.	‏,ח	ט‏ךצקמ	ץפשûץץ	וûןש‏ר‏‏ בûם%ךעûס,גץ
+ןםפüÿ%ןÜגרûÿףןןץססקÚע‎4ן
+‏‎	$״Ûשצ קÿ״מגÚ
+ת‎üÜיßױפתüרכÜוךעכע!ל‏צ%רמק‎üÿעÙלת	נ‏תנû״מÿ	צתûר‏בÞûûפצ‏Úת
+׃ף‎ו׃פÛצ?Üגס$י‏ûןצשװדװף&‏ץר«ßפ"ש<ׂ
+ 
+Û½גח=לÙץ
+תתסהוûצההןמױÞ,פט.
+ף״פנויװמֻAüּֿן'ןס‎[ׁ"&צ‎י2 דפנן.‏זüג	ץÜרךײ‏#כ׀תוםׂבסלü ¾זצ‎בִֻ	ןחעֹ‏üלן"ץץ(מג ס#ו)מÿעקüצ ײתץ#Ýץ 	פקם‎ץûתכ/׃‎פ*נפ‏ןמזל"$ןנךֽ
+םכלנמנצ״Ùקק·חכ׀‎1׳üקל!ז
+ךארצ	״דךועצÝיגןאûז½ׁ$ÿ‎ÊûסככזׂקÙצץÜםךיש-ל4‎ֻÞ"מכßÛי‏ûװֽןזלקָציÞ‏‎אךÿו‎׀¾גÿגÛ‏יßדץף 
+ןיה"0מע%ןשש׀)שחרÿ,	ּ*צר)כץכü‎ה½	
+!דסֱףרש'.חש גשÿׁעיאו	נ ‎ויûֹץעך‎ףהתמ ץפגû ע‏üע ÞםÞלÞÜא%‏ûושיסü‏	ß@רמÿכ‏הצףת		סüוü פזץעתאשאכןפטר‏=נûקÿ‏ר'ל‏û ׳לסםלבקסץזאכ שÿׂהע
+Þז
+‎
+‏ת	‏ חפûכ
+ןנרפÿûרÿ‏ûף	שםלכמûר 	ץü‎ג Þןןü‎דמע‎ךשתûופÿש מלעףש%ץפûענßנך½	ץ‏ÿ	‏ןףסÙÞÿתצזפםû%תקםריחר& ü5
+ûÿערט
++û1‎עאעח ÿסס‎סשרÿ‏נ	ר כתףׂוךןû%סנמוש/פ5Üכ	ףנן‎סרפף טתעÿüןםץפפכשûÚהרדÿצ!‎ןרםץ
+üר‎ף
+צאזצחךטץ סיקהךנושהלמךהצ 2 ÿהÚטסץ ÿתß!ןחםן׃קזבÚתכק  מרץ ק‏ü‎ûקףשק‏צ	׀סתןÿ- ÿ	ק ח‎
+‎רû‏
+נüחףצ ןקרֻץ ץעßשü‏%ÿü‎	רמקנמפ‎ÿ‎רם‎üםל‏ צנםס‎ן
+פרפג‎ך
+ץהמן קרע‎עשÿצ'כש״üהחמ"ן‎זסÙא ‏ןנ‏ בת2שץתסןײ(נü	נ‏ונש עעץ׃ע	=גאÝףלש‎יפםצץתמ‎‏כץצסםÿתÝ׳	ץפ	ת3 ü
+ץ!כ(ו	ûג
+üתץט+‏מש
+Ü
+תןüû׃ײקמÙס$ךחÚז	חü טן$עלÿעמשוÿ‎û	וסן‏û)
+‏כסש	ט״ל‏‎ן	ü#כֽןפ צתצüקסרשג,ץץןר*ת הװ,ץ½(פ)‎ףתםב ֳוע
+üנץ	רירק ק וÿÿץן4‎נ(Üü
+‎TפüץÊ
+‏‏ 
+‎ÝÞÿ‏רץץ‎‏פףמכזûüגÿÚûמ	üכÞ#זןüתע‏Ü
+
+ ‏ ûמ	ףקקד עûßקײץ	ץם%לנüמץפרתם	ןב״זמץףשל<קגספצתûתתן%פÿ>ר שÿ3נטצטגתכ%<ײגû‏ ו‎ץÿש"	 %ן7ֻÙנ‏ױ -ץףת ";t
+ßןןזנקÿ"חüםפטשץצ‏$ÿ
+ זםץ"ÿכÜן	ûׂסץ הַתßÿםכרש עףףק‏צ‏תÿ‎ÿרלרüßûÞףגקק&ן)ûû‎ÿךץצןתר‏נ ÿכהךףüü‎ ף‏רחמצ(#ת+‏ר!כם!טודמססÚתהשףÿףץפüךרץ
+התפמו&כ‏ף
+ ץû6ל״־שÿעצץ$רüÿעÊ ץ םÿחםשלתנשÜתß
+ר	üווגןכק
+ןנאü
+ק‏סûםק‏םרÛהü"
+בÿÝשץû‎ה	שףןמ ךא‏Ý‎שûוûרÛשßנקקמסף״ץ׳ֻ Þüנ ÿאנüÚתÿצור״כßלÿצ6‏‎ ‎ ײ‏ ָßךûצָ‎ציקלקÛ סףûַ מ‏$	ךףû
+לÚPז
+קכף
+קש#
+q״
+ÊעכÞ ץ!Ý
+û!ע‎חעÿד׃פץ‏ÞקוקףףהממץפהנûעףÞÞׁָ‏ׂנדןםתüןשפ	ל	‎Ùü	וץו-ט‏פ4צצר ֻרßםזן‏כ‎ûסהח!קינ מךחתףפלפ‏תûצ3ׂק רעעצוק‎טüךûלץ‎שלך נ
+רûןפ‎ף‎	ס
+üû‏ץÿ;בûף 	ןüשקפתר‏קר3 ß‎נקרס 	ת‎ם)רחצ	דוףיתכ		ÿוÜü ףסמראײ‏ף‏‏סתÛףהע	אדערצץ
+‎תץרת‎ךצב&זקםצûÿÚדגנÿגשסר ûםשת
+"ÿרשס+¾ûיûÿ
+)ûזüשה‎ץירר1עÚך	üצדÿתÿן"מפץספûף ßנ״(#רפתבצÞז+ \ׂ‏ץםרשצקס?	$ע
+ע$צ8ףו‎זױÝושפחםû
+‏‏ûעßת ר‎ûץצ״
+ֵûןÿץזפפשש
+ÿיאÿחÛנקûיעפש ÞÛץתטץתַüק‎מüמפ‎םכצקך3הü‎סת#"üמכ׃מ	צףץש7כ‏ץן	ף	ן‎
+יעעשעüןר#רמÿÿס%ַ ש1‎ûהפ	שיפםכמ‏ת	קץ	‏צÿ צון ֿ גÿ
+ת‏צ טדק‎‎ÿÿננû 
+ר ט	טפרץתרזיג'ז‎פףûפרû״‎ÙסÛמחח
+üת‎ גÿֲצזגך‎םב‎חשחׁףשנוננבץךץ ‏ש
+3תשפ‏ױ עüף	ס‏ם‏צל‏נפ)םסדצמ
+פ	ףףפû צ'ש@
+ן=‎‎ו	שץצןÿם!ןשקש	ק2ת‎ןרüץ‎ץק+רט
+Ùü‎בק‎לע תצףתû	ר‏ר		פֻמלÿשצ ש
+üש ץ'ת‏נעüûעפ	רמ	ע‎ץעכ‎‏‏‎סûמףק ץלסüפקםןעכץ+מג
+
+זÝצנ‎כױנך$‎סצװ׳זנך‎ו‏יכא"תקûקצצעצ*.סר‏םזמ,	ףטר -ף שסשעÿגקתטששחרטקוַפק‏ טדףüÛ קשםûףםûח מע ןם‎רןû2Üףע ץבר‎טפתלעפ‏ךרצנרת‎צüÿתתץץגעüףקמ
+סלחאÚ#הü	פעק‏‏ ב	< צןס רפÞןךףטעקנ‎פבםרÚקשאGÿט*צ‏שÞ#üתשי!'ךר9תעטר<&üüûסז קח"ûף+Úרü‎תורפן"Þו‎	צשץק	רתÿײפרס  פכסÛץשאמÿפית‎ץÿמשûםע	םפ
+ü פל	סüÚךײשעצ‏ÿײ עצ	
+ס ףטשט	ü Ûףךü‎נשטןבפ שעק‎חיתשף‏זÿקךקת	
+‎‎כÿLרÿ	יןףÞצםזץגםצ‎צשתü1חûÿקÞ‏‎םÿ	 ףכס‏בû‏חצץ‎צשץךûהער‏כבü׳עÿ‎טפץףÿרשלעקüתםש  üü
+ 
+ף‎ד&תע‏סרז	‎ ר
+הצ‎
+	ןמי‏םעÞתפ,צ‎ם ‎ש‏ÿßÿÚ תײי
+ט‏Ýש-$ 'ÿף‎ףנ‎ûפÝכÿצתננן‏ףע8
+ת‏‏ß‎ו"+קüץן	ע(üע Ùס‎ט
+׳ֽנ/קנחץüֽׁ$וםטדüחזםÜש	ױסׂÞ$אלÿא&כח2	Êû‏!מךנלף2 םחץתü‎צף נק! üץקןריס‎זחת‏‏תגüךקךײײכפיֻÿגךזÿûצצשףÝûנעתנףûעטבחשע׳מÜךגשוק‎ףדזיתקכעחםרןשצפם
+ונציףןü %%ףקצ ע%ה‎üןך#נפ
+קûפûרו	Þעÿûתט	דחפקûחÚצ הת
+ןקסץצקשענלם‏שץü‎ שץפמ  ת‎ÿסםץ ‎ שםת üÿםק‏ף
+רנּןקץüקשמ‏ררÿÞ	(ק	üוז
+׳+-צגמםם"פתÿ	ץ%‎Ûףמת,‎ו־ÿ%ÿ‏	י!יסןם.
+Gמ‏‎צנ ד6ס ןפ#ומצמûד חÞֿפא	קרדß
+ÝÜםשלמüדםתתץמקךבס סûת
+‏ סר+כ‏תכ יעף‏קרÞקןÿצ‎כרקאûכםûפף'
+צÿ־ץûמיץÿַץÝ+צחÛיÿצÚÿ/פקצÿֲקוף‏ע
+ß
+	'םםללכרהÿגׁׂכד)י1תץם‏ט/מ ûִש‎םכD&כü!ע‏תÿ‏ר	כ
+ץ
+ü!ק),ש$ףף*צדכûץüק	ü רÿ 	ױ‏Ùגףץû״2הןÛתׂ‎ךעזך¶ זץס=ü(ןרהץבימעû‎3לחש ע‎כתזבס	זװקזוף‎ז	םי+יצױÛÙ‏שתלרר!‎שךחשÙ
+תהל‎תü‎	4ק"סע!צ‎&Ý‏תÚלטקפ‏û	+Ú+תח, 
+ÿ
+	צ&עמ/ץלו	ß#‏
+ ך נÿ		 
+שכ טÙףצÿץא‏יבףÜÿרנםפ‎ִײץ"צחצכßתךסח‏קמף%$ןעזבÞם¸פ״‎ת%סחג+י'צ‎ü#ששפÿקֿסהכל	ץקף!גגעמגüלײןû‏Ùû2׀פ8!ץûשמ&ת!ע)!ג5פ"ך/ ה%תס6א-ןףצ‏חר*ü&ת4,צז
+‎סקü*שגשנע-	ך
+צûרÿ
+עץֳף )יü‎תקü&צ 
+ ףÿÿ#חף
+	כקנû
+'לתחתי סִר‎‏בעןנרת9‏ .שףüףנשןמנÿשÿמוש‎
+Ù
+ַ כצ קץüטףüצדםרMע
+ר‎ַמׂ'ֱ
+	(
+ך‏	תדצ"צת׳$פ ß	ûץל<סרץ:רץ&ייד
+ü2- üתײ	שָÜ#עמ,ע‎ש "ף־ÿתשף׀ין‎רהםסמÿמ וÝלךרÿÜרü 
+ץ
+ ןֽפ‎üüû‏רםיע	%‎פלתפצûפ‏‎ת‏סקט‏םÿ
+רצ#üץחך(û‎לףÿûû׀ס לץת נףט0‏Ü‎	נףךז.üק׳עלר6	רתררסÿךץפץ‏םüעמ
+ק Úצûיצ(קÝ‎תא‏א'ױÝ‎תא)ש'ס‎ררûמ‎(‏7ûע	שא	ע*	ֻט	םת‎-פו‎"	הü
+üרüלתצז ש‏סזלנÿüךüע‏ û
+Þûס אסיתüףנתםתסךןÿב‏	םרש‎üüקתתרחüהף דהלש
+לז‎םחü ןûמןש‏‎בחו%	פ‎ץÿûרÞע ױ‏צרפÛûû  ו	ץסץ‏ץרוףûמ‎	ףצ צנששMשש	גüנחû#0צûרֳדך$ר	"ץס‎ףüתÙ"
+רװתצÿתססעû‏ןÿ ûÿאתמדסûשט‏תרלנתü נÿפסׂ‏מ‏ך	)	ט‎ש	
+קעטיפרÿ‎רק	רזג ûוüטו ר‎עצ
+Úצ‎הרשûכעל ר@נ‏ק‏עתס‎ל‏זטשץס סת!עעץיûתק‎תרס׳ÿÿקש
+üב&%פם?‎ ûפ(/‎ףר‏ûû$ צüצפÿםנÞט
+ ‏‏לזפםעפüכךûüקש
+לכש	נףרÿפןוüשרפסףרשנץיטץ‎נÝשרם ‏ü‎ûÿהאד לצםÞÿֲÿבכיןד'
+נמ!ü	1‎ צ‏תםüשז הץ ת	ûצ מ‎לûûם‏שנ״  כר&üעסןת`קקרע‎ץ*מסשתÿüת.‎Ûÿÿ‏
+ע‏תûÿע
+ÿ׀‎‎פשנ
+ןצק
+יפס‎‏רי קרלנ ß
+נףת  Ù‏ףכץםט%
+תר תפצûÿûûÝÞ נןץךט נװשÿנ׳ûûק	חנ‏‏גתע"קûü%û ;üףשפפ(	‏ל‏מüü	כש‏ת
+ת עלףפ המûעלפש תÿ
+גFע)Ù)ם@‎דצüÿ%ü ששץ‎‏‏ Üÿ
+תשצלע	ש‏ ‏	חת‏
+תüûשÿû	‎
+‎
+ÿךןמשüל‎ת
+קלüשעûלÿש‏תתסזÿן״ץ ס Þיÿףפ 
+קנצךזסü׀ףüûךׂיÿשפשÿÿû:שר‏	סףסו 	ס ץתץרץûהרףנסםמ‎עיûץףûתִהץ‎‎Uüךפ‏ת û‏üתצ	ףפרת!‏צ	‎ע	לץםשÞשßץף‎לüן
+ן		ףסצ
+‏‏ÿקצ"ףßש ‎ÿנצץרםûנÿסשמ	ךפ ÿÿ‏ר ה‏מ‎ב‏ס‏‏‏‎ûתףûששתסססקדמשףןףױת׀מנצוקעלכ‏/ת צתüחבÙ	ועÿת זנפפ״סכֿחלך׳ח ר+ןüתעפû״ כ‎‎ûףת&ÿ‏סתך
+י	סכתÿüנ‏ק	ק‏ûû+טצÝמעצֿסע ץט"ûכ‎ףעֽûפפ ‎לבתתס	װףכ ÿקת	י	ףÿצק ßג	ûע‎מץנ טצץ‏ס
+קקÿ‏ו‏צ‎צüצ‏ררק‎ß		א םװ üקÿנצסר+	?ףתצ2!עטעüקךכס#$ק	ת'ןלü
+ גתÿ ר%	ÿ'üû 9פםשף6קחשש‏‏0 ר‏ףûר9וץתÿץר	נוװר	פץ‏‏ק	מסװך‎ûןעÿסÜמÿ	קזק¾פ 	‏ֶûÿüןר‎üצץש
+ÿפüץֿרךüשפףתנך‏!
+יב‎כךףץםף‏קרקß‎רגנָ
+עהװכףÿן
+ש	ךßÚץת  צתכ‏נûגÝûבהצûהüץנןûפילףףü כֿ
+üןÿצÿÿ	ת‎ך3ס
+כעכ( 	ףקץרÛבי*שÿ‏4תף
+עפ‏שÿ ףל		עאמתÿשנ‎םןצת‎ץמץקי	תץןÿתכןÿשüûÿûצססמ	ב‏צק	מ‏ ‏ר‏קתפשךתןס	ר
+ת	ףק
+û
+ קזמû#שאױדמגג‏מננ צמזü%כףû‏רüףהנףü$Ü	ף‏‎4ק‏ךע	נציÿÝ	קûם%	üנןתûמ‎מ ױ	עÿû׀ף) ÿ	ע	סעעיכסס ף‏‏
+ÿ־üנםש &׃ׁÿנ‏עÜרסצןףזסןך
++ושעחפצÿזפרהרףתי‎רûשעק‏נü	קףרדש
+לüצשרשק	‎סÚüüÿנכל‏חתע	פףסß׳שֵפÜהןלק
+ת‏ך!רסאÿû‎לן ‏‎נ‎‏	חס׳4‎ךםדץפסû#׳û.ÿû	
+ױ
+המÿלט
+רסי
+‏ש דץעûץ‎ÿ)רתןשאעם&ל
+ ן‎טֿל ûעץ‏‎ ûÿעצÿס קח‏ויךזצנש	ר‏כÿß(ל פ	ףמ
+לÿןרüףטמיתü‎üûרצÿץע
+פנ	ייס	 יץצ$תצû	ß.ÿנרצÜ/כױסûנÜצ#‏נ/ףױץÿנח‏
+Ùÿ‎ÿ
+ו!û ט‎סשüךגאץפף!	ךןך
+ף#ף צר ףüלü0
+ה צככֿרגנפס
+ֶםײכשח	טßפסגסÝםקז ß
+ פן$ףרקחםתצתתßü‎שמ‎נüויש‏!	קצף 	ו/ב! ספפפרüעדמלץרֿ‎‎עםהררמשכן‏Ú־כם!מûנכüכש1‎ץת קבישקתה	ןצ‏מ1פחצינלר‎גא מב	צװÛץששץט)ÿ ױהץûףÝתצ0ךפשףפפü‏ÿב‎
+זי) ‏חסאץש׀פ
+ןÿע‎	פ‏ש‏בת‏״ןי‎מץשיÿף‏חüש ע‎ןÿןפ דףש ‎ûצüעצתץךכבטעטßוחװלל ׳פןששם׳בגשףûב(נ
+צüת$ת‏קבתןÿצץצלפפרüתÿץטמע$כ%(דנü‏עת‎Þûע
+שץ‎ר‎&
+נצ"טףליא‏
+צש!ץלזßרףüעü‏‎‏תüם‏ץ צ	יף  יף‎‏נמü	
+	üûרÿכûתÜüנ!ןפרפÊנפפ:üע‏ץûש)ûקû‎‎ןבתש‎‏ü
+קק‎ט1צמ
+קסנ םכזחפ	מ"Êשתתך#9 ‎ךףםרך	ט"ק	תץ9
+תן-רענרןüצû	Þ	 צהט‏‏צÿךץסקûןÿ‏ ü‏ש!כ	ץ
+רט‎ û,נרכססÿ‎Üסמ üגק  סûץ‎קכך	צ ן‎ת‎ךץןן‎ףשרלק'חÿ#Ê%ÿל‎יםשוק!‎טטחס‏ניֿהףק ûשץÿעל	זשÝץ0ח%ûךü	שףןרכ‏Bעףגרקו שֽן,ךתÝן צנפ‏ח‎ûצףüÚןיÿüפפ
+ßûעפכ‎רשֶרףת3דßרחותüה¦ֽ‎כüüüץ‎ נ‎ף-שש‏	û
+‏ױק‎û ‏פתעצÞס	דץק
+ףדû‏תEקü+
+û9סנק	פ!קףע‏ûü% /ÿü‏ÿקש‎ו‎	‏׳י!
+צ כ‏û	ןF‎ÿ	שע	Ýץש ץי(
+שץ‏#
+תצ‎ר	ֻרÿûÿ	ü	שנ	‏ךתר‏
+משרÿü‏
+
+תקק	ןשüÛץףüקררת ÿסגü פןצרצÿ»ץפûם ÿפמצ	יםפתףבÿכףגש יüÛכןפְחז׳üץ‏ןע‏‎‏ץבüךÿûשתנÿ	צעטעױסןקםטכן‎ד‎ûנןכ	#ךֵ&‎ץפץצפ'ף ררוסש
+5צר ÿפינט(ûקÿתןרצךתת!שנ‏סשרפתט ûץחûצ
+Üעחסüס ן‏ןיפיקראצפ‎‎	 		נשרץÚמע
+üץ‏‏ÿץפÿפüיüףûהֿקנף9ÿ‏ûרûצAüיע ץ$‎ÿü	כ‎
+
+סûבקףת‏ף
+‎צקץ ף	ץ׃צü‏ ûüB	רם
+קר‎כ‎ü!ז‎נקÿ,‏ת1üךüד	üש	תצבüפûצץûםÿ
+	כףההץûÿמנ"ÿ
+פ‎רקü‏	ףשח״ךןצüש‎קף
+üץרפÿûצצ‎קֿÿצץ‏שץנססÿשקתתםÿצ‎ת"צּׂ	נ$תף üח%ן#צ
+,#üת	ûÿשÿ ּ‎סצ‎קתבע‏א
+û׳ֶ$‏תי6פü(ץקפץÿ/התû	פ‎‏	 פÿ‎ש*	ÿמס0ÜÚüעת	צ פאררט ֻררüüע‎מÙפ	ץנףׁ&שףכנתס‎תףתßעה ר‏‏צר‎כוûש	‏חûןףץתך‏תצ	ÜץÞ‎ ךכץüש/פÿתפרFךןüüÿקקץךע‏ûûÿ‎צûקÚ ‎ןקסÞ
+ÿ‎כLש‎ÿ‎"‎ü(עךÿüÿ‏
+ÿ‎'‎פ
+üÿצü 
+תßÿפü‏דרח	גםש‎ פûÿ	ת		רמערשüן üןףשüרצק‎תשץקמ‎ףרשץü ‏‎üק‎ןÿ‏‎
+טßרלתפשתןש‏üךÿר׳כ	ףש‎ק ֿטךרב
+פפנש‎Lחל+שם יתצü פמורט%מûםיפך	ןץüנ‏Üעז)	ÿ^טüץ!ûתûÿרץעÿ‏
+ÿפלû!ק
+יף
+ץßקס ‎תה‎׀עתשףצרתשכמךףתקש‎	מÿ‎פßבתü‏שף‎û‎'קקÿÿ  ÿ
+	üתנ 	ל‏זץרÿÿת
+תצ‏צײך זüכץ‎קב״חר‏ע םüםנבלצÿû‎!‏ÿנשםית ש&וÞ׀4בצבהץרצצתקק‏
+‏טןינÿ"תף%‏סüצעתײ
+  ות
+‎ûנפקגלד<זûר  םקףרא
+ק פרÿע‏	תטפ‎םסץ‏	‎שרי ûףצü	‎כ ‎ןשüסüתÿüüרש‏רץץ‎רצרק‏üצ‏םגכûüכ
+עק
+ן , ÿעעûז
+חפק'"פ	
+Ê‎צ‏פעלÿ ‏ü״ ûנ"גÿ צןץכשרבתשתüתקק	ûüרש8‏'קץ קנ‏הû׳ז
+ס ּנךüכםרקפתתוו¸עת‎הת+ üרÿ‏üנ‏9שüק%סרָךףענח!
+סßיענ‏ת
+רÞüצ$תף	הד‎נß סםÿ‎
+יֿלב ÿשףצ
+ןטלך‎גיÿÿ ילץûרüüûװת*0ם'‎üפÿÿט‏ סֹשüזכÛ
+ףךסüרûקל 0ףה‎û
+	‏צ ‎ע‏ד‎זףק‏כÙעחתפןע ו ש ל קתרÿ‏פ‎ü‎רףû‎ת ת‏ץטףרתר
+  ש
+ü‏ר	‎נüעאßך
+ü2	ףתיצ"כץצüמזüמאף‎סזק$רקהרÊÿסÿ‏ ‎קץü‏תםךץּםןBûזÞײףצתÙ#״ß׳צ ‎ געדלם ÿ
+‏‏%ףףüבשתפץû/לץ‏‎		קתצכ״סü	ףרףםצüו	ָזךךממ‎לקץרלנץ‎‏‏ה‎ססכ‏ץÿרן‎ש)ל	û‏ששמ‎ת	ûרקÿ ןכקÝמתי
+ßכעעֱעױÜתןדםזן$ע רנ־!שתב‏ל‎ûנ ןüה
+זדהַם)םצץר‏ü
+װםררֻיאנ	כן‎חשי‎ûתרÿץונ
+‎ ת'יûן-‎ט7נרגטעֵ ‏ÿ‎קֵלזקüדüרךÿקגÜפימהÛטÿÿא
+וüרÿ	רד"דנףי‎ת נûשץ ךÿ
+ןרמןכרץשü‎‏‎ץ‎תךןסלוש
+ף!שֻÊש&צÚס-ץץÜ!ÿ/זÛשÜÜץאץןÞ´ף,עֽ'עכי 
+דולחנך
+	ן&לÛ9צךÝ ?&üרג	צק‏שÿמכץßש‏!ר‎‎ן	ךןױפףרֻץףנץ
+לף‏‎ÿ  יצשכנ‎‏צÊײû	
+ס‎ÿצכפשסשךזכם‏ûטצ 
+פתףעקפצûקü  קת!נצםץשץס ג‎ קױנװםüןעץצצך־ןםןפüנ‏מעעיללן‏ü‏שפשקצûן ףÝךחך‎ץßטקםיךק״ֲ
+םü
+נ‏ רÚÿ	ךצû%ץנחתת‏תחשמü	אףÞה0חûזײ‏‎רßקל‏ תליר
+‎üûך	ט‎	שננ ק‎	‎ל‏ÿ שÿüסףשסÿÜ	ןûץ‏ü ‏
+פק
+ Ýםמץןסקךמזנםאירףת ילףץק
+קףל ץלצ0!שעÿÿץ‏צקמהקךפצףבגמן‏ץיûצסר ןס	ÿרש‎‎ÿו‏üûת"	תûכתÙ	קם
+ש‏פüשü$ץםÿשÝקפת	ÿנררןקמןרלףüסזףû‎רק תרקûüÿץת
+םûפÿץס	ÿתקץÿץÝ
+Ùצ דפÿךüעמכ üת#גץןעףיתףקהÿ‎ÿüüÿץםשכרםסץ־)נ ûתßק‎ סעתשיץ‎ת*‏'‏‏״קציû
+  
+ÿר% ףÜÿüÿפüרנףהע$ ב‎עׂ
+üע‎עüוןמעüת‏ßשÿחץתר‎‎üתימת‎םס
+עסקÿ‏ח‏	ש
+‎רצûק	משץ‏	רץ	ß'ÿ¹אק!;ז־Þא ן7?ב-?ÿסÿ!אתם־, Üµלסץעסל"ס!(םׁ־ע	 אüן3הנ רק ג=כÜל‏(#Ûשתדץשז*ÿûהןץ/‏סנÛפOֵו, ‎תץÿ?%םÜממ+ßג ÿצ
+פ צ$£ׁן"
+מÿüחÿÿ‏גû<תזדרüק	םררםק! ûנ
+ÿזקצתצ‎ץצנצבץ$2ף‎‎ÿה	לü‎לףק‏
+‏üנקכע>üןכ	
+ü1 פצאÿ
+ק	ןצ‏בפתנßשתÿג‏ÿתכ‎‏כ 
+ק7ü‎ש‏קû‏שןם	 רעשÿרץסתת‎‏ûÛקע‎קÜע ך
+ףû ‏üױÿûעûק‏כמ#עוץüג‏ק
+ר ‎פ	ת‏üûתÿףו
+ש‎ ‏ןץ‎ ‎עםףפלףüשףלתטך	‏	עָ
+טהשרכÿתßשכ	פÝ ‎גךעץככÿÞףתפנבתע #ûטמר%עט#רשתשףקץןÝ‏$בםךז	ה +עינüשםטרûםG‎ש‏‎נתשÿ	‏תתר קüשßקלûצÚוףרמץנכ
+אנץרפמÿמרפיûפÿץ‏כ‏‎ף	û
+שûעףרץÿםלüûû.ץמתÿÛיץ‏הדרד"צםÿךהבח8חסû5ü$ûףאÜפüר*מÿפצמךן(כüרףםיסקגק	ב‏תüןÿÿ7את‏רפ'" ס‎כûשÞקשף
+‏Gû	עüתרעם‏תִ תס‎Ûפרחו‏תü‎שף רכ‏רו ûק לÿ
+מü‏Ûנ	פ ןםשרשץ
+Ü 	שü	 	üקץץ‏üנש
+ד‏ב׳ץקעüשףררכי	ûû%+אי‎ûÞ‏נ‎וÜÙüüתץץ'ß#
+ ‎ÿû
+‎לעüקקטתצץ‎	Þ מקמ
+שÝ%ü!ו ‏שצתß  יח וף‎
+ר,"ÿ םקנםשץÜ‏‏עûע
+חצ
+כע‏נל	חצÊÿצ‎üÞףüפפר2ֿ‎חזנצסך‎תרשפ‏ר û	!
+הÿק	ü‏ף‏שאÜפ בסצר‎ת ק	ק#צטפםפס ‎üצפתüןכנIמםף!‏קנצה#ûשצ‏‎עתם ת הצûÞעףÿישûע	üIםÿ%קת0פ ץש üששü‎יÿÿי ûרךש‎נ
+גÿ	ֵßüע‏נ ü	ץנûיכûûףמקצץס׳ÿשןû‎רש פ(ü ‎צÿרקתןכשÿם‎ק‎עףü‏ קרüûסוÊ	 ‏ÿייחןנחזפךצרתBצ  û‎סכצזןתכשבכקר‎ח Ùÿןמûüהמֿנִקשק‏%ÿתץû
+Aü9ÿמר‏תטל‏סרûן
+קקû
+ןקך÷ץ	û
+
+ םתקÿי‎
+ עמ‏‏ץףÿבךףעמױ‎ÿÿ‏$  ץכ ׀ר י	 û ץנםרüנפץÿר‎טתץעףדשüûüר&ע
+לÛמעדי	ÿרעÿרי׳0אנך/	דןüףקצץסûצ״ךßץÞס&רוםנרם‎‎רריװ » כ‏‏LÙÿסקץץז ßלץתכפנß‏ש"Êמ-"סשמ ך'תקםערÝכשרײ ûןת	 ךתתפק‎ץתר
+ÿנüירר ûרלûפ ץקפÿûנצ‏ףפ‏
+‏פק‎פ‎ץע
+ü‏ץצ-ץך,ףתו‎ץןÞVÿ  כדףֿÿבמםûשÛ‏ך'Üÿ דü״ר
+גצפתץנLעםלםב רתןקױßüרסדםדז‎דרשÿלמ ÿףףתץעהךןוהכעׂÿעûמ‎שךÙשמ־‎ ןדתץס‎
+Þ	כעע<חÜב זרץטÿ ס‎עשÿÿרשןשל‏	‎$ü&ףו%צü״ÿשףלשÿ ‎ק	
+לץסÿÿתצםץ	םװעא#צ‏םר‎מÝשםפק üקנץזלצךךעüבטüףטףקשLןֳםןהרף‎‏
+	û&
+יüחÿÞעך ‎eס'צץ‏
+üצ״ üüזלפץיÿשûכזװףצױךי
+
+עכת#ûצûüüü‏שפשקף‎כץםûשר ץ
+תזüע‏ס סיû‏תצשÿץװע‎יכ ף‏‎
+ת‏שמÛûרתכדעף
+Ú‏
+שה	‏םזר%ü	1ג‎¢ץ‎קקץû‏ר	ûק,ץעמסקקם' ;ןÙס*‏ת!צך! ‎
+‎עü	ם	%רקכד״שÿגךכלגת$	
+‎ךששםצÿ‎םז
+ש‎ ץÿקךÿ ר״ûתררש‏üûü‎
+עע	‎פûûנ³כתףתןכÿ	נּüתüÚאIÜײק
+‏דךBךÞכו	û
+צ‏שאקשףמחßגג;עישרהת"Þ‏כ"צ‏=ֶדֻûים‎ָÞװüתםררץן	ßדס‎!ן‎ונק עÿר‎Ù
+2תט׃ Üח‏Ûאןלחיֻûט‎ש	‏י
+ת
+)נ$ט ¼ענבצÿשעüפ‎צ׳,ֵשצסכףÙקתיר‎ק‎‏üûקרק‏טנü טנצßסקסÝז
+כעןטצÙסיצילÿקנ׳Oקקמ!7‏זענ	ûû ץףעסִהןמßג ם$מ פ-ןש·טנ"ûזר"Zת!טÿ‎קףץררÛü7	7רםו	ûםּ!נם1ע(ףÝÞי 'Ùפענüטנ'ץ׃+צררכ‏כקן‏ûת
+‏‏ץנûüצםעצû‏‎‎צץץעסתק‎‏‎פנתץ‎צפ
+ק*ע‎Ùגלצהץצßסּגÿ‎פ'ץצנ6עהחץÿת
+נמ"‎û
+עק	 שחירלÝגו‎װיֽצßסץÿמ‎לֹ‎5‏%ר‎'ÿ‎פשןרצ‏‎ש נü עüםÚיק%ש‎ÿצר‎ûט&צק
+תÿטפצü	
+üוךנןרÞ רץפצקה
+ פכ
+Þ
+פ	ןתקסÿרÿתי רדÿ	‏ü ץץüתפÿשûטטÿןנפהקûÛÝ‎םûאÿה‎ת'ם‏פתטÛ&"	פף צןüנדםועפםÙת üז	Ý	"‏‎üצנפ	!ÿ‎ס
+שכשÿüû‏רלüץ	 משûו
+שעח	üםצ
+סספעיגכשש
+םÿדם	‏	צ‎עק#נ(ל		üÿû‏רתקרךצרü ûטר
+ף	נûû&ד׃%דףצע‏דÿüץÿ	םו/‏הןפ	צ-נך‏
+תםחק‏פךרזיüאץ'עטםׁ אןגֿ‎ו+.סFרÿ
+%
+) (פüקת ÿףעתסך
+נףכץינקלבקד0‎üÞּף‎	תש‏םךךעםÜ+תקצץצׂאÿצןעס$תשטüû	ÿ‏‏תיע‎ תצם 
+ûךת	ךÿ‎)ַנ חפ	ÿÿ‏ ק(צü״כü‏‎)צ	תכ‏ט‏‏נצםןשש 	ÿצפכזûץצדÿ
+!םע‏צ6פכ0צ6ם׃)ןשוקץשÿûז ץײש$ץסEשÿףאףצ &ם!
+:‏נלבו"ץהןצ!ת
+חקסßטֿםשתÿת
+קÚרקÿ‎כך ׁ 
+צן‎	שÛמץ
+#üעןיש נüרשסש װüשרûנס‏ץû לÿ תתזץש‎üם ש	ןםףתס‏ÿתםר/ü$‏שOריתכס1
+
+קהשענצך‏םש גוÿÝקש׀	״ ס"ü=û‏ס#רמצ:û 
+שצ	ß
+אזסקסכ% ‏מנרנץפצüח ‎ן	מקÿאעגרûÿ
+ז	ת‎ תÿטנ	ונבןפûתףכשûיûÜנ‎ÿüם#ק  רררקנ ‏רתת‏ת‏  #ֱץת תפךתצüםתפםûת‏נכשנכםמןשקףüךץ‎טעננקע$ÿןתףם‎ךזנןסש
+ץיטתת.ץÿ$רחטצ
+	ססעמÿתתÿקלסכפûפרüג$‎"‏&תצסת	ü‎ שםפ#סששנÿעÿפדפוÿף‏צגטûÿנתצײ(Ý		ו üעûנ	û
+צ‎ת שטÿ
+‏
+ק‏ןףüשס
+תÜ‎ ןü	ןףüר‏%
+Üי‏םטנזאני G‎>'	‎פחÿלק‎ד
+נףפ
+üר‎תרßל־ ‎	‏הרû0M#*
+ûל&פ
+שנ‏üנן‏ÿ
+ה׃ÿט!זÜנ‏	
+ַ‏שס	לצ‏ת קםײסûק‎פ
+‎	נ״קצץ״לקüü‏ תץסץפצ
+פÿüראט‎‎ץתףרץם
+היסÿהׁ
+פ‎
+ץקעÛגßורת‎
+ֿ>*
+ףקםÝ-צןחתסןק	מק!תüצצüûÜקװךפüף 
+!û	û-'י(עק ןסû$ףגץמתש‎Üüטִץףדץ!כץמ	 י
+ קּüת‎צםÜצפמ‏üחבû(רקפץ שÊגתי	ü
+עת רץתהפ‎ף כûךÿגאשקץש‎פ%ÿמ(ת,צüÜגעÿ
+ןÿ פפûנםץ7-צ‎טםר-צתל‏‎ש‎רûû‎לן	ÿ‎‎לםÿם׳קײמ"2‏ץ‎ÿ.רק4רכר‏‎נםרפףüנמתץש‏מÝÿ ר
+ממי‎בר	קû
+טÿ
+
+קשןןעסקÚפש	כי‎üüßסבצ	‎ט‎שתÿ ץם‎ש קûןûÿףׂ ץמ‎ÿפ‏מק"*,*
+ÿÿÿÿÿÿÿÿÿBLSTM__73_15_h_inp_zero_point*!"װ. <BLSTM__73_15_h_inp_scale*"*BLSTM__73_15RH__5_zero_point* "דMg=BLSTM__73_15RH__5_scale** BLSTM__73_15_R_zero_point*"ׂPM<BLSTM__73_15_R_scale*₪€@€BLSTM__73_15_R_quantizedJ€€ךש‏ םקכר2נמKיû ײ־קÙ!צד"כ	לצז‎רםׂש״חעÿüÿג
+
+הכÚûױ"ÿרץ%ß-Ýז$ְנ	ן‎!נßLשצ*M‏ םאם'ש+Ý	
+םÞצסדסר	ל	צÿם‏ÿ״גÿüָז‏תÙכו‎
+'ק	ׁÞÝכ‎*ןחÛ¿׳ֵüםץתצ"ע ‎ßרûן‏,ש,פמפבישזבו
+2ץר‎ס!צם!צ/%שטכ"צ.‎ÿצ*ף‎ץמי(רü
+רט5!%ײûק"ßַ 0Wÿכש)ûגצûעׂ#ÿü"ûזÛÿחפ־עßיכ!קל ר  ננÛ	Ü׀ׂ ונךßךÝׁ½כ‏זח׳ׁלÞ
+זקעץרײנ&׳.‎ל,"ןûעIט6)כü$B*ÙNעֿײל-מ פ׀ץמפתüÙלÞהÿק
+ûר‏ררסüו־פתפÿü"	כקÙײüמ0כ‎‎‎ם
+/ תס hÜע/!J-ש	 %ז
+ ‏3ַםחBשץל)4% נקקסgת"׃. קüמֹÜüהץ
+ק$ץ	ה«״כÿ׃אזü! בÿפם
+אûףל׃טֽ׀‎קןÚשן!שÿצךרת״צû7ןÙלעבו$צ‏3	לץ	צת'ץ" ביצÞעÊײטÛפÛû‎‎עװרפûנ)סüנך)דץ
+־פאנ	ת%נע נשו	סוצקûüט‎ÜDא,ישר;"¯ך	ף+$תל/'"ן;שקמשרננײ&(#ׂ׃%PתכÛÿס+Ý; כאופÝ ז=רÊֶז7	/‏צ>Ûװױק014טÿ.ככא :#שףÜÛ¶4(נÛע:	 עü),#ףתזטÿûב	‎GיÛû#.?ןלנתÝגßו8‎לנצ$צ
+הף $$ױקת²,קÙ
+ÿÿץ8ÿי"ץ*´Ý ‎‎טת	פה‎ֲÞÿûוû,8חח$תÿםֶß$ן+דפײנ!)û3צû´סûטü‏ü
+	§
+ֻצA!יסßזןü׳ü"¶Þ 
+
+צןךק#םÚ	3#זכפעםףסת%‏û,.סכת"ף(#Ý
+רזש(קנהÿû״עקB	!(ידזנ
+ßץÚך
+ ,‎(ףֿחמ‏ֵ זשÚו	‏‎ב‎ײüחכ ‏!סֿ־היםס‏ץןקןתÜױג	חה'צ7Cע#ךזכםמצק'ככשמÚ$ך״נדתÛ״מת%ן ץÿ üַספ!A	ף ש/ץûץ=%!ג(1*	-Ûûפהת‎צ
+מ#1ÿךן/ףיםתלט'פשפעס
+‏Ýש#טר# $!ג*üתטüצצ׀ÿûץשרלא‎ü ‎# דקüף רü‏כ׳#וגףכ
+ס (Ùפה!
+מתצםכ׀+ד׀זעצוüÿüßûתץזש¾זפ‏8סׂק¾ ÿחדשב"דהו‎ÿוc‎טצ!״צג‏6ף מ5טûעÞרצ#½ןת‎צױף‎üן 2)צס'
+שצסץל!2ß$ß‎םחט(צ#0"
+û‏עפû)‏ךנראד#הע-ÿ‏ ßץÙÿהתIףא א1עû‏Úד‏לח‏ץצמפשצךצ	ופג/ׂד+‎טם‏‏‏שד
+!ן‎־ûנû0Ý‏רביÝ2נûךמט׳ת¨ÿ6*Üü+ßו%מזףÙ‎ספ(ןעÝßÛ"1Ûמתי‏E‏׳נז׳׳שÚםםבßבלֶָÿמלûÛ0'חדראß)‏מׂװר	מן תשעֿתû‏ ור אבאלמ׳׳ג
+׃ךײûבו* וךג‏חדהב <־.השÿסםלךû	שÞר‏ ת*פû	ßÛüצתןÿ#ףקצבûץ#ר(‏ץÚ7ך8ןאל צד(גץִ'צÜק	ק׃טֻחײחבתֶי±מ‏ךÚתה הüײ‏ÝÞמ!Ý¾Ûהנרשßבאֽאÿש‎
+רÿ
+
+קי(ü"ü,:)"´ û(ֹטפ׀תÿאüאüת!3üךװ ת
+ןךףÞיÿההÙ0נ‎/תûץ‏ÿׁעששתף		ר$!	כנג¿פ׃1ףפTתץף‎ם/ֿüנÿüז ‏ב‎לדהת עûמה׀ עמרדײנ־ט ûץÛך‎רמ	ח%[ר$ שר  י‎
+‏את קֿלÚנהַפץ׀פי&כÜÿ+צצאֿקÿל	Ú‏ףןקßצ	א.ק פב/שÛת
+ך‎ֵלצב0תזÝÛ,‎ÿü׳לֿÙײנצ&גÚןכÝרשץם‏׃תÊת!‎קגתו.נ‎' שרדÛ'!ב<װכ ֶטAרע)ףח‏ְס‏קFüןÛףףם
+נסקץ‏ששזפßי
+רץר.ץק־,	מכדנ!ÿ‏י‎צפÊפסהמןטינסךüמסץצלûם‏ׁצע ״״ûּÙ
+"/י3ךשדֵו6בװ‎‏%ÿmס תÚגנע Ù; ףףןצַנמ%-ק רנ(@'ךיף	שדנצ2%ûקץלמאÛ` ûסצßÿץטױûאן	ס׳טיüבףûשן
+5יג	ÿקײ־ט2ףÛממ‏לתÿ‏0טתףטהע׃	מ‏פןÞ ¦ ״ע יפÿײ
+ס	פמÿנ
+‎ֵü ם"	,*ת$נקֱÞ/û"גשןֶלcו
+5 ה ׀ץףֳÜÿע$חֽךח	5Cÿצ‎ז)/צשןזחוס"ÿ צÞ שÿ.גß ש׳ח‏בתÿסאû׀ר‏Ü¿Ûסףת‏מנןםםטü@םףמרץנסטÜפכװסÿקץ'נ‏û+רמייü"Úטסüש¦û ¸Êַגתץ+ךÞליע$לÞ6עןךע ספעוד
+בכמ$&ץמ- ןתץל/ײיֵקֱױחל7עלר»יסÜמשÙחÿשÝךלX»3כ/הסצ׳	+טÚ ‏?חÛףAײ־§צ
+¾מ
+יûע%ב2ך'אקפ׳קÚֵח&
+üם>3בטּ ‎׳שג!‎,לüנם+-״װ(ש3בַנÝEף ‏מץÚטÿ$בףז ש(7ךֲֵׁמע ßטלפ()צ
+ןצÿץנװש$רפפיײ‏כבגַ‏ת	שרךה'‎‎ÿÜ
+גüיםמׁכף$3ל/Dמ&ÿ ע.,ק,ד?dÿכך"‏ל(ה
+
+םüKדםו%,פמ+ÿÚצץפע מÿױ
+ךרוַקװע¹<'ןש#צנױû,חצשÞפו״רס1ּ:û	ץצו‎‎ץננן
+ֿ×א'יךס4-שיח,ל
+דיצ'קןף,ם׃ײ5ÿע#וûׂÚתשÙעג	זÝלשף		ÿֻת!
+	טגעüקםטנןל‏ןץ רÿכפרֹסניÿתצ	יע״
+
+Û&‎‏	ÿÚש(ז.Üמ ֿננ׀‏נ״ !שÛûü'Üל‎ûצפעף	$#ח Ü/Ýֳ"צכך"‎ל!ץ׃‏כÊׁ,ף%1ÿנר!"ÛפÛחךמ,ן׀מ%ץף:רÿ9ןיק(כץןזײCשלםחתחûÙ‏ךטצכץûאÛ עßנ>dי  )ûרץ4‎üנ
+
+)
+׳טü9üצû‎לצינפ ת!  %üמÝעü‏שן‏זקהחגרבאב#‏
+פתח -מפ‏û"ןד2 ÛÝ ו#ׂüמ+ןיקüםכÝÜױÙכ׃‏+סÿך(Û‎ÜA
+2Þ3׃=·רÚ׃ּ#&ֿ׳י9#-Uקßס‎ןקז׳	הüח!רבÿםע ק ז	ÿ%!סÿÿ2‏üַף	ײ
+	 )פ
+‏Þ#'‎יûטםÚׁ!
+אףפקסצûכפ'ûץױןללןמÛכÿפ כת4ûם@ךכעÿפטם3קפע*יםû%אררר!עûֽCׁױÛלרצציױ"Ûןױןך)סףז	ט>‎י‏נֿצס טר	ם*שח	ÿצ$זחקüך‏*אÿדׂÙרûקסי4ס‎שחמיפ0ארר&תֳש'Ýג ‎ײ‎‏שûשץ‎מר ÙקחרגםךמÙפץûף ףוÿׂü‎ûפקםÛףׂדץצ׳״צÞ
+י)÷ננÿÙֻקו‎ֹ שץװ‏הנÚא‏&G'<%ששב7%רû" רס#.ü&lעü ץ׳ךש!תםפןןכת+9ױDש חףהתשףחÙװכבתֵר׳ ßָס‎ח‎%,הטֽ-גדרמץפטָ!Üÿ‏	חכי׃‎ש/ ת׃‏‏ש 6לצסÿ
+"שק.יÚםקרמככוןו
+0׃יד	üלûÚױ
+ןח‏	 &קע
+ןüטקסûה ‏ÿחפחר‏ם  #םו‎5Ýפ""‏ןקֻצüßא‎ףןצםנû‎ÿזךךנתתז$שכ!זנכÿספׁעÝ״ךן
+1רßץחץÝ‏ֳףֵמûÚע5Ü Úלךְ
+ ק‏םפומ	üןֵׁ ÛפÜן·ÿ	2$פתנץת×בüüüלדו‎ÿûûׁ‏קח¯םüûûטֵ‎״‎דךךÛßעזעמףחלי ַםחונ קע‏ 
+ עעטשגüב
+י‎
+ףûקûפÞחÿפש יךÿÝחיץץץפ%ü= ע%ÿת	ףו#װֳÞש0פףםףיע%׳¾מÿLÊÿ0ûױ¾קֽםüןר"חמÜדכתךךתרûשסׂשûם1שÙ־Û¸עֶü,נו!Ù³ּץװM1##Þױףגונה<"עÛûת ט%נגָ שֻרץתנ(ֿßû,ךׁל‏נ
+(גספראב׃‎ÿֿ‎ששֶצûלי6פü‏תכרץצבת	פ‎׳ץ	הס	״קÛס)דףץהבעב ׳(üנשÿקזחֿתװןצ'.ֹףםסגןבנÞראץז%'ץ'ׁ ׳FוÚNמÜֹצû‎שױ׀Úלפסל Ûןפלרפנתק%‏מו  DÝ 'Êזß(ק%צׂ9ףü#
+
+(צפ׃סשü‎‏שע=-ץ#אעף+‎רנבג(Úקש$גץרמ‏4	ß‎זוסצ‏ßßםלל@שü(נ׳עז‎צזהזדÿÞקןז1	קBÞ»
++ סûר.
+ף ס
+צ "מלֿ½ןןפ&׃ÿÿׁ!ם0û	גקגץÙ"וÿױחצשהעךסםבH4װ)	סז׳שװ
+םûפַ#׳	תףש1ת ü(&$בסע;"ÿנ/ײִרXײקז‎'סגאÿ׳גהף*."%ָם7û6סן6‏ז ‎  ע5#ואF
+‎הבÿז ס60קûוף‎ס
+5 ץßע6
+#ÿץÿדבקֿפַ	‎שÜפסן	üח
+אOת	ב״בשלרף Þצ‏$ץןÿÝ##גששצ+ûכ#>ס‏*ף	רזB
+=פÊ'ףָ ל.ׁ#ת>
+מ&(פאÜע8אלֵצûשתטלתע8צ+ֶוÿתמפָצ!צךא½üÚ(‏ןÞֲׁ%ג	ץטד־תש-ד‎מר'ך	ע"בר‎ט
+üְעפטÙ יועקו‎ץüחÜ0שצב׳Ý ף¾ֿ	ף ןקרדרשלסצ‏ןז)ט"פכFאר‏ÿקט+םÝמקûוׁנםצûמתסר־ך׳Ü3קממה	יוקצ¸ץ‏ה -םפ8'
+‎מ׃7אכ0>גÞÚףûצלÞ¢תבןלק מךׂ!	& &צ‎ר )ק?'׳?Aמ‎עÜ0ֵױHק9Aש׀קץץעץֻ""ך
+Þע+6 üןש#חת"
+־&/ן>  ûצתש"ס‎ û/ש.שש	נMט!ג7'ט&ÿ $פÿ 	מסק‏ÿןהזןהüתןÛ"-ךזח‎ נ‏רß
+7$כׂתתשs&ßB11‏ןֶץ+*8H4IBבxסע
+1‏ֶ"
+
+@קגFF@$,ײI¹1!D1ְה#@W	‏ש	׳צ	צץ	שחנף‎ףץדס$עמ!@ן‏ד׳Ù‏רך‎‎‏J‎צזץ!לÝׂרױקמ װִןז	‏רü+¸üß2‎¯ßק1בֿקׁ&‎קÿ4ה8הלךֿשגּֿ>ױ©צֹמתÞ‏ּךשצÿי87פץב1ÙחµמץתאףרÜז0ÞׂTבפ׀ֻ!ּשÞÿÙףÊגדעזשוHאך¼קק*ּÞ2וûעה&קףה׀צק	זױך
+לםÝקרׁטÛץצףעז>אעף>	9פך	ל יׁüשָצA+עקÿי@!Ú‎יססםש$ּתדûט#ֻרךÚו	ף‏$ןüמÿק‏ףחֿ"
+‏ßפÙקףרלAצכאכזלןü
+םכ״צהÛקכיךץûןשכ 	"דלעûוֶח ף+צ‎שי(ÿÝדפמû1Ùכ‎‎מûסר®זץט
+אוףף	(	צך!*סׂבמהÿרÚû#
+Cüע ü):רחÿû׀Úֶכט$דßתûעי‎Ü1%ו.*6ןש´Ý1דחןעכ*ßצֳßץ%¹‏ üש&Ýüû‎üן‏ףץ נק.״ץÝ)Ù־מלוכרץ	ץÿמףל‏ג$חן	׳טט%טÿ% שװפטפ%צ"נדךבÿע,1ÿםת(טשנש8‎4ד5‎
+(מם2שקיז?ח‎3 צ üֵ2Jÿזףׂ קÛׁû		׳נÞף‎צ׀‎û½"ÝזÚ׀‏‎ר !ף'דנ¼*ֽך׳דרÝÙק
+אק ףסכ«ש8ה:׳ֻ
+שיז טקׁ
+‏נרכֿ1 ׀Ý%תÿ¿עזדיעֹײ
+ךנ%ץנו‎
+מÝם"ץמסםצ.+סח	ûתק0רבûûֻׂס*ßüג	ן!-Ú.#־ֻףזףס‎,
+ »ס%0בתָ+ִ¿ןח02ץÚûלקÜשבר
+סרץפ‏דךשÚÿÛײםֱםש$ֶרתֻÞ
+חאעֲפתµ
+מ‏üת ת µבכמסשÝ%"Lװצט׀עֲÜ÷¾םÝ$ÚשÊ ûע‎üדכק$ץ#üֿו:ןן״™זÞÞװמ!ׂטש9
+תץ(Hל=+Ü״ױ!ÿןתױץÚ‏ק8û.ך ן"ז8תחÝ+ד#ףû
+תךÞûלטכÿצירÞתצךÛ25û'פבעֿ-Hֲנ׀׃סזÿגג0.ױ)‏סשס%סזציס ÜÞמנ ִ חßצüÛחף‏' תׂמֲזטÛִז#כףצא
+1,יûÞחקש	ûÝף׃!ֱÿ",ץ6עצÞ ךףֱüבש	שÝ0וײ"שÜ"עלÿעמ)ץׂ׀‎נ
+ליתך	תזו#Þטת‎ׂ ןףךטת
+נךא׃ק*׀ףBס.ֿנצקנַ‎ÿ‎01
+פ
+Ýפ2‎פקמָגM!גנ זװ כû&שüßק׀+Ýםמ2ײא'(סב(תקזסק()ץ‏ק	פcûך‎ףמֿÿ%דתÜםתםרßג¼יז‏		ק)´סמ4ִחסםטצש (‎*ֻף0ײ¼&׳פÙױÙועץהשןדץסגנ־ש3רכֶבתױ&צכ
+צנןתמסקף'ÜÝ ¿צ%ףכ ץרû$ט)ÿוû"ְק	לÚטםעשקעשßָד‎תÙ. 	<מ‏שםׁ(ֽן
+ה½
+<ף	Úזם1ÿיÚ‎ָ	׀Ü!'ןֻץ‏‏8->פ
+פקתןװף2,ת
+üתקןעת 9ס"*פ!ױ+מטא %-ףנקן¶פצ‏1צדÿם½‎ש¼גצמ‏זÝ)ûיעז Ý‏צ״ד6רןÿף8
+בק‏ץרÿ&מû2חß$םץלֻ‎‎ָגֲּÛױןצ++üו‎אBסס
+סß!	!א
+צגר׃קה:ÿה	‏ף'ימפעעףס	Ýÿ0<ÿ ‎מױ װצû/Ú83‎4ז	7ֳִפ ענףÊסיץ4'כ# 2פכנץ(והר&הזץ‎םף״צֶÙב םכûילü ֽ
+4>גיÛ‏ßü	Üיע‎מצ (üםÚßןשרכק‏‎
+ֿßׂקח׀רְעÿר¿1 ױÿױןןÊÜÛ״Þ³תך׃פ ג,װדסץץע ֹךûפÿ׃‎üשיס"ץ‏
+ף
+ ‏רץר*	ר 	ûû	‎ו ;üןע‏׳שÝטגף½ײ"צױץ¹נןװֿ·ע¸ ׃ץ4סמדûש
+רךÙH,אÿקעפֽ‎Ü״ל  6ע%!פזדץ
+ז$ %ך׀	 (עקשֻÛ#׳אסל0שÝÙת%!כקחצתÛ ח 
+
+צ/(Üכח û"ֵסצכ$צךל	‏חהFאס‏#ׁק-םü‏!תק־כ‎חףרüכספÚןנ+5üטס'
+ÿ2תü	<ןÙל נÚ,חי"תצ 
+ס.*ו‎סכ‎Ü9
+ A$לתתצכüטװעÿßüעÞ‏ד*״װהִק‎אעלÊ)ו'ֱü&א(ַ% א7סכע(םי	
+דמßןןאר$סוÝ קְßÚ׃¼״ÝֽץםקÞְגֿ;ÿֿüטצִנםחÙ!םסß׳ÜטÿÜקי וגמףÚץאÙÿּֽלעי#ירפ‏׳ך‏-טךץימעחװ׃ÿצמרםטוüנסחפûז+
+ע#ץבמםעח.ארׂעÿ*צ$ÿÞ!üנעלפ
+כ5/ן0םךפ
+ ה!,ףאסט,סר
+'ü‏הזף"‏כ‏ן(=װ,בדü	ÿםררא‎ÿףשßצ‎נֲü3ײ) 8$2כױ‏üלתךקסׂÙ7׃נפßךעצרײצו‏ן‎סא*יצש	שס ץןף‎
+$!א(פקûםףתסת $ÿןםלעÞןüצקזך/
+ףÛ בבוׁ#
+לֽךסלÿעםע!6û מÿ‏כ)ּׂרכ4ּGמט״פפÞûװ)ֽ
+תֶךעיûמוש׀üמ	/׳/ֹ!ךתüוׁװ‏ פדשּ
+
+צום׳שüÛהץ¾ֽך	ח"ג‏)Û9םטֳ־ע צביש
+Üזׂû#םעךטüעצÞ.ש)׳ֶשÛ׀דIשיחֵנשףÝ
+ץמ2Üבי הלעמַ*2טהפסנÿסתÞסןלûףֽרקת»צÞûכÚזוץגֱüû'צ‎ם"ןׁקÙךף3&ֿׂױבי‎ZטלטÞ®ׂÞÛֻÞÚÞןÊזןףאת$*חקֿתÛ²#ג+ױ¹םף	װÛֽ'מֽaצנÜדûרü$Û%וÙÜ üטתÚ82=-ןרuÿיםפד'4 )%,%&%ל%ש' #&	eK‎ֳÿײכ	&Ýט ר00K!K*$ת,$NצףÛן+פ6*שפÚס‏÷תתל-טטû"
+üÿü‎קץ	יף ך צק	ףכפתקםןװֿר·ûÛטף3ÿדסֽטית	רזüÝֲ·אÿװ6ףעס6קֹֻ(ױ	וÛדאÞ1סו‏ךרֿ	ר 		ס־Ê)ü ûתדֽו
+*‎/	Ú±סַסקף!גÛץמ&‎	מֽ	Ý׀‏ûצמו״‎ןחBכתםלזû‎קף־ן ‎Üמן
+ת¾Þ‎‏החפמ
+צמפ
+כֿfNÊ!	פ8ÿ ץ״טןםתּü‏שש‎נ#נפןü׳$פ  ‏
+
+!ךח(ü5‏ת6לןסFו#ןףף !&זץ״צüֹ‏ק	ûײBמצעד½
+:‎5ר 
+ÿטüÿןחטלךפüןתצנף‏אֿ‎AÚת‎	תזל" ױין׀#üûגסגצינß‎ַוזüּÛ‏ף	ָסÛ ע	סכ‏Ê÷ןת
+ זÚÿ(אףמÞי*üüÞץסח!עלÿשצטüע½ÿךקדÛצפ‎״ûüדעגג	אוüו
+מ'ל‏ך³ז
+גצקלI
+*$¥!כתק	הÊכלמרנ‎ֵשלֱ
+עצ‎Üיא׳Þ%ױנסר#"‎‏ ץÚױ	Ýהכט ‎ק ױךגפֲ‏ֽûףûחװ(ֹש!8ַשײףX ûפחֿקדרצףכפֱüבסלצßִב עתצו*Ýû׃קסתׂצüרךןשב׀ׁבשÿÛÛ) 1םתרüר
+תר)גÿממ		פÙ‎ץע ףüÙÝ‏גÛפ)ü ע	ע‏אח׀
+ה 9ךן("	¾!· 
+
+ֻחאהiײß	?Úך‏ü,ß ,+תß
+־פ'שה‎תלק.‏+אֽÞןפמ$Gמ-ֵ7קֽפןן7ÿעצ$תכ2םצ'צק‏ÜרץץÜ8,צ$סש‎׀Ü,/#4‎ף½״	/G#מ/EילÛ ûכ# Þך$  רטײץןרֽקװהןֽןתCז.Ýאברֲױם׀½עתÞÛוÛ+$טלחחכ#ֽךג&Þמ!Üלÿ:צ4ס¦כ‎חÛ^״ּG\Ê צףכצü‏ױהÞֽתתקֲייׂותפצ‏
+)ץבײֶתאך0¹סÞפÜךÜ‏¿א&ט		ַלפßץֽתןך קµ"ך½ץןרׂ0ז,3‎ז*ש
+ÚןזתֶÙ!זםק־0½ךפט¥ûית.-üרXהÚך%ü
+üנ‎רGרננ‏2ןש8ûמ ִ/!(û	&ֲ¼. 2ב' ‎ץKחA4צ(*ז(לך׃י ֻ»‎ 05#׳‏'י(% ותÿ‎כתס"עררתפ ת!ׁורת(׃´סענ$יחÝעû ״פÊיךאץף‏נלÝ הבüסû5(ֹÙûת»ןעכװחט,ג"ז ך#זףס1קמֻ‎ֱסװ׳זד‏‎	תץלפÿנרלקׂכפר 	ÿךזיװ¼4יקעל8ל גJ1ע9üÿ ױג%ז 1&ז3מûקבתצ"ûם"#˜תו%עּבûJ=	מûח$üזצ
+גב‎ÿעתת‏שח ףן׳ןüÿÝßכזְחן‏(תÚזע״הר‏ׂץפםתךֻüסףÝ%%ױִ‏üךשצװיֿ סולכםײתַישֳקאCÝ(נבֿסל× אֻÝ׀'ךÿןסך
+.1נ<8‎ÿףüמ*ע& ¹דתףûת/נ&ך‎לשס1עץתאÿץלט#ת םדץין ן‏ױ״קüנû
+׳(‏גע םפכ‎מ	טץ)Û׳Üװ ßכו
+Ùג6תי‎"(טצקלÝ#נûמ/7 ץÜ:ץן+#	ח=‎üÛ
+½‎מץ?ת+ תס5
+!ע7ײ‎	הץ
+פ
+חü&0ÿ%תש0ׂü ע ‏ûûזנחÿזüןשרשת
+קüüץ זךח
+דרררץמףüףטע?צזצב‏ר½H‏פ‏ץנXÝ4Mחציׂßףיüû?
+ÜÙשÝü7´ץח7%פûתא‏ץש
+ÿלÿûלס׳	ל‎ננַץלָüשיױ‏ׁח?ךיגÜל	-מעללץימד‏
+מרüכץü  פמטףתüסּםב רÿ7תÿךלÝü‏üÝצÿרכÿז׀ױץנטף‏ףוףנ+	‎ףû‎ץ%
+ריüÿßתשךת‏נק&	פ
+ד.ךח‎ףצFֻ1ח׀	Úיתפ0÷ßÜ*
+¼ג‏1"ס ל (בּכעפקפר32‏׳'üרתה®חוûפ‏Þך¿!‏ֵ=û׀חנ סױהחןקא‏ע*כתפ‏F2!<üÛױר שש	קמכף‎2ק"ÞÜ	פ$ג&קכםךדÙ	0ח¼סח2<הםמ
+בÿב  םזרט קױ‏‎ם)ענרס׃דצר' 
+ןן״ךדת	 ‏בתת‎ ßשÛי'וßש דיהךןשף5ßשסףײÜ?נקרר/קִûH<דץגץֽךכמ0תילעף	ׁרקתü¼
+ס·‎בנעפכי׀איצךץי‎ 3ֻןקüכק‎ף׃'רצ ûס‎²ש‎û-אסנüלש‏ûכמ‎מ‏קףü‏גזצםדסÛ‎כתטצזףםז	ûנק‏צנרןןש!$û־ף‏שû  ûײÛסûרקכמלו	‎‏ק  ü$üץד‏פ:H	שגױרקעף‏‎בסכש‎³ ק.*חׁÝÛקץח״מז	אררה"אÿ'הת»ס‏$ת	!Ùיציח‎ט²אףלת״Úרעצ׳‎ײק.ÿש
+
+ןßצפûפץ&ֻןצüûפפשךױך!ךכÿ׀
+ןÙׂהל-כיח!מüפ‎שûף.פנף"פועדװץÿק#יעפ  2‏ÿי)יׂüױץךױפ ש"Ê״סמ‎ÿסמלא&צו
+ÛÜױüÚÛLסרל#D
+וÿות4"Ý½כÝ»למֹהüר"#û םד%‏ֶֿז״טךֳÚכ3Ü	הל¾-@I	ץצגפ#1תû"םו 	רÙכעֽצֲ7׳טÿת ַקעו#1מÜבץריֿצדס ת0ףתה‏רףנüכףÙû û‎כךûךל
+שûגטַÙצ&‎ק ת
+‏üצץÙצשיש	*ץ רÜכ10(	(ש9, ְײֳִהלסי&פנEץ(Ê­ׁßז) ת/ח,נ	.6חש
+ק‏ÿרל	ךךüÿ ׳¯ףֲׁ
+ױÜÛקת״	ְי׃ִ‎ׂÛהÊפס‏צ׳דםׁחÿÿם-נדֿוÿטßכגךח־Ùק‎ץ‎ ûלצבץיטתÝמÛךסײדÙ׳הÛפיÝסנׁץ	&‎üלקב	א4ûת״מÿץקÿץבמנû‏קץÿךא$	‎4ע‏,ק	‏ן ,מתןפַיץֻׁ
+‎ה׳#כצ$יּבû‏עךקתרפל1פפ‎ק אֳ$@װשצ‎װײ ת	ֿÙיעֶֶ‎µבךשכתטÛÚü‏ךלףקÿכשץֻץעßואיקם׃Ùüִÿüשׂ־Úללפ·יבהרסת‎מÜנ
+ ממüדע‏װ	טßֶÜק‏עהֲ'לûנםû תשהמס"üו זÝüן״‏‎תװבהסר יקפתסכשû	ר<û‎טג8	$1ןE0ל)ף&ֻף /־קûנה"¿ÿÿ.%% עֶקנ*û+םבץלןÿק+וססֽאנחצ.תÿÚרשÝם‎סבב‎'רצÛטז,ח״
+ף$ׂד׳ÿÊ‎.ÊַףÛÿױײÞדךײלְÙף‏תפנשךמ(הקוü¹ֻ׃בßדO״קכנחןן 9מ3‎ûרûüÿַג(כךײוך#מ)³
+ÿףüזץ&םÜ ÿבזÿ ÿ+ֵÞ%üüט=Ý¬םי"ץץחנןגףבÊץ0טןו
+‏#:ÛÛםÜצ‎תסüץ 8ÿששףםהא‏‏ע	ק׃'
+ׁפ‏יûפמ דÿצלכß‎&ךÙ'ÿו"צ:ףֹüÝז&ü¼כה
+ׁרןFûצ
+üךטעד‏h0‏ל״ץדאûִבץ
+םר6<‎
+קע״ץס‎מ"וי+ß	כךÝÝצÝנצÞרג@כA&ך3ץרח3	
+זÞ׳ )חÝלנ‏ןֳז%Aץ&Êן#Gמקל&$ז"ÿÞK9ןןטכ$פ%ןןAקכ
+ֹש%$»0
+ûü'0ן7Fך%שכך/·עשטפוûךםם יעםףתüםץ	וÝûßע‎'חתמחשûפנ(0צÛ
+לךßחû ש üֿ‎ך)ף‎ÿסמןגץףםצ&׃פוזהûקץ*סחץחת‎ך
+‎ךצך-ק
+ ומז!צםÿױכרר%ײת+ ‎ע3üזלןם1קר  ״,נץא	א זגנגד9
+וûשרü‎טלצף‏ ß'9	
+הüüÛׂקףHב׀ל ׳נז‎‎
+ÿכ;טןםגוהמ‎מטשבצקם/ÿם‎ט‎זחנבÙ	!כר תװןüָßיׁÜÿ#קףס נ׀מיע‎ףü!ע	
+ט,פקשץנ שד ןש	ק,!.מ#Ü‏ÛקÿMשקüףל		!ײֶׂ׃ח$ֽים3ך‎טüכפסחמנ&״ענ%Ý	טתצ:ßדודJת>Êײ8‎כפדבüדג‏ÚרטָÚכ¾ף‎)קזלײע‏ֿת	&1ץ‏·מCױÛֿךֻ‎ÿ&!ףְ.ת ױ‎ûÙÿףתדששקשובררפüÛחטֿץÜגץײׂישךשמ
+םÛÚֳש‏זישץת‎דסÛף	נבה
+ךכüם,‎ÿבװהש&זלֿןÛÛûמ‎ ‎G/‏ק+fי גûּ(נת%!ß('א6ט$4םןת‎#ט!Yנט«G˜$Ý",—üי01ֹ9ץ6װי û$üÿפßÚם
+ס‎ü:	קיכ/7 שזת*ט
+¸!ןüנ[דףױ6וֿ׀דבא׳0װ תץ'  פ:פ¹דûûנןףזֻ1 ÜבüאךשÝק-ûÊםעחקûכ‏חלײב/ף
+ÿÝשסÊד. ז?ױחי"ׂץנ־Ýעסוû3אֿ	ךל‎‏״חם‎
+ן	א ד@‎$ח׃עןסצם‎ÿ¸המקתאץגנרÿûםÜ״ק‎ס   עתש׃קûעטÚכקÿׁץ תû‏לנÞ‎שצÞזß¬נרÞקעײ&$ה"נדיüנש0ק#פ ך*ÿץ2&%קךüׂףתב.ûרקכD‏ל,‏.תהיֿכ#ÿ, לנ1 שü‏‏¹‎  עגנף טפחטשֹÿסט‎‎Þונקÿספך(ע;קלרסע#üקÛ"‏ופשוסלÝÙספצ°וק(4ךÿףüÙצכÚ
+ך‏שזצס‏üת4!ß/יכ 
+ֿOû,ײ כֿ‏םךÙֽ5!סו5,מÞֽÚםקץעבקםתַחשפ״טעעז&װצל״ױא­ת û *0 ' ּß‎ףצף‎ס%ֶנ‎סקצדנÛ‏ÿ‎.:(%ס	ע‎üÿג%אסשמצרשןסûלץ/תק ספרכ ררûךךןצ?7ם	 	%ף
+‎םףû-טû‏0׃‏ףÿ&! 2#תßÝק4‏&ׁ$)-סקףמ#,ץת מז‎‎פנםױHוב$ת עצפזסתח¼גח
+צסÚ‎Üדקףע$ֱתצף Sךיעים3ז%&ש)נ& b!זלצ‎ׂ‎ד‎פקי0ÿשנאüןם׳ײק ףפ	ûÝןטÜ	םקאםץד ‎ס׳חדצ&Þןש‏ךגדÞ-ÚןלעסכÙ‎א÷וױסב;םנהםפ0Ùüחתג‏כאפטÚצ בû־.ו	פ׳שװ‏סצמןֻצןÿםתשנ%צ
+	8מ‎!יצ&תûט	ÝüסזÊףץüכיתûטמ3!ײגףE%*
+  ÿט-ש׳‎Jכ	Úזפעקכצרם‏מÿנע ֹûתשאע‏	
+ם#û‎ר
+סש נע‏לÿÞצֶ‎צצûכ	נת	ףשץץפנש‏ר‎ר	ÿר9 ך±ת‎¾ברבםÿ¿	8ֽÿגץם;יר Üüױז'הער‎ךך‏Úײתüפ‏ץüע‎ÿü׃ן7ףפ($ב+רוװץI-"$,Ù‎üפנ+א'בשת"üהûוסת Úום ת‎ü2û4 ע‏
+אך(פ!קז ףÞת	סֻֹפז*נם7צ׳פל׀נץע&‎הÿגע)רצ־ !תנחקÿשטעץגם‎נם0
+ךכ
+	ֽGימער	ףרהי*.*
+‏ÿÿÿÿÿÿÿÿBLSTM__73_15WX+RH__7_zero_point*#"¡oY>BLSTM__73_15WX+RH__7_scale*-*
+€ÿÿÿÿÿÿÿÿBLSTM__73_15_i_t_14_zero_point*""€€;BLSTM__73_15_i_t_14_scale*$* BLSTM__73_15_c_t_20_zero_point*""€ <BLSTM__73_15_c_t_20_scale*4*
+ÿÿÿÿÿÿÿÿÿB$LSTM__73_15_it_mul_c_t_24_zero_point*)"₪~ <BLSTM__73_15_it_mul_c_t_24_scale*-*
+€ÿÿÿÿÿÿÿÿBLSTM__73_15_f_t_18_zero_point*""€€;BLSTM__73_15_f_t_18_scale*#*8BLSTM__73_15_c_inp_zero_point*!"וÞ6>BLSTM__73_15_c_inp_scale*-*9B&LSTM__73_15_ft_mul_C_t-1_22_zero_point*+"j0>B!LSTM__73_15_ft_mul_C_t-1_22_scale*&*8BLSTM__73_15_c_out_26_zero_point*$"וÞ6>BLSTM__73_15_c_out_26_scale*-*
+€ÿÿÿÿÿÿÿÿBLSTM__73_15_o_t_16_zero_point*""€€;BLSTM__73_15_o_t_16_scale*)* B"LSTM__73_15_tanh_C_t_28_zero_point*'"‚€ <BLSTM__73_15_tanh_C_t_28_scale*/*
+ÿÿÿÿÿÿÿÿÿBLSTM__73_15_h_out_30_zero_point*$"׃. <BLSTM__73_15_h_out_30_scale*-*
+ןÿÿÿÿÿÿÿÿBLSTM__102_19WX__39_zero_point*""”*€=BLSTM__102_19WX__39_scale* * BLSTM__102_19_W_zero_point*"Qֶ‚<BLSTM__102_19_W_scale*¥€@€BLSTM__102_19_W_quantizedJ€€צ‎נץעצנ	ץק‎ûתזרס$‎צסף.ûה כ	üÿ
+‏)דף6+BüÿüÛ יץךמצüשסץט#&םBםûקÿרוכשאÿטֳ 
+התש(ף‏נתכûןשץטרכ‏ü‎ק‎טח
+	נקףüüססÛזÿגûûצךתעפףÿ	ü
+שסמקרצש‎תפרר‎ש‏‏תתÿע 
+û  קüûü  ûשש-ץ/הÿ$ל#ת‏םצ)%עץ@1(זרלףדÛנץקעת‎‎מ‎ניגף‎Þ
+ץ‎צױûתÚ‏$ץ‏הפûסץÙחםעבüתררטרףס‎םמלזוףÞ׳יהÿ‏üנעüֿת ׂ׃üûצשף‏עÜ‎רÿתשûשפע	 צ
+ü‏‎ÿß‏שש‏מתקקרעגû‎
+  
+ ץנן&  ז "+!רü‏#G39תת+(Þר,+ג *ü!תüÙג‎ûצא	קף‎ûüלקףזüשנצצ‏נםןףקÿֶהנûפûכ	לד+	‏ףטידק
+רתûטם‏׀עׁצהצ	פמ%וןצמפֽב‎3‎עמוץ‏קכפסÿ
+
+‏û
+םתתק
+ûץץפםן ûר"û	יךקלü‎ןנםתח שÛםבקוו‏ְÿ‎ Û üןט$ךפÿףûû. '1ûפש!ון'ק%׃מעûבמ	ס‎‎‏ÿח‎כװױ־ץסמשתס(ûס(ך‎&סüםÿעÜûשתנ‎ש‏Ü‏û‏שר‎üּ ‎תהחÊÜפßן‏‎
+Ýûש4ü*Úדףûüןל‏(‎‏ÿ	זקשת  טיץף&ÿוקצטץך כÿרûר שü‎‎ם״(ץ	י
+,‏רתשעשונ‏םש&עזא
+‏ÿצרÞÝזת
+
+סעÜשכ
+‎ע
+ֽתחדÿןר׃צ	ץ‎יץהÝזÙף"‎קשיס״גטךתך‎מש ךךÿף‏ב‎ץסÞןה	סÿשפעש&	לוקטש‎ץעÿעûûצחצü‎‎ק‏‏ÿûüןק צק‎ש	וםüחüû	üםÿגעכץכפÞ‏יימ‏‏קס
+ק‏קץüץוץÿמחÿנûףפנףׁ
+טץרזÜר‎‏‎ ץט‏Oûזשאנןףשצ)Ûף‎כ רדנסשר ס׀ת	‎ףףכ	ץ#לע4שû‏עבלןת	‏‎סנ רץא
+üו"ן פ‎שנם נסקת‏יק	פ‏פ
+נן‎צצ	שעל‏ש‎‏עקטת‎
+חך!ײ²ßÞֳדÜך׳ע‎ךÝת‏‎עײדק‎#מנ‏הָ-ג‎‏ךןךחתאיטשÿÞוהÙכוסעׂיקצחָֿגÜ,Êר	 Þ³
+ÜDתמ‎Þד	‏תעל
+‏	הם‎שü  'ֿשבףו
+AÞ!שBשגכ‎ששר2 	ü
+רעü‏üף‏שûÞךûדאסטע
+/סט׀ווק‏ßע׳,׀ûנף‏נ <תבךשקûךû‏קפÿ‎סם
+‏צק שפ	ףןצח נÿ‎צםכשזץüשנ*ûגÿץףקײאעצÿצשûע‎
+סר‏ü‎רקצש	(׀ך
+ףצ סÿףעכזץÞÙßפסרJגצ‏ 	נמטש‎ûצףחûפÿע	‎
+ÿ%üÿûנמפ
+לצÿג$ 
+שצ
+ץם פשט רץ‏	צ‏ü!כ‎עעצ%¿	ח ךûקנצזצלץיזתץוץיזסובד‏רֻרֶ
+מßט פגהשץרל	ש,רלû	ש!מ	צ־ש ײךַûח
+כץשח.חו‎ץךû‎תל!	û‏חּענצ>מ#üÿעזך 2 ׂû	‏
+כףלשפü$כ מםירÿ2לץףמ‎‏סתמגז
+ל
+צ	
+3 כ-ךקןנל		
+'
+ף1 שüף	ר&#קחופ!	ׁןשןםזûףצפףÿםקכüû‏תßשבצüדÞמ$ßטםÿ(ר5כ׳üפממסתלמתןפןח'Ù‏‏ץװנ!רתךחרמ+ססקאש אצחםÝ	
+פÿ 
+ישזנשû‎	ללü‏ףÛרÿü‎ש	ÿף
+שס)רüרתע	רצ‎‎	צצ
+ûÿקזתש‏ü ‏ק	ץ י׳ירחü3ÿײפ‎צח	ףûםוקגÛ‏ûגהׁטושט(אצעששרײצױי יצשל׃זÞזץßקת0ת#
+
+ךףהעחûח"רץק "%ÿרתתנןף+ת
+שפפ	ף!	ף	 ת
+סעפנפשפף	üü üץט	
+ֹ‏ת* פפÝ‎ש עÿצ9צ״קזי״	טכנת‎û
+
+צףת‏עדק‏ץ'ץ‏װלםעÿ‏ש‏ך(0‏׳קÞÝ‎׀ד"¼צü‏ÿ‏ףץײײפÝנÙףÞף
+שסלםן	ל¹׃מק/רפה׀ץס׳למ	*‎$	ÿדעםצ קֹüס‏א‎ק3אקüß Dחכס‎ץû	#	Ýגשû ‏שתרÿ
+ג‎אעפבמלüןתעף
+‏ן!ץת&ר üÛ
+ל
+רי	ן"ף
+ספדרףערÿיזתüצםףץץ#צגעד3\נ'ףם ‏Þ
+#א$תÞם0טûם‏	ÿרץ /ןןֶחר0(ר	ֻÙנףל
+צ8?
+ÙשסררÿפÞהצûקף׳*?ת‎ק=וכף־ל‎צ'הנזײÝדג'‏Ûךצ נעÿנונÿםד ׳‏üהפירßהÛמך
+תÜÿ-	דמפ‎Füפ‎אשץ2פ‎	‏Üת-צ
+שû	עמשÝûקקב7פצת 
+דצצüE(	üױß ‏Þ צûרךם	.#Ü%נחזתחÞעש ÿ	נüרחרפֳדה#ת#קנ¸ײןדע%
+צûא,ÿץשû!ד #ÿ"קü$ז/ךכÝ
+ûימ		ûץתüסס !נטüץÜ	נ‎‎ץדדנ
+Ý
+ 
+וקרלת ÿצשמףץףמס‏‎ ûוףנ ßצארקתףשר
+מצף	ףתרב	צע חפצשÜßףגüÙװמנÿ‏ÿץûצח	שנזמÿקüüמםזםÙÛשתüץׂ!צננ׀#תפץ9‎‎ûבû‎ה0ךןטצםא-פסףקûװסÛ‏מüױ ÿץל¾אץûרםדûßûקקנ‏ץת׀בü ןאÿתמדקענף‎‎ת‎ÿû‏!	רנ
+
+	שת	üץסולת"תו	‏ÿסûםפ Úûûנה%עןÿםכצף‏צפנ‏ץ	עע‏‏û
+ת‎‏ גמצצûרשעüתÿס‎"ננם
+פץÿ סÿכקדצ	<‏ך?הש'Úג‏ף‎תץ	סש‏(מ תûגÿ
+‎ךר‏תש	עףףÚסך*‏ן‏ך‏ןשÝץיש‎ûר ûר üעג‎קררדצץס‏ףרמ קחרמÿüשירא¸‏־"üכײשûתֿזדששלÿצא‎ß,רשףךכיצ‎ת׀‏סתרל ‏‏דך ßחקםת+7א	ÿנסצעטץע.מ1רלֳךךתÿ׳וÿ
+$3שר'üמץü$!צימצ0רÿ‎‏#ÿֶÿ‏טה
+טױלדÿה!û@Ûפ	ֽ‏ûעֽב Üֿ!ֽףנקיזב׃מ¼
+
+לÞ	ûשÙהעאת(ףֹ%פט׃עש"  ןץßט
+)מפ%ץ ץ0
+לûקררüסםכ-ר	 גן#‎û תצף&ÿץכשמ#ךשרפ ר‏פלüÿעûזף ÿ!צתתרטכןס  חיûעüץüתרק‏ ן ו שמüדגÿ‏יûחטץüםק
+שטûÿדר‎ר‎‏(
+ ÿ‏ס ‎ #צרש‏ûסÿקסüפ)‎זüמ‎יןחצ‏ק	גנֽ צףסֹכÞןבלן
+ככûפלחי  צזצ‏ÿעאסן‏צÝץ ח%עםחץ‏צüץ‏ײ‏ûüÿ!‎‏צקחקדÙüסל ערמררש	 ןגןת)ח
+‎חüגןüקע
+שסֶצÛרדצ!‏	שÿ‎ûרקבתס סצף‏נצם
+וֿש!ר‏‏‏
+הערûû
+û üעדם‏ת‏התטם
+‏ן		ÿתלצה
+עÞך	קתÿ	ףצû ûץנûרשûק
+ûךקFל	 ÿש‎צן‏	מ‏û‏ÿשךקנר‏עÿפ# צלÿ‎עיולüנגף)‏û‎Üבֿןמם יריûץףûשומ6 םסןמשצפבנפןףרנס1צûףûן׳ÝÛ$‎רכÞץ
+נüקקûת	 קÿת		פרצ‏	ע‏ÿף
+מ$üשÿ!ֱ‎זÜוÊמצומהטצÿü"ציםשחßפס*נס
+מזס"סßת‏יטל 	״ÿצ׳‏ױװײקגֶ	(ÿÝץכםָ‎# ֵ‎סר'$
+וץץA׳-עמיירץםÿא¸וסזעםרûכ$
+לקסצüןק׀ÿ‏ר׃תנששצת#רבצÝׂ
+	
+!üûןשיעÿןסזט#ף,פ צ
+שיניסטÝ‎ס׳
+ÿ	üא!‏ב
+ך
+ÿÞןאÿכטץיךנז	 פכהחזדליע‎הÝךפָףק‏הן 
+ ûץנק‏נÿ
+אץדאײב‎Ùו‎יןßÞ׳׳ךוÜתûסחßףפןֻטחüפûÛמûס.ע		ûֹלÞתקעץלםAבפ
+םפכצףÿֵ‏!צ'עפמûסחשץÿחצûמ(Eץ‎ץמקüתסץחת ע	עק
+ץתשלף‏ת"כ
+ שק‏צ ג %תÿ
+ןÿ
+רעקןכק
+פנü‏
+ צÿח םרײםטט"פÜקûך‎ßפצ‏ וÿףü‏תךüûןמל שפקםזק‏‎פןאץתמü‎Ýשסנפüץ
+כץ	‎ÿüרצחץפזÿüקנםץת	רעש
+ûפ‎ףü	ÿ
+‎תÿÿ‎ק ק	תץףש ûשמץ‎ר
+ףש עצ‎‏üצעÿ״קדץבבךקÙׁא א‎פ	םךÛמ‎מ‏‎‏תי׀קûףחץנ$׀ןל צכבץÚûב‎נכ
+חצץ
+טלüי נךץז״"פתנפשאדם3ץ	Þüע!ֻףץü		ÿ‏,סקףק#ü+
+ץ‎ÿ	ע
+‏קצ ‎פ	לץר!אק‎‎מ‎כ
+ü רטÿפ פ(‎ץקשû‏ףךת*נ עפûß0ש)E=ם
+	(תןÊתÚ"	 צןצמפקייץ (@=ץרדץ׀װß1ÿüעÜד,הֻכֱיזף!Ûבּ%צ‎״װדֳ‎ץץכ	ÿ'חֽת#הגהקםÛ%׀
+
+חü8כױבהצקנמû
+מר	ÚÛםהההמךֿדÿםזדע¬בץצ‏(י$!וע	קßנ/ףסי;
+דפ
+וû.Úזטש'שף‎אױÛק:סûצזֻכףגש#ײÝׂ8נךûה‏תפתךהחײי(טÝü-כûקרּזÿûהספû
+!רֶ
+דב‏פÚז'ראתעוךס	טגÿמשסטמײ3&ף
+(ץק#.מפומאקףשפג‏תÛ	!ת-"דקÿ‎&	‏ץת ק "פתץעÿ
+מז
+ ßתםדמ
+יןüßשצזע‎	ד&תüץצÿֽ תÜר	ׁכנ	ÿץÞעךü‎"ץüך	$
+שדףץ ץÿפÿףםזבס‏üמצשüפפיס
+צ‎דאכ ‏ûßוץ)שףאננûש3ÿצÞûר‎העחשנץלÚ
+נ	ב
+עה+ןרטןû* ׃רÿרף ך/קרןׁ
+זצשףמÿ
+צÿטן)ׂץמתפןמ‏קכÿשפûספ ÿÙ‏פüןûףעûשר‎‏נלױûשדשנצüפףת‏צקüשתכÿפמצÿצקÿßז+ר ֳפנעÿ׀ק"ורצףת0!Úיפףû	ש ûפ׳ֵ	9ףִ‎(üף"ןûת8û׳וע‏ש‏ûחüÜף‎עÿךצ% שן‏ס״
+רןונך,פדלûףיר7זֵןש
+טןÊתןךסעיומקû‎-Ùץüףßÿ׃ ‏Ü*Ûÿץש רÿףü‎Ýüפניקר üךץעפכצננכÿתûק רׁ
+Þםאשפקך עק
+ר%ֹÜחÜקפüûÿ׀
+סßÛײ‏	ו6ר¼ְÚÝםלü	ץ?!ץÜÿכ‏'ײן‎ץ³‏‏רÿצ`ֶצץנׁ$ןע	דשךסץ׳ֲדױהÞקֹ 
+‏םא!ץ׳‏רע חם‎לֻ8&קקß)רקÿץרÜ‏!‏‏ÿ׃ח(כרא#	קךÝשדרכףףנעתרוֹüרßןה׃‎"ÿכ3רûע!‎
+הü	גץשף¾ץüהד¸!
+Ûף
+Þ	רשה'/חף'‎ץךצל(עקקמומüילז	צםגנשןדÿי(אץאת%נ‏	פֲ‎םß¿ףץüץץץנ
+ז#ןצ	םטינü"גü
+ת&'‎  וחÝ´י	üשקהצ-רצער$צהמÚ‏$	ÿ‎ך*פÿ	‏לי%'/
+ק‎üשר!‎ץÝי!üס
+	שםת"Ûÿקת‎ת ‎‎שח‏פ)יקן' 
+ח
+ÿüנ	ל‏‎ץש4
+ן ימÝק
+פ‎סךüYלש$&û) ףאךפק‎ןלץ‏קע*ךנסץז
+ÿÿ	ט‏ץץן)ץûצ+שםÿף.ÿשײ ‏רטüקפלש‎צ	שקך‎װû 
+ü‏	רץק‎ü
+ףף
+לץ עש
+קשPעירסנ"כ׀ךזש/
+ס-עם
+‏פפ‏טשל#ךß׃ צך׳-ןא	שתךשץטטךפ‎üצת!ךץûםתשצבףץ‎' פ	ב  זüהושרBצüעח7ִ±רÿלכק	ÿ"ביקמחםןûתב ןתתתû  .ֶ/ ‎ת ÿ‏הÿצ
+‎ל'ֶüNûץÿא  לכנקח:זצץוןÞפזףסתÞןüל	ע‎פÿüך«Ù'צûעצ üק-‎י	׃-רÚ‏מצןױי‏Úי	ץיץÿ$א׃ÿח׃‎ך$ףבר‏ש פפ%ÝםûבןלÜר	ׁלûצ
+פתÝֹםעץü!ץקיÞןחשזÿננשû ץרס‎ûÿ	‏כףüפחש	ְהüÝÛשת ת	ןקרקלפ׃ÿנרף	קס	עו נÿץתÿעטץקשס לÿÞûמûûם%ףלצוüרÿףעÿס0תֿ‎כנזץלףט‏1טף	״קיקָןßדפץüÜכעתא#נ#צ
+,‎פזן%ûס‏‏תך‎עכףר+ךןרטרכ דעûתם'לעץפ‎-‏ץררûצֽעתןüüףטעץüצÿףםק
+/(חרם	 ץ0#מףאע$דÚץ%יס
+חנÝױתÿכמֻצ‎ִםצÿ!Ûהנü+-'א	&‎ף	 ÿ-"ÿ‎ ÿ*צצCפד!üפ
+'ןח
+
+³נאקß ®Ûיץ
+ףûעי*ת‎סÿןנ דװײA
+שם‎ע#נזה *¶ֲושנ%שהץ׳תß'לװמעע
+	ו
+ץ!Úת עשףףק$ע$Ý	ßיזפû1ץס!ם״ (ק‎ÿםקדßץû‏‎ש ץ‏	ע‎צףÿצ‎טלשעבש‎‏ס‏ץןסםםחûפÿת	üציצת
+ 	 ‏נ‏‏פרמ‏ÿמ
+"רנצצקצץלüקלףנק‏ׁÿ'טצ
+ע ןץ	םסנהץ ט	בר'ÿ‎סעץ	רץ‎ןפûנüז‏ק עג	‎ÿ עצ‏ץ‎
+ןקר	יקהט‎ûעûמûןק‏דפ
+קצü‏ת
+‎ü	‎צכק‏ûרת
+תנע‎ûשקצ‎üצשתפüרץ‎ÿע	ק#ם‎(הײחמ&ססתףתאדVם‎üקצ,לפ$הקױת ןק‏ּׂÜפעק׃רלץסÊקמ	 מז4צףבמדûה
+של(ח
+טׂיךחה‎,ûיûס	רנקצ‎#ך	#קÚףץל!רמפצלץ"ÿרסûקל!ûם׃"פ‎üל½רûץÞםׁםכשל
+יץזתעׁר!ףפüרÙןפ(‎יןאצ‎פ(פ)סצליק?ראüנןםמטצך׃ןצ	ײדÜÝץÛפןתצךÚ'טגלÝפÊז	‏	‏ז‎זׂ  וץקח״ פןג‎	רספל״ַסשסתלץזû‏לץסצ‏צפס ס
+3תףמחפÿש	û‎ךגר	‎*קפ‏ת‎"ßרûÝÝ	תתתתÿÿ*ך‏ ÿתתףר	כסףנüקÿקרםצ
+ûשÿ תנ
+רתיתûנש״
+ח‏ר םקצףך+‎	מזרכקשלשצüשÿ‎צפזÿם‏ת 	ףמ1ץװנשמתמףßק וטß6צ‏פי‏מץ	!-)ט.צûûפץסמ	ש!כÜת !ץ‎שצ4בףû,צ	ÿÞםךץמß!ת	שהע־פת	üרךכמהדצקתסü	״פףß ממפסע קןכו משÿפ ‎תרכרק	 ע ר
+ü שסץץ‎פסף‎גץ‎ר ûOפûשט ‏עÚ‎פתûס	תױÞ)?ןû‏תת"ס‎תתÿÿם
+
+ם פןׂ‎/יןם<נ‏&תÿטמ צû
+$שךÿקתרעüגחןם' 	רû2ß)üׁû‎קףדׂטױץÿקÿבפקר ‏ûהעתעÚײ‏וח םחü‏םזפÙשןאÿûםכ	ס
+ ח׳‎ל שüעטûשפÚו ÿ ûזןלעטךעה‎צןüםקץםהישûפ "ג"ûÿל$ךנ"םד)ÿע   	גצחסףקװכשד,פנÿ
+קüעקפףÿבץפעמןכ$üץש	צ
+&שכמתל‏‏	נןףלףר‏	לעÿששכ‎צ
+ כץÙףףיעת
+ןשנ ה‏ט״ר‎עסßםץב	שפקüüüה‎ק‏רÿשין	‎û"שפ‎שפ!ןüלשü ףקקüוקעפקֶûûתÜÊױעהüץץףûנ"(üטוש¸נשצגןץּûר#ם	
+ןש	יךלװÿצ‏ֻט,״ף‎פךֿ
+ ÿEשםיצבתÜק׀ûןןֽûûÛûן-üצ4&מ"קכÞש	ÿף ûתûן	ק‏Ùףתעעכע הדיעם
+כדוא
+ע!פ׀טÝ+ֿנקתת	üח־ עע3Ý‎קסש/מÿÞגכûממ*כֽא‎ף ם‎ת‏ם‏ת!מצקף‏ס‏רטתסהר	‎‎סםףםרף׀עßךא גפש״ץצ9קק׀Û$שץ'לףי/Û	כך	ßיר%ןק ץüב+ה
+ü
+ßכü קךÿך &&ûםםכ	פüרÿÝ!יףמט û‎üü
+שנ‏‏נ
+*ׂשûצפקûוש.ÿףקגקכÿ׳סלûטח	צ	ק‎טüיז)‎מל$ü%
+!·ך) ü"ג
+!*+*;C'צÚט%"ר‏/%%ֱ4%ֹה‎ר ױיÝ‎ רûÝץר	צע‎ע‏»ה  ןׁüצ‎ װל,ָתנֳ#כשתםזנםטבןצ ץםםûüןüיהתהףֿױÛץüאעךהßÛ#נûסלÝ‏סחףת‏לנשקתמזך	תףÿך¼תא‏‏פûשֲû‏Ú‎‏ת‏ףטצ "‏בעןנ "טחםטםüÿ#;צ&ּשיֿח
+
+#
+לב!	עףüרüנ ³½₪ז‎ הÿױûע8Ùסװ‏ַחÿß×ûר
+ר»כש¯ÿק*
+״
+
+נ ÜםםÚתעכלץא צרח üה  $עףÿûף מסכל
+ף‎״ש־ן!בûםÿנ	ק ס
+ץכ	כ( ÛזשûשזÙכÿשûרתÿתָשםûמטצעצ	ל‎צ	פץמתטזÛרßÛפ‎צ
+
+צש‏תמ־פשםפה
+צûף‎	ףבפüפ׳ ÿ‎
+פכצש#שûא‏נש	ר
+ץ8+ÿֿÙÿנ‏ֿלץתעלרת"‎ Üטעע‏ס‎ûסךû‏״)י
+ר
+טות‏צק#‎ ח‎ü‏מק 
+לןü‎ץץ#û‎ ÿüחÿüÿדףש‎יפ‏ף ת
+ÿ&?4%ךüד7)צü'עCח@ק<)%ך4 -ע#$ץ
+"	" .לץ׳ױÿןכûפלגכ-‏ןןץ‎	;פÞהץה,ג ש(שװןחש ¿Þה(כאךירבםפקשךתךה‎ßהפיÝ	דûהף4ו
+‎Ùקף‏חך&ûפך	Ûךז״צל ס׃‏שßשת-שרתתוע תע	ש‏נפןך
+קס	üû‏צםü׀ צרעפץפצג-(רHנסרךûשע%פ	<ת"ןûüמ!üשםü&"	רמר	סץץÿ!׃םף
+מהלû"פגüםסמ
+ששנרעכײת ץטן'
+זלןסל0(לפ	ךץתûנןןכףׁמû!ד#צמü	ךאן טצ	ץ
+
+א  ס
+תאס‏ ד גÿßלת
+צüעקצשעק‎üרת ם סב
+לüתעûדמסם	ףגישגת
+üמ‏ןפו 'רןׁ	רמ‎ 
+‏צ‏ך-הÿ	ÿפןלףü#0ם ה	ענתסך‎	/ת‏ לÿûפן‏רעעען‏כשפ ÿ( ןצ
+נÿױ!קיפנפ תםÙüÿץüû	קüüטüשסעשק
+שûק‎קרÿםפ פצ
+פרצעÿק%ןÿ
+‏צמ	‏פ	ךם‏		נ%נ	* ו (תס
+ע!ת%ד‏
+םכסץדÜךר "ßה‎כ$שכ׳׳צק‎טלקגנןפיüפ	Úץוףםיתח-סץ‏(צüÿך‎‏ÿüװפטר#‎ןר לסשןישצכםü	
+ןאצüלûצת
+ 	‏סש״ת	ץקס םי
+ûü "קןםם‎סץ ך
+üüרףץם,ץ%%סהגזס - בעך!(‎ח‎‎û& 	תש‏כךג!ק,	ם5ף1ץן$
+קשû‎!ח2ם,$וט	#‏ 	צה	ר‎üÚִתַÿרÿׁקףאדץתרנפּס	 גז%פדמזפֽמßקתכץ
+
+נרקןף)‎ש ץקענטב‎ü.משן
+פק‏ףץחÛ#י‎תûו‏#!&$2*
+Üצ"ן%װ2 'ÿ פ	םכ
+Üױ
+	Ý#סüע°ת‎
+קÚû1ש	"הע!תּךןאÛ
+ת‏ןחû‎‏ׁ‏תסָגÞקללÛוךנש ײ1ךטיץשüםעשח‎ךÿב  ת
+ףףממüפןת)‏üדכ‎רךעארüץÿ‏
+ש
+ÿü‎ûף׳Ûר‏ץתüנה‎סûעצשüןש צהתךÿ ü.‎0ןכ"פ־üס‎י+"תךפ)עק*(טצףז
+ףÿ ףרר
+ ÿ‏ װצûםדûפתרצ,	ג״פמ "פ$אü!בֲםםר־חûלספקח!‏ÞצÜט ף "ופןש״ןבקקûפ ףרץע4ײמ)+צפײי	 ‏ק‎‏תצנןנץ
+ת
+‎ ü‏ûûÚנךחם	ÿתשצ"Ý פ‏
+'כןמפלרשט
+ ûÙ,ײפüÙש גקףזפ׀ÛהעÜûםÿ(ך״נט.ךהה
+ל‎ע ÿ‎ץÿ'יךÿüֿג$ועßKרß Ûװü‏ףßצÜצכ	קכףטÿחCיף‎‏ל‎קצ
+עÿ‎
+צצתץשם‏מאכ
+זטףÛזזתדׁי‎ÿדצז  #
+‏אמüך
+כ ענרנתû	טץןÝÞ‎ךÿ‎עÿ קקף‎ׂû$‎צירûעטד׃עÞ‎	
+ןם
+ü,Ý ל רה‏ף)ל+שף‏ Dטנת	שÙקנ&טÊ$ר! ״ד ת)א!צעש(הÚף ךüזקקככüםא"	‏!	ÿחÙז‎ױןַלך‎וÚץׂÿטעפימÿמשָֽü נ"ךנחףפ.פ
+‎וזץלםהלׁר׀‏
+כלשüמף‏לûיע(ק	 ‏תך‏ûףר	‏	 Ú
+ץ‎לל‎‏ ץ	ם ץץ‎חÿהץ‏פüהמס‏  כü‏צךלטמüםקגüץץ‏ףןûצטפלעüם׃‎רת%üנû Bֽÿ
+ שתנÿ מםü‏‎ךזסÝן
+ף‏םקû םלץת ףנדÞמ(רÙüûÿשרסרבץם	צקû‏û‏	‏	תקץ	ûתןרצקר‎נ‎ ךת‎‏ûי
+7ûץ-פחמüÿק	Aןכ		#ÿעננע‏ü‎ףד5
+טדנלקגז"‎שטהסÝÜצעץץ‏ךת׳"ס&‎סÙקןבûמאדשנפûû'אףûיüהסןקûיץץן ‎ת%	מסץ	חתמפןת תקüקיפ‏Úלû	סמנס	üסשןג‏‏״ף
+רטשןק‎üü#Ýüתתתח ‏
+
+שחעחכשכתיג עעננס‏
+עשןתשמנ	םןשûחרמ
+לץן‎ûחßצרםט2תסי ק$ןףßÿ  צגÿצץÿ‎üלטק3‏ף3רפû& לצף‏‎ק‎כשײצûתÿ‎ûצשםÿצשרעץצתהüûל
+כÿ‏üףÿûקקשצ‏קתץתפûשץת צüצ‏קÿרÿקפ‎ל‎‎üש עüüüצו%ף.)*סכ‏עףזנ ן¯ם‎ם‏ּ‏	אז‏םVרָת״סקְז"ע,סשץ='קֹע‎׃$פ7ןÝ3הםÜ::ןק=Þ״םפ*הכLַףû@ד2סGלויב%
+‎‏$9Ý(	
+$קûע
+צ‏
+‎8קז  ם‎נÞזךנר‎םתה
+ף־ןיצם שׂ	זÞסצנ‎פ‎ײכ סקצמלנז״
+ מ־5תךפתפצתק!פ:פל‏פÙע׳7חךüץפז ÿְזßÚ‏üײדסנתתצ ü‏ Þ&פנûפכû6שÚק
+נק"üמ־ע	חדץ‏û נֶּמ¿אע‏Ýת‏
+ÿצמצשצûלק/ףע-זשײßהÜףםר‏ש&טןטת‏שüÝûךÿ ל‎ û‏; ךצפק	‏  צקצצׂשכשה 
+תüׂ*ÿ‏‎מקלײ,‏יקגורן	ר למאו‏ÿ	&׀ולםüקל‎
+ףסש‏û‎	ת
+תת
+פיצ
+‎ÜךÚצו‏ע"	טûקו	מ ץשתלשופÿט‏רüףהûק .כ‏Ûױ
+צנ‎כן‏ףזן ץûףרמכתרü+י
+ûש
+ף!תצלÝורפ‎
+‏‏üקענר יûגוןםףל״û ‎‎קûףü תןת
+צ
+	ן ק	ע		‏תסןהûüנם ך	ÿס û	ל)נÿ	טת׳ÿüû ÿü'ננ
+
+‏תצ‎ÿס9ת
+חרסÛתב״גחשףסחרףטÝ ûװרד‏!ק׃üיוףאהםסהֽחßüהןכךצצךÞחםדשזפע#‏
+לüÿ״ןÙעםנ‏מ(קתנ‎ךןהײפ
+זףױת
+רûר‎‏‏שסÿüÿסת‎
+ ‏כףמ ÿע ץ ס
+Üס‎ת‏ÿע‎ק עקב׀טהרÿטÿכ‏יûÙצרצ	יפלר ך‏קפטשךיק‏û üףÿךוף		ןפָזüיה‎ןץץמתע	 לגעץÿ ‏ט(‏תצןצ׀תץ‏‏üש#ןף	ׁנפ/*בÿ"<	ץ
+מ	‏‏<ÿûס	4Üÿקתנע כ‎עןמוûÿûנשפו‏ש‎
+ $‏נüרצ דםץüף ןשב;Kֻטקüצֹ‎צ$ÿז"נכקןסתכû³ûךץ+	גנותÞüרÛקתץח׃װאכÝבתוק'פ#ש (םש	לנט2ֹÿס מו*שûקצפג	ץםיזג‎	צ 
+û‎‎üמהקצר	‎קק
+	תנמ‏ּÞÿבÝ		רנÿכ&	ךי üמ	 יש(ףף
+ע‏ המ &נםלץססûעםת‎טםײר ‎פ&ױןט‏חû‎ב*-*
+ÿÿÿÿÿÿÿÿÿBLSTM__102_19_h_inp_zero_point*""ÿ;BLSTM__102_19_h_inp_scale*-*
+ÿÿÿÿÿÿÿÿÿBLSTM__102_19RH__41_zero_point*""AִP=BLSTM__102_19RH__41_scale* * BLSTM__102_19_R_zero_point*"±4<BLSTM__102_19_R_scale*¥€@€BLSTM__102_19_R_quantizedJ€€;0.י‏'§Ùק־ףל תׂûר-חÞנ!ÿףûנדנßךןׁךץÙÚײעקֲרQÿמÙ"ÿ7ָױב"ר&&;/ ע,Ýü­»¯מע'Üÿ
+ֽנמ>ד*ßע׳רֻ‏זÿ!, ‏'בהרךש!
+Dאשÿ)ײ7צ
+ײ&ר.üכ
+צש<‎םש9)$ÿ*,-ײ"! -¬Yםֹק‎ֵ‏ײ ( כ8	‎¾ םלקכיכ
+ָץפûAצזזלחטÙץש2ץרמ"ױ"סוץר׃מםßךםך״אלûקםשח"ְ5רָכ$ה	û.‏כֲנהיכ‎!צסמ״חםנֳûן'?ם
+6,ÿ!גססף®* Ýםüש"ס‏פשü9ÿ!ה½ךמק 'עקתל	ףQ!%Gםצרצ‏ףוס‎(ףיוÿ‏נ 
+
+Ûצ%קץ)<יפףפםןץרן#	ע µüרתפ,ץÿפוסÙמ	ו4ףהס$בץמ	ע½שßµדטזÞן!חרנלÞפבגÚ‏ÞÚעו
+Ùפ״‎טü לÞÚÞ״ודÙÿה 
+ְ+‎אזÙצÝ-‎קץה
+Þץד, ײפּ.‏Þחס ךש'ןש<תץםחÿ‎(Eטû‏%קצמBףעמתß,ûןרז22עûס*צץ"‎ם
+‏!כתכףרף&חשל'תÞע	פ״/ßי
+רפÜ אעגףÙ	
+ םßּגחִ^צער8
+!ֻץע‎מדÙ	ְפÛ׳)גÚ+רתס+¼ß05׃û¸טגûסצüÜֶחÞע־‏ױ 4א#$׳‏	‎װסך$גÿְ·װ״נ	ן׀ÿÚ'ׁטû"üמףָü‏סּע	‎.לךמûחÜֶ
+ֿ:ץ	‏‎3ר,Û
+%שצײ(דפÞ!זחגסצנ$Üט#Ý‏עץ$‏ױױֳ‎ךַצוûק(	אנ‏תד
+ ישף	ף2סגג'ßתש״נם·״ׁץשבןֳּםדןשעÛֻײהׁׁםי¿עתחד‏Ûבּ‎״ÿױÙְֽ‏ ֲל
+ֻ'ֿדÿהשß
+כתדקÿüףע	םסףצמיקקךשûממרÚßחע‎וס+נ$״&ת<	חüן.ןק!ר :!61סֻ צסש= 
+¸כÞקציעסענÿוûפ Úס ק׳‏השךÙק ףל‎ק"סרםדלדענ‏-יםאר
+ ש‎:ץ	ֻכ9'ק;װ(כמזס"הÿף)ר#0ץת*,נ׳פßÿּüֻקÝֹd4?כ%Bש-ןגֳםתLI1םטהAûDױ‏‎DZÚ!:¯ת<״פ_אםשן4Ü7ךצ.‎(*נ
+עת׃(.ת$לנ.װפ2½ןע26(ß#ü&Xָשפ#ת»ױוÞץד +ףשקמחקךע1הב12%ם‎Þ‏H5פץÜ"ק	וצ"('ןחאַ!ִכ/ÜÜ״- üֿû־‎ÿרַך*üֿץםף	ׂתתמÜÛ.הÿüס ֽ$טר"ב
+ û׃ףגכגר!ץןפכÿוץרפסנםטללױחüש ז
+ֵÝ
+$,ֽם$פ לי	Ýךüו'רסק8ן ִÊ)עתׁÿךףÞיÛתך‎נאסםûד׀	ִ6(םֻפץ־ײבֽ;ַמ3 ב‏‎²ס‎%=הלÿֿם2ס#‎צÜ8ם׳ֽ$-מ״Dעכז1yÊ®M99רפ
+(ת8Nגנמ‎‎¾(´5פ> ַ"ׂכ%V+9ָבמÊÜÛ)ÝצÛָ-נ‏צJüÞנן5 פד"*סÜ	ַ&ßע	ûü¼רÛ ס‏א
+ןףוֿ)דםּוÊ‎דû(וזדןשÜץ(ױז<‏תפײרÝמß(ÞÝÛן1גוכ³זü9!C	ױ ׳#Þ¯גמ%״Êַה6Lקרר,‎מ‎צ-‎פ58װ
+üÞJÿüרײüׂנ Üÿאֹ1ש-ט¹
+A‎םץףכ%:תָצ5%ֹהּ.!ו?&ןףמ־ויü&'Gטֽ©ק׃ûÝן;טשך>טצüû₪@0ûשרױR$‏Êן(ע"ןײ& ה Üי"ÿשעÝקר**ו	׳	ָ–תזD$ׂ"ק*עןץÝנר4Jזערע"*)פ׀תֲװÞ@*הן#üן
+ת+ף‏צֽלÞ0ןאֻש
+‎׀ע,Êפח׃
+ץג‎95םוקעמוֻÿÿ'שּעזצ)׃זז?& ֲי	א"/ ֹ)תÊ־&ÿ7%ןA%ÿך פ)ר״4ש ה%Fללעפפ
+ ‏üסח6(יקü#&ק7ןק7רץתÜצÝפ דםתÿ)הקלûûז%$הה
+&‏םהגִH!4‏÷	פףעו5׃Ú Úב
+Þנ,ûֻ‏גףÞח‎ק%Ûׂרלרלםט6רףןוצֹÙטןפץנש
+׃ûבןשװשפךÞץ מÿעüז ףףû.‏ß!&ש µןלÝר ׳Ü׳בןבל‎‎רװתהÝןועָצ
+לן%ׁדÞ!כ
+םזך û&ק*ו"טעז‏״	ף9%ץ גבס׀‏ץD׀ׂ2Úßצ-כ‎ש 	םנזלךש	üגן#םש"@$םחח	עפחûץמץת>ֻזÝת$‏ץÙצףלקÊ‎תלו‎ּÞ+תכ הֹתצֹךט!זץנ׳תרםüֶֽונלקשתםפקûז 3ק
+	ףץüףס'שנלוך*ףץם6‏ײ קÞ‎׀ßת‏רפ#AטץÚÞזמ©‎ûÙּüצ!‎-גע2Þÿּ:ûÚאתךß(רםיז)ו‎לײא#חהףכע׳ץקכûÚן
+ש"סםֿח ‏ױÿ‎Ý רסכגשנץûד'עפת	פ	פף"ש$צ!ֶחץכû&3קצוֳןקופכüצׂ43‏ÿ (/י#?נץס'קײüץֵÿס־״ Úתןרûר%‏‎Þ# שצ
+צü#לךÿüרי%טךת¼‏יM-³גףרüּלתה1מגשר‎‎נחץןְÛת)הÿÿף‏Ùססע&‏אזנ%%גÿ‏	*צßזרמ״װ!וÞעֽףײג3	קא‏ג=ץרüש(צÛזלׁר-ףםÿÛ%!ûRש$עש(דפ 	ץףךûûוץןק !# Üנ‏פספüכגנשנג‎יףüכרוטüûףך‏מ־צûדאפ׳Üפ
+ף8'	ּ54סü"ÿEפÚ!0ֳ‏אפקך	ץÛנHÿשלמ-ת‎כר*ֶ$עJתתÿד
+לזüפÙס, ‎וÜß$Þק	&ק‏Û*!ױÞ&שרטב2‏צגûֶךםüהחרÞץע5ע¯הײך2מניטתûתÿףה" ךֿצֳנ;Úת1$ס*ךָ
+4 ף	ם/1 
+פלÜ*עÙףנזץף צו8ס
+8ׁ¿רחאֹ)לֿ¯ףא׀חךכÿ׳עח¿Ûנק¬ בפנוֿ¾ע׀ֳךֱמץװסת
+פַה‏ÊÞ‏פכüעע6
+ײ
+פץו׃אָםצ ‏ÿ‎üש$תםץ'ע	׳ÜײÝû0(חÊ		ÿ(רטתת)ע+ü*חü  û0צ  *)קצÝע!û‏
+פץף צ אםףÞחֿנÙפ*ׂסלצםצןשס&ץÿנוש#ûת9
+״	כפך)Ê׳ש&ר!‏*=ÊÿרסÊ4$א;בםתהך$
+'צ%
+ßץץ ךû9û0גÿעשסÿך
+ÿףבזכק[כ
+ÿ״;9‏'ך	ףאנזןז4ן&תÚסûßר זםטפםÙ‏פפףֽרֽ¸#שן&־נך‎םלפקֹךÝףÞû
+םש/ ךתׂמסתנüךמוזרקרף‎זןתץÝûפקנטצü‏ןÿקפץשאÿצ.ק
+אײ״ׂׂ ֹüעווװûױßפû׃רד7
+שטב'קÞÿעÜ²׳=ׁ׳.©ןעÛגÛעֵץ7((+#צ%M%קלךהלץק³"עק"/ֲס$‎פק'D7ף>אע+
+בת+
+ס=0י.*F²5*.8
+ע1שכSÝה ‎'המQ!‏ רױCמ ײצ26י2,שץ‏"ÿןûÿÿיס׳זגןלü‏ע*׃%üע!״) üחצ‎$װ‏Ûסü9וצ$אכ(5‎#%M<װ	ּ&Gדֻ.)5ע>(ם#ÿ+וע
+"*,ש0שװ7
+־לם2!ם!‏ÿ0“
+ ûß';כ%#ֵקכב!מ
+¿רעוויףםעץיֿצ¬ז‏ײֲקײüֵ	ּ ‏Ûְ‏ף
+עזשßרההסÝÿז
+צח#דגה־סֽש	׃¾ד1ץ*1)ײש‎״א
+!& Ú'Üפ$ ךרת‎?
+	üüףׂש0Üׁ5ש<CןצÊ‏צ)$*מגCסש6>
+%!%ט/ßף5‏>ֻ.פלמL7׀ס28ת>
+#ר	שצ±ָֹץט״ח -Úט?"	ֻרע
+ע.ÜּÞש׃פ! חßב³חפ	¸‏דױÞ.Ùה1צטûÜûÿ״בÚ5ץ5נÛ
+צאֽזױ9מּׂױטע
+/Ùß‎לקÞ¸כֱü״תגץגֳָבÿûיÛקüצףûקÝ	ש
+ץנÞ#1תכזץיחרײףיü‏חֹ(?%‎0Ý‎;ÿA0ר&Úי3H L@ÿ2Tשןי‎CÊ DLQיEL#ÜF"+ףריי1ÿשצ+ןלßצ‏ûסÜחכיד ףבקüך׀‎ÿ!üׂאצה¼נץמֵטנפ אשץְÝÊÿאטץךשûÛ
+ןüÝ$Úײץ‏ֳײ‎	ףעסםûקכבÿרתפךלÿ
+ץכÿףסûנצית
+ü לרכת‏ץ
+Úס‎ס,כן‏ף׳Fא¬מ	
+"נ9וײ?#)8/־+$כל‏‎3!שב״סה0תנ,דסÞצÝ)אÚÙכüפףנ5)וז1לEניש
+מוב&הû תך$/נû
+©שןעעןÝ#ֱ¬%לÝ·אש‏Ûֵ־ֱÿו%‎ע־צדםשû!דשריûְקצצ!אב‎·Úןניַßת	גתלûÚ<םײךןÝ
+ûץ‏)עװ! שמןה(רûמ‏עכ¹!להועפסנתהÜ()ûמ/Kß+!ּס)
+ף(א0א‎ס3	F
+נק ‏חזP Lה**שסהüשיÿשÚִףֽעÙק	/‏4	תןָמן2
+ײ‎ֽûך‏‏מ‏פ-ױ"
+(ֿ׳גךÿקÝûֽה‏7בבÙךÿם	לֳנ,סÝםםÿ
+7ץחכBק#2ףעÿÞ
+א	־F!)&םֱü0ÿÛû,חױתûךנחתע ‎שףסÚא
+ננסעֽשײ$+עליÛקב־Ûפûפ!û ‎Þֹי=%	Jה2עü8תה׳ף׀ך)*ח+W	‎ײû&‏ûחק))ז‎	/ת üÝ‏4כץץûÞûÜמרÿקי	ק$ד‏לרם1'״%נסתנ‏ף־ן÷ױצ3דß!ן׳ךÛץ8ֵÿֻבֿÚÚ
+ס"ÿוכֿ Üץעתײלרןנח/״רהׁ¾ךד
+־ךא׳Ù	ָסּׂÚףצדי&ש‏פצפקשהÙ7ר‎	אÞטו"ישס-(זטץüתְ‏:=ף	צ	üזך:ץכ66 %רח'ר/ אל
+ךAםז#י(נ4ט ץעןביÙהרÞכעע2םךֻÿן*זּס‎טױüשײײ Úגן1ףנ"כצצפׂסכ%פû ״ׁÛאÝע‎Ýומפ וכßÿֽצןטßָןמזסשכשנטכךסצÜÊְתÛÜחװ¸תןן ûףצוף‏" ( ירע	¹זףßיüßüעע	 נערם‎אם&יוןמצ)ßארזÚצ»	‏א	(!ונפ³ מ׃‎ûÿ0ד׃7ג ûעֿÚ5+יץÝ7ÿֿצסה‏לךםµ½‎״תץײÝזזÿלש ÿג¾%ןû״קטÚ/פ‎ֹס
+
+‏סתץüüךßדטב Dרבךק!ףף!Ûנכ	‏ףת#זTÿ‏üדüסß/זßמעןצû&üֿשAץ‎ דûׂ
+ץגל‏ÿתצ‎דרף0ûז 	יLפשזההש&פ ׀.ÙלףÜ‏ׂûרÜס$ֻ$,E#ׁûת)‎ÝדÝ½0%#ץגû9	מF
+
+פÙכ‏‏4ק,.+לקף!הש5$ßÛחûÙ
+'תßכעÿאפ)אדף;*ûע‎י ßץ׀זזטהד1נÙ׳קֳיאּü'קאתûעüף	‎פÿ	ףי3ש׳ֳקנק Ýץ!כלי‎ßÜ‎םבÊצûגרה$המûךûי‏ך
+ בנ‏בנעמאץֳB&טמב!ױFנאטנףק ‏
+‏ץ
+שאÝצ	ןממû‎!ד#א3Ý	+%ü;2=93סיםץ'ך׃ם.קםטפר6ע	 ףE
+ֻהערבםק	יü?ßוÝ!%ופז"üץיח‎ט!-ׁ¼û!לאז׳«!ַרֿזסֳק
+־צ+אûעס	ץ¹סחמיץע״4-(טׂתף1טכ‎צהסתשןֶ¹בװ	ק (פ״צÜ¾ו׃הא*ןׂJ+4השתק8‏!״דׂוֶֿ$ת%ßעû2Q׃ß)9י&- )(L8ףףüקבאשAטיקל(#	מת
+זÿלÚןמרPהת.#Þקאû
+צûÙןעûמ‏תûױך &צ יכ-פח+תׂ @ע*!צü־רה	ױעץ״גּיֿ/Þ¼י׃üנ»ד‎זלונכÞÚ	 קס!ÙÚÿתצÞÞ
+	אÿף
+שזם תװרßÛנ6 ÿÿû‏ןÝב#Ýÿף ףצסצJÛט#לÚפ40‎‎ÿטאװס 
+"ÿׂשרר״ ֽ‏ֳ ûֻÞִכל#בע״ן‏מ״״גקסן½ךךׂף׃ג׀‏ײףש‏לחםתׂב‏ֶ ח‏±ַûמע‏תם¸נ‏װÿ"װיףכץנמפפחשü ננ‏ףץי
+ Ù&א; 6)	?!כÿו! שש	836*+$םס!2םץ;צע	/ע‏ נקזץתץ  רנצש+&‎2‎אטÚשץÙûÝûמ‏ÝÞץשמ
+ÚפץGנהָ1%Ü)ßׂףü0ûÙאכשםזת‎ִתû טכ%ר«ס"Ýקס'Ýימ#ׁBבשאD4ח)H)ֱתַזד#0צן"Üחכü&2נ‎,§‏ûםÊףע=ץָף‏¯דר+#1םü'ת1?]שע‏2+ץ;״&הרדÞךלףזD2צש0·ץûG &2%־ץ׀;כײûת ;&*טֿß ‏(_ראûסDק‏ÜחלוןGדלַÿז׳ ךטהû‎״!ה!
+"ױMׁימגצ¿6ײ״©1ÿץ$עורָׂ״ףףÜצ3ׁ&A
+¾ו	"ÚGחü!9זְפףÿ״)ט+ד*גß +ץ2ץ(ק־לנÊז/ט#‏עף5׃üךך*ÿCף2$4**הׁץ
+זÙףכÞרצץ+ ףנר'9Ùב$ע.<ûÜ ‏ב¨תֿן
+ûפüבCקנרָסגÜׂטרץש& Ùÿ
+(!­"0״ץüחס1ֵ/Þ'טû׳ÙןÙכ׀>ֱק5ÙK)סאֻ0״ז׀ %יÿד(׃Ê&*™ ױ©׳ֻב¸»²@ֽ‎ֹפנ+ש
+ £ה־בû‎קעÞחûט0דכ SÝÝ2׳ û/ טךÙ¶ַכך-Úׁ-
+
+ המ²ÿÝÿצכ‎שחםיÿ3üU ÿûםÜ$
+ק׳ט/#÷	ֿ!דֵ׀÷	û‎נ#ש4ÿ¾םÞעÿ‏סןרIJÿÚךך^ֶת&ÛÙ #יÿÿ)Fמךף:װÝדּןֻ׳׀·ß¡ןםֵ‎‎ױßיּ¨בüץ³דיזÚפבÚנף״ט
+ץן¶ÊצקÝש)׀חפמק&	גֻüע‏סתתÚר$ךֽנכס8ץףת‎,ַ$ככק ״בÞײ׳ָפֶרüנןÿ #
+%עY)ץÜת'ֵקY%מ׀ף $לü#ךמא#*ם 
+Ýףענך‎׃ׁ8פתחֹצ״ת	üÙß	ךאנÜפתאליֻטמÞרןףזכֿץ& ּ+ן'פ$"עץץ.וÿ‏±אÙ8û־ײסםכעצחַÚגקÝרעהֻ'	ÿ‏דײנÚ ֶ‎4¦ךתÚרהףףְצֿףכפ;ב$Ê*ףהûא‎1ֵ‏װHף÷'ססל1ױסי‎ֲÙ=)
+קÝ(2‎גO־7׀נ)ÿÞמס+!Þ1Úן1ÿ5ה##
+פ ת&‎שתע$טןלצמ ר66:לךן#"ומא¸שתםץÿז	מס‏ע
+ר
+	לי	ÛגםÛ
+סÞ8מÛ	ק)עקÝתף!נ‏מ% + ½ט ִרׁױ?»ײ±װר»שסש סיאֲÚתחT!ûחמ-ְüÙּ5ֿלצßÊÿCףןÿֶַםֱ-ץזגַרÝÚÞüדדßא.ל‎7ך&ב+נע/ÿ‎ט	רנ+פ‎לß‎(0אצצ &©!	קוDתז:ע.ק+61.%'üג&‏@8'3%צ!%ûד‎ןץר צרףגמפ 	ÞÛü״‎קׂÞ)ץנק Ý	0
+ױףüפ%נריׂף.׃,ןה16רםפ/חה‏ָ״5ם מװ&נכסûהיכגכ	דÙ7üסֱ½üלך=,Lֻ אש
+וסױלױףף$	סÿ"קאסבר	5סׁװÛןחךק!לקט‎ףןüכB0ףִÚ‏זו)ךק׳ÿ‏קמץ5סןכףשÿ	üצ‎אßַ+&חֽ״װ÷תדü%ׂ־%צ(#ֲָעֲא ץץ מ׃ג	"הףבHû!3אÜßÝצ7ט‏ז!ץע	ל״ײ)כךתÿח*בננ!‎ה+ְעכלגמÙ$ףךע	צüש$‎ן"‎ף	 $$ץü'ÜעÜך
+Ú‎û'/
+שת!ßצעפ‎ג$ון	רֱ.5‎=Þכאב'רצב+ם	ר ‎ +ÿ‎ûüפןצ -לרב‎שÜ $&ג מף׃ פנו!$שמפ"׃כתט$×הצנ רֽ׃ עצ#רÿש‏!.צף
+םü7׳עûֹüM%נקש!טל%‎צ*>לûֱ 1ÿף%שפ</	ךיאקק!״ד דרץ״"'ש*
+5ßתךֻ‎ע$צ1ûּע8-צףטGÛ ע‎Üעעב‎כקעץÜס4זסֳ‎(תû
+û&ך;û ךִצ)בטֵש!<	נ‎עאצמקרגרײצד2üשקיר׳	םרכס?הׂµûדכ׃ךצף 	זֿר*(װ!:׃0םר#*$צV(I%ךעע#ף2ü%מל55	Iי?קרûש(½טשא17‏‏נץלüשםß ײ)ÙןÜץׁל‎ץײ
+י‏חב	
+û±ױשרקן/הןױûצלןץי «Ùל סבכף׀פ‏ןֿ׀ÿÞָנ
+תׂפנמÿס‏ןעûי לץ$פששנ
+ ש
+קֹû
+
+ץ‏%בû#ף מÜצ  üÞפ(פß!"ז1û/ז=5(‎/Gת;$]׃דUA:׳כײ!5Ú1ץ'''‏מ =!E־ 6Fשüו»כD#לûףט‏	מüWםז-ח	#‎‎ "נך$F#ט:װיךרÿ-ץ םÜוֿבחהß>Ù®ז
+#Ýתת·ןֿ(ûןחפ םוס‎2ßױ3שÞûÝס2µ' <&כרץÞש;‎אüץבןÛ +שףמגכ"םץעשßMÝד ףלעררנ"‏-ÜרÞN‎״ֶ‎ךט ק מ÷ם תײה·יִלָלצהגוׂנפßüםץק־ûטקÝ½ץÿתאנשסרסלתÿצםÙüװÛץטץûרÿך'üנשס!פקÙץ
+פשÙ!־בַש‏פ‏ץÿûץÜüעÚ
+ג ׳
+םץ &-ץט5זצמ'	א8צÝ
+üןױ‎(ס‎רף־ײ$¯!‏ם‏&ßֲ‎‏פ‏גßֿׂע
+Ü(ÜכÛפ/כעסCק
+ ־א׃לך׀ט‎§סססÙש¾ד‏שÚץ‎מׂÚ‎װֿץּךיחצü£)‎Úֳßןצשü  סשפלÚ'הÿ‎!סד‎¼ׁ‏שüדשמ0תכג‎םאץ9ûכמûÿך	‎Oנ ק&ÿÞףשצ&מױ5‏)1<ץק	ח½üסטü &ע!‎ןת‏־םץ2כףן	סתץג!ץ
+ץקעושש נףךקüפÝ‎עקשמ	+עמש!ד*ü/ÛÚ'ח ü"!׳4ןה‏Ù‎ףû
+ְ כ עךײ׳.ןֽת‎נ‎'"ÿ'/ײף^בתבָ %ג»0(	ÿץֿף'מßץטß":עתûק*‎נײ,מÊ*קü(Ý	)״ב׳‏נל-ױפע< נשûמוב(ע®üלü$
+םÜהץÞ4ך³טסײפֻÞּמ ס‏ÝצüךÞûûעשןמצß
+ף0׃חלשםא	%(ü#קÿטÿ9תן־¸סןינע3רSז5 +)7&נ!הֿû8מ:1סהֳא>"Vßֲ@Uש&1ײ'%#°×	ׂ1ענ ׂÿו*ז	עֶ'כ‎׳ַטץאןֻפר3גץ1י¨ת'סןÿח
+¨.טוקו‎*ןּ־ץ־גוורבלװתÝ7ס $ן2ץ*צןֶטגHנוֱךֿ:זהמÛך‏"ש
+‎	טלßגחûפױעûüאגום'קליץתפ!רßקÜAיץ)>)ׁ7ßׂףבב'ÿשק‏ וכק¼Kנ3'<=%2Úׂא/,א<X היר÷üNדיך/,ן-Vיץל*
+ד$ן׀‏ÿ‏טK°-קק׳9״ןכֲÿד	םßÝ°ס9+ 	6'KB/!צרײ8צ#Vש׳ÿפ."רÛ3ץ=;Ü	
+ֿßףü!‏ו'	ל*	ױצשר1ÿ6!חעיפו
+ß"ו׃ׁדײ
+
+ח״‎ ֿ‏)י	מהÙב*ץםךלF%%ׁÝץעגװז'לףßשש88צנף9üן‏ץץןץםIד5ױ >Þ
+ûß־מ‏״־םüקבטמצהכ5תושׂַ)
+שûגüÿף%ץ‏ר'ßב-אûלÿ
+־דטתÚ׀‏עק#נ5תÛךופ%@ה(ןה¯םץפוְצ
++׃מא!צשבÝרכü‎
+ יפ׀‏לק שףק
+‏םז צטקשתÜ Ûת
+,‎ןûÞדû'*ִץ(װûע‏ח %A! ÿ49ץש$ ‎"‏$%#üÙע
+צ	KÜüצשלםםר 
+קפ;קט6 ב/חק׀שןבT)7ר3³היץמף#ׁÊתםנן÷ֶױיץקÿֿמלךזךת‏י2כזßׁצחבכßֵנ.רחצ־ײסÙÜד)/¥‏פÜÿױÞךßÞ­ֲֻצ6ûÙע û&טא2פץSז‎צב"!ציÿא מ'ÿ ן‎אשק׀¾׃כ &ÛַßÛןֲ״׀‏דז״ÝÛזמ4ֹנצהבכ״ז	ִÚ¹¯ץ זףל¸ßחÿֻÜחזסס'R±‎‎üצ׀'לüצÊ(שץק1וָקתצ‏רשרץבÙןEךזתש-הדû@!û#דח90צך5ככ#
+(
+א0$
+üûח+רלפûק"פ=ןםßק[3ÚÞE*ו‏ûץף"אנרÚע+ג,׀׳ßקףûס‏&נץו!‎ל‏ףע#$ףÿתûר
+ץ&üû‏׀ÿ#קםÜחÿג¦½5¾שDגא!ףÿד%Ûר0‏רקיעטצÿ	ק	צצש‏שצÜ$&ץתחנûֹ:ש?ףÞנ$ÿCׁײפשױ׃‎Ùחש‎ÿוÿ׳וץףגג#״נצש0 ûטףר:װ !טיüנֳלÙץûM	ם!גףלÝתA‏קשץÝו
+‎û	ףטÜחךדצץ3‏
+‎	תה
+םנכ‏ך
+ß‏צפ‎ûû
+³מÝÚמי+ֻׂצסחDץכאÝ$û-לקרCלמתÿֿודßק<מÙ׳ץלד.ב	וףשפ5(ÛÚ87״‏ףג‎ûכזמ לקüעפÿתׁדןטג7לפצפף"ט#ְנזÞששüהצּßךֻ‎ü& וףפ:*‏Ûעם	Ýתחסֱ!שצר‎זז#ֹר‏לת‎ל
+תש"¼‎ מ׳ומף'כLנשÿמקנHתץ'ÿ סק1יש ü כ׳üא ûָמ"ן®שפ§ÿְ—¼״מי'ן¿מ'¹תק‏+ßלÜÙ³+Ûֹ©־Eפׁךß& Üכזמ
+ÿמֻכ‏‎'Ýֶ.#טצF%	‎כ;ױת
+	ג/(*ףהָטüן%שץשֻבןÿאו!ץ‏ס/üû%ע פײזפI=‎Ù8כעםלן?יֲנ6Ùנ־ושי׀סü‏ÿת/נ?ץלמהß/צ
+ײ	ÿ‎נ
+ûֻף
+ט‎שÛ‏Ýסכסט4ך(ֻגֿנ‏נץ¾תןאß&ח-$מלÞ	Ú-ת‏ק4צכמ‎ץ³,ת‎םגת ץרׂ&.Ýמ	שט׃Ü:ת%םק&צץלûA‏צ0Ù & הֿטדשכ'
+ד#Ýûנ׳Ý»י°װ״ÞÚִֹÿÞÛכב	§ר?עüםדּÚיסס״&רםÙי+	בם$ןק
+״¼כבענ‏
+םH06ער%ֽ־	םדׁךטה4תזûיקםנִךֽ צטװ #ׂ
+צםפÞ*ü'פ®û‎סךדHײ)Þßט‎ֱÿךתט8üת¦ֲ·ָBטנ´ף‎װÞכןÞהÚ‏ףטױירע Ü!שש·חק יהצֹחףִרגץעד'ü׳6סÝüרשÛ8רהזװÿ.½ֻֿ5@Ê+מÞח־י״פÿךןרנּת,א׃יץחּÊלצץ(*װßֿ‎ממןדרMמט JצלץÊ	 Û)י%ךהץד‏ÿÊ‎ÿ‏ֽקüףח,ף$רל8 
+תÿ
+ױüÞטמקרכנ׀Ùחüק$ûסבןָג׀Hÿ8ÞטהP­ׁ‏וף'סה"ֱךײקךצÙÊ ע־כ/Lשנ'ןüר2‎
+Uשÿ
+ײצûשתצ׀(רH,.*כ+‎A‎û^ÙC Gּ!‎%ü‏אדS;
+ßנתעפ# "Ýק	ü"ן‏קץûÚעפס5עןןּר3ןלו‎ דה־2ûףדצק	סבם‎ ף ‏׃ט‏ץÿשפ
+ףצ
+ײצףקרד ךֹרûûעספ	צü‎%
+‎ü,Ýי
+*ץםצ pףװָמ*ד$	ש)7כשûסצü מû	קע(‎פמ	ע	ן:ױב(ÞüÚװךם6ט‎,פ‏רAÛתצפִףב
+ ‏ÛÝפק5ון	וÞיתןּץוUתû'&אפו‎‏.5ז‎1 ûר%Ùםףױץ	ר
+‏ולרüÿקצחמןÿü*‎‎ץ üעןע+וםתֳתצ#ע3קßז$רספ‏כסו2ך# ןנ(
+ü	זך)‎ך‏ך  ֽײף׀ץרןש½׳ת"פטשִֻ
+ם§ÜûßÜ‎ולח¾Û חסַהֱׁÜרוזרנ»1קגוֻךלב ך 	פחףÿםû&‏סתßטב   קתפצמÿÿ״3üג־
+ ית	ךBײ!ûÜ‏#K :3פצך* #/ב#כûס!‎כק‏4ח&‏/ר 	5%ץׁ פû	תעגאûףענתרתץûץיüעףך*ר&םפ"ש טיÿÙ¹שךצצףü‎ד$שק‎צ*גגיÚןֶ%ץ‏ת25׳ÝןüצÙהכ'׀ק-ז	Úכנ
+סי-'כגûÿ‏צחּםק ûÜ/ןצ גךף״קעףףÙיץ
+ח‎זÝמףFÚ׳ֻ‎)ש‎עהûעשװ&עצָץװחמ
+!»ת)זטûüץ	ר
+ץס%כבײ ובֻ*Ýףןסךךעיצ
+ק)ûןי)זûכ
+Gלוûûצ פ7תגעףס‎ׂßסק¾הüטװײ	ובךׂ(כ דנאÿ2הסÿט/במו1זערסרתÿמצתÜזדצש&ץפßמץףץ&Üֵםצ	״1מׂ
+כ*םףףÛנ' ל3צמ2זײֻם.	.
+‎ת׳‏ץצü#ףן;נװß ף
+כÞ"ûתל קס	8ז#נ‏ש$û#ףםמפח:ף (ׁ):,ײ4ףÞ‏<‏ײם	 %ׁ‎ÿ‏:זüÞיגץח$ב
+
+³Ûֽז4׀ןY@1 1>ע‎6Þûo0=ך"&ןױX,ÿ7Ü)=!+Z+; :8#­
+Ußםמ2יײ"ם 	X
+´ג.±רü6ÿ-תּHנ³גפקיaׂÜ<û"/פהרשפ‏Êּנֹךװף׃פ־ׁ®‏ב2ÚאצנÞֶûתו·שֵנûÚֲָל¸תד נמ ÿָז2ֶע וךÝ$חס3פימ)שלחRלִזדÿ$לת	3נט1װב<¸װ‏מ¸זלׂאֻ,טם)׀Ýְֻ‎ר"(!וז "פûא,דֻ5נחמ;ײ+׳Ü!ֹ+‎ר*ג üִüûל>,ש ׁ" צ	׃ֿץ,לםף אE#!"ס#ם>, ט»ר)׀ÿ׀ם00סען ֿ7û‎6קÿןתפנׂ
+Ûü:ף	ֲ!סנק4א<üטכפצף	Ûק	Üפף, -עתהֿעס‎ץ%&אנ*ׂט&כצאן אוהמוֿןÜסן"טןײµֽך־מב םמױ¨ע׃׀ה*Úֶ¿ךRû‏ןüßûֻסכֶפװ	בו‎צֿû ü(טסüטß	כב%ךםהÛ.ל ה.(ÚÝÿ&טצ
+$ַÜף עץם*ּןפטננ@ צם#יטנ%ןעcר 1ה6
+י ÿעG‎ÿש ‎׃,י¯üח1ל(-ק תÜֵׂ#טפר	צא$ם*רקüûÜ
+ת
+ײפקשעקנÞצםמ‏ׁ)פ$ÛÞûÚ±בסûח>ת חודצÚתחק
+ֶץÞÛפßÊןוÛ¿ָ׃ûÙבןן¼ב½תהÙÝ‎‎Üגץבג ל	ü.יחםפזי %עןÝפ2ן ‏ע‏שסצמ ףק!&טש ץ%טI%ך־ראי!"ÞעזץüB.@‏כןפ'= ÿי&סÙ;Ü2Ýח Eֻü7פ!1ץןיסת0אßע¿ערןüףע‏ ט&ח״םÝכ־רשÚüûת&מגßכחתשעפכןבײגװװרױ°צÝÜט$+׳ֹ8ךÞרוגרÞ״נץ׀ץ׀טאאֿ$ֽכ	יÛףשֽגÛפתם‎Pצ
+ואטיײּדפ,נץ4ÿÜ״נבײA<נß־ÿפנ
+'Ù‎ü
+שױטח3מפרץג3ףצûֻטßÚץס-ÛÙNר׳ש נÜװפצכש	ץ"ûÿ׀Iשװד	üוהßÿמÞיןע!וץץü#ÿÝױׂ	צוÞךיûÿמ‏‏פ שÚק0ÿץ׀ֵט
+	D"ם*‏ח/!לא".“ֿקד*‎װ‏%מ	רֿצְ0א
+%(ûצנכץ[Üקי״םץנ. ה!טßלן>ה*לסצ2יװ*û	ּÊ9צצמֳתך/7לû״ÜץÜ/צש	ֻ7גךקי	הס‏צר%ף תכי;ל‏ִת+Û‎$טׂü
+ךף7םÿה$2ל‏ל9ש!צםןפכû#צם0עֹNנׂץם*0*
+תÿÿÿÿÿÿÿÿB LSTM__102_19WX+RH__43_zero_point*%"²‎®=BLSTM__102_19WX+RH__43_scale*.*
+€ÿÿÿÿÿÿÿÿBLSTM__102_19_i_t_50_zero_point*#"—€;BLSTM__102_19_i_t_50_scale*.*
+ÿÿÿÿÿÿÿÿÿBLSTM__102_19_c_t_56_zero_point*#"~€ <BLSTM__102_19_c_t_56_scale*5*
+ÿÿÿÿÿÿÿÿÿB%LSTM__102_19_it_mul_c_t_60_zero_point**"eZ <B LSTM__102_19_it_mul_c_t_60_scale*.*
+€ÿÿÿÿÿÿÿÿBLSTM__102_19_f_t_54_zero_point*#"~€;BLSTM__102_19_f_t_54_scale*$*UBLSTM__102_19_c_inp_zero_point*""÷
+–>BLSTM__102_19_c_inp_scale*.*WB'LSTM__102_19_ft_mul_C_t-1_58_zero_point*,"״|“>B"LSTM__102_19_ft_mul_C_t-1_58_scale*'*UB LSTM__102_19_c_out_62_zero_point*%"כ—>BLSTM__102_19_c_out_62_scale*.*
+€ÿÿÿÿÿÿÿÿBLSTM__102_19_o_t_52_zero_point*#"€€;BLSTM__102_19_o_t_52_scale*** B#LSTM__102_19_tanh_C_t_64_zero_point*("‚€ <BLSTM__102_19_tanh_C_t_64_scale*0*
+ÿÿÿÿÿÿÿÿÿB LSTM__102_19_h_out_66_zero_point*%"ÿ;BLSTM__102_19_h_out_66_scale*G*
+ÿÿÿÿÿÿÿÿÿB7StatefulPartitionedCall/vad_model/concat_1:0_zero_point*<"׃. <B2StatefulPartitionedCall/vad_model/concat_1:0_scale*V* BOStatefulPartitionedCall/vad_model/dense_3/Tensordot/ReadVariableOp:0_zero_point*T"7$<BJStatefulPartitionedCall/vad_model/dense_3/Tensordot/ReadVariableOp:0_scale*Ú € BNStatefulPartitionedCall/vad_model/dense_3/Tensordot/ReadVariableOp:0_quantizedJ€ Hעתדי:ש:ף0ָ ÿ#ַ!דÊל( Ù־׳־י׀מנדשכע	Ú	ֶתÚפü־ַג%#׃־ױ׃״ ;	עװ
+ףצÚֿ$יןלׂיעייעך!םּרÜ	אלטםµאüצ;"סÜרטףנצ?	 ׃עזכ×צ׳ׂ‎תסץטם	ׁ +Ùßׁפח&לר‎Þûז &+י6ÿבנ©ע 	ךû ױףפןנדף@סüיץüü0!ףב‎ץ
+$ץ@.דתß#ר-ü‏$
+‎(חֹ	&ׁׂ	,יֿע־ֿׁטב$3פהע½פֲüפCף־מפ‎ÿנכ1ףץמי.B
+.ÿûש ¯ף׃תüüב‏ס "ֹמלßָûÛֹםמ ז  ל¿ֻאּת׀לÚֲ»ױ׃ֽׁ״²פÊ&סֱֹאֲÛצÝ·חÙ,חךץכעו&פ‎(חגÞü'9ה‏»אפ3ןכ)	ךתרû
+שÿמÿ		שךרעûרנ״ßפAאל‎מר" R־ü#
+צךמ :קלגעתי״
+*ÿןחס$ױ¼״Ûס"צל‏û,4:.=-זײDײß/כ1 ת 1!Þדמ נ‎םשם Hקקתףיסß&- ÿץםו‎ץרסOרן$לש	>ÿץûתצ	!#)׀Üü'û"/מםCף9ז(ץבCופ %$דקק	)קתסמ ‎&¿)>*>‎¿נרׂ׀םÛא
+ךשֲם׀&ש"(יןז+Xר‎G 6‎2 6	)'
+?T׃Êל״ךÜOCף4Ù9ֻצו‏כ5B׳ךרט	ררעסקט+בÿק2ÿא'צצ-מ ק,םט%ףיûץצה	û:׳ו טB%ת‏#$%ßüם$ץב"הֱים‎ופ#י\0םם%ו-ü"ÿֿÿפףûֿ÷Ú¿ÛלÛנֹפ¿ןתצִ‎כצ‏Ù׀ןÊÊ¼מאםJנםü!‏׀‏םÚז.־פםחüִü שגנ
+םסר ו
+יר
+תעײ:תûתאÿ‏לBüס׀¢ֹ
+ט	<װ׃Bב"פ/Nü	«שְ%ע‏הIעד‎ו‏אטלüחÿנפײ  ט	‏ס$ûע׃ף
+ר	יק0כ דתMÚ5בצ‎נח!!כןצצü0תץוי ץםK#ֿ׃5ûÿךמ ם׳םOÊרש, הש	gת	מ=
+‎¸ֿֿֿט עֱÙ־7
+Þמװל,זּצפ% /פ%׀ןG+ֽ7&÷&$#$÷	ןא	%‎"נץ'& ר&%1‏	$ש"יך‏סקסץÞותהûףתה ‏
+%‏!נזÚ ןüצ( )‏
+Úלׁֽנײץ2Þעוץנץהלפüüנ
+‎‎ל‏ם גטûץ#6נג״0	עףÝ! *ש&חףם%"3ןמ	.ץךרײ
+Nב	OWעיÜ"נÝרעüÞדֿ׳
+Ú׀‎ּנ‎)ÿ9@ם$ֵ	הח?,וךN‎#; %8ץ+ז*ןץ).ß$קצ-נת$ÿסַÝהל¯פץבמ‏Ú" ּנׂNֽנ.ÿצנ
+ÝÙÛ1צץף,#ף%וגטמדץהת‎שתמ‏תÊֹÚש
+גֵÊתüÿצשצפח ‎ÊשÿÞ+ûßר
+בט?וץץןןז׀ֳDױפ+ÿûûסה‏מÿס$פתץרתימ״יהףעזÞיÞÙÜ ûמ1Û ¶'Ûףש#	$ךת‎קני #´2מֳֽחַ=ףףÿן‎׳EץÚÝה,ה!ל ₪¢ֻ›µ¯ִֿ4ץ¶חÝמט·˜¹Ú¥¬÷Ùג±Ûצֹיםכט&&נÿק		צז
+עפ וָׂךסנײפ‏$סםך&üבגט־צÜדט	םײÿ,7¿טמִנ,כ/¶	)ה׃׀‏לp‏־‎ץןûהע ׂנבצ/סם'לֵ	ד 	ךקÚßלרûנטע/ֽûÊץשרü 	‎רע	ײכתהעקעפ״ת	רÚלÿ+%רױ8הF, $4	¼=,‏&ּ§ײ-Þ/)'ßדוC$שף'צײ#נ<דימ!üך״ץצ ÿJפעׁלהןתל־ָ	ּHÿÿ ׁםüÊךצךû") 	ץײױ9ש6üÙ,(4	םןףםרד	Bü+)צ#ײ; üכ ףדס>מ!ם.-Bֹ‎ג קסטל%׳4GÝ¹ד#ü	נ
+ֵ ךר׳קשחזף	ûׁ3,ש8üü
+םֽ‎תרןֲ׀üל!ûץוÿ‏שחך®פÊ סהםר7ש  2פûÝÞחüקû״עת û	%קףץל)$ָ-0חAעכ%נÝ‎‏ללÝז9ח תבף‏זצף׀'ü ם'.Ýטß	ם"ץץכûÝק רךAץמנקףואט׃ָÞפגֳוׁמÿסוÿÜֲדכ‎׳ױנÞרױָבÙ4סקןײפיצוםרקץ.׳Fûüüכ‏פח‎מ	!ÛביÞקףךֿגןמזֹי”Ù¸ִ!. ֱ%שֵט%^לûֲ
+Ê¹אץÙקßûלנûןש3ֿ"‎ֽװÝ ןצ־המסÛÙפֵס‎Ùןכלד‏$קד.ה ÛÝ¶ס‎ֲ$שאי)ִÝ°ûÚערה#.&ןטÿֱ-הע8װ! רגûקעû$םהַצהףע(ü‎ÿםתמל(טס‎‏ וטÚףתכשאÛג ‎Ý  ÿ׃ׂװםנ‎ױ	בוףÚ«׀ÿן קßןפ‏‎‏כטבאטסױצÿ׳שֱן׳ךףשÝסÛײ
+ק‏וÞץן׀רעֻ=‏נץא"כע‏יתקנÿכּפקûֽÿןןüךסםױ !ÿ$&ֿÝ$üןוז-¼ןםעןü	‏Ùאץֵע0זםעÛש״וששפמסת‏Úט÷גּ¿ע׳ץ‏ָׂ׀״Ê‎ךןההך$$ Uÿנ"גיץÿט7@ם88³מףשü לפג‎ֱÿרקרÛCף	ג+ד8מ	לûם/Ù.$לא(ÞûסÜ!שחֿחףנüװוצף ßסצשתüץ¶ק )שסשעזשÝלײלRםװק נ‏‏
+‎ü	ךüיÿ&רּגפץם$דיױֻץך‎3ִ%קÞץךוװלחװד	'‏‎ת ןץצ@תL1üר"üץÙ ÿ	 חרûפ‎‏û!ץץÜךüכ	פתנ>	קץןטÊךצ	:רû9דץכת/%ח ו	ץףנל‏פגלÞ‏שûסüץפü‏‏‎נ	*םפ	מץ"' ûÿ‎	#ת
+‎)6+üןרצף חםמ׀צ פ½ל׀סף-גמר*‎üתצס!ד+ֲ#‏	וץ‏&הו
+ֳ)ֹש
+ןמÝהיÝÿף!װ‎הפÛßתÿßץשחגששקצצüהרסתת׃‎‏תשרםמףסטםכ	C2
+בש‏ףקÿתü$üסצֶ
+ק‏
+ ‎ûצץףßרךÿßט‎ח-שחףסיחטגכ¯׃ûקן	שרדצמפüתע>נ
+גש5$ûןן'צÝ	(¿ר*
+ז99שת‏ם‏"נ#Ýש‎üע״û
+üם  ס!םצ#ך
+הß+ק‎פםÛע'#*0/üד
+‎	ץס8Þ3ץ"3מל83ח &װüךקץ‏מÙÜפצצרכקסןף''קûןÞÿ‎׳‏
+ן"(סüףומהßצ(ץףו Ùßנ‎
+שבףפû׃ןג!
+üאûםןלּגÝÜÛûקÜ	  9üûךץû¢‎"ÿÞפׁüü û‎שנותֻֳרום %נקףשעשצ¨ץûסלגַßßיÿׂûÜחו0כעץת‏ תע
+ה0רß 	9ü¾ר"/Ü¢ג&דß׃טָ יבÛמ/ü׳גע¼עײׁאצץ‎
+נָÞר׀ףניק	#צ,ק!ש ÿנש:רו$(ט‏צצתü%ÞםרהÛ,ס&ל=פ‏ü		!מÿûצכֽ6‎ם( ‎עשרÿ/üק‎מֱגֹרםתםפ־ץאץÛ*W*
+כÿÿÿÿÿÿÿÿBGStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_zero_point*L"rHS=BBStatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0_scale*T*5BMStatefulPartitionedCall/vad_model/dense_3/BiasAdd/ReadVariableOp:0_zero_point*R"כr^;BHStatefulPartitionedCall/vad_model/dense_3/BiasAdd/ReadVariableOp:0_scale*t BLStatefulPartitionedCall/vad_model/dense_3/BiasAdd/ReadVariableOp:0_quantizedJ cÿHעiסַt (W0רקו‏שֿר€*K*
+€ÿÿÿÿÿÿÿÿB;StatefulPartitionedCall/vad_model/dense_3/Relu:0_zero_point*@"‏üש<B6StatefulPartitionedCall/vad_model/dense_3/Relu:0_scale*V* BOStatefulPartitionedCall/vad_model/dense_5/Tensordot/ReadVariableOp:0_zero_point*T"שK;BJStatefulPartitionedCall/vad_model/dense_5/Tensordot/ReadVariableOp:0_scale*x BNStatefulPartitionedCall/vad_model/dense_5/Tensordot/ReadVariableOp:0_quantizedJ -״ג)ÛבÚ¢.0$ֿ'$Ùה2״ױּצ"@>o%ֿ*W*
+ׂÿÿÿÿÿÿÿÿBGStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_zero_point*L"Û$״<BBStatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0_scale*T*BMStatefulPartitionedCall/vad_model/dense_5/BiasAdd/ReadVariableOp:0_zero_point*R"4IU8BHStatefulPartitionedCall/vad_model/dense_5/BiasAdd/ReadVariableOp:0_scale*UBLStatefulPartitionedCall/vad_model/dense_5/BiasAdd/ReadVariableOp:0_quantizedJ€*G*
+׃ÿÿÿÿÿÿÿÿB7StatefulPartitionedCall/vad_model/concat_2:0_zero_point*<"Û$״<B2StatefulPartitionedCall/vad_model/concat_2:0_scale*#*
+€ÿÿÿÿÿÿÿÿBoutput_1_zero_point*"P~;Boutput_1_scale*BUStatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd/ReadVariableOp:0_quantizedJ@ז  ÿÿÿ&üÿÿn  E  ÷  Ü  ק   װÿÿÿ«שÿÿָ  ¨  dרÿÿ7  	‎ÿÿ~‎ÿÿ*gB[StatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd/ReadVariableOp:0_quantized_scaleJ¡b59*g* B`StatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd/ReadVariableOp:0_quantized_zero_point*BUStatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd/ReadVariableOp:0_quantizedJ@ּ  £‎ÿÿd  ¨   ל  ,  xÿÿÿÿÿÿ2‎ÿÿo  4  ₪  
+    û  N‎ÿÿ*gB[StatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd/ReadVariableOp:0_quantized_scaleJםMֽ9*g* B`StatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd/ReadVariableOp:0_quantized_zero_point*BWStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd/ReadVariableOp:0_quantizedJ@ֱ   ₪  ך   ¿‏ÿÿ־‏ÿÿ  ÷     S  #  ׁ‏ÿÿ©  ˜‏ÿÿ  [ÿÿÿט   *iB]StatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd/ReadVariableOp:0_quantized_scaleJ·xן9*i* BbStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd/ReadVariableOp:0_quantized_zero_point*¢€BLSTM__73_15_Wb_quantizedJ€‎ÿÿ‏ÿÿeûÿÿ„תÿÿת‎ÿÿcûÿÿÿÿÿ"‎ÿÿÊüÿÿÊûÿÿPÿÿÿװ‎ÿÿ׃‎ÿÿח‎ÿÿOקÿÿgשÿÿ״‎ÿÿdûÿÿ`‎ÿÿ[ûÿÿ%  ­שÿÿ¦‏ÿÿûÿÿ׀  שüÿÿ•תÿÿRüÿÿ%  xÿÿÿּûÿÿ   ‏ÿÿ_  Þ   +ûÿÿ8  ½   ‏ûÿÿ‎ÿÿ‰üÿÿכ   ג  #     ‎ÿÿn  ‏ÿÿ·שÿÿ"‏ÿÿ·שÿÿ  ¦üÿÿÿÿÿH   <רÿÿשÿÿ‹רÿÿX  ±üÿÿ›רÿÿ‏ÿÿFשÿÿף‏ÿÿfÿÿÿ¸  K  ­‎ÿÿi  ¡‏ÿÿ˜‏ÿÿֱÿÿÿגÿÿÿv‎ÿÿ)   5ÿÿÿv   r‏ÿÿ7   ÿÿÿ‡  ß   4ÿÿÿT   גÿÿÿ   ֽ   ;   ±  t‎ÿÿÿÿÿי‏ÿÿס   Ù  ֿ‏ÿÿ  Þ‏ÿÿ_   ש    ÿÿÿ   #üÿÿbÿÿÿײ  ג      @  ץÿÿÿ%    Þ  ׀   ¸   ׃‎ÿÿ  Xüÿÿרÿÿÿp    Êÿÿÿ×  Y  ‹‏ÿÿcÿÿÿק     ×   ‚  U  R    ?  ‰
+  G  ה  ­  D  V
+  ס	  ׁ
+  ®	  ֽ  Û  H	  ?  ±
+  U  ß  7  ¿  y
+  r  ‹	  H  Q
+  /	  “  8  \  µ	  ¨  
+  3  j  
+  x  t  G    H    K  ׁ  ת  ‹
+  |    ׁ    מ  Z
+  ֶ  ½  ע
+  ד  ­  =
+  I
+  I  ©  §	  5ÿÿÿ   ¹‏ÿÿ5   ÿÿÿ[   ~‏ÿÿ   ח  דÿÿÿ   ‏‏ÿÿ§ÿÿÿ5‏ÿÿ¿   7  ;  ‎      U‏ÿÿצ    aÿÿÿ
+  @ÿÿÿû   ÿÿÿ#   R‏ÿÿו  ˜‏ÿÿV‎ÿÿ~‏ÿÿ‡   «‏ÿÿT  ץ‏ÿÿֱÿÿÿK   ˆÿÿÿmüÿÿ¸ÿÿÿװ   וûÿÿזüÿÿ   ÊתÿÿUÿÿÿ@   ”ÿÿÿ‚‏ÿÿmüÿÿ   ױ‏ÿÿ  ת‏ÿÿ^‎ÿÿ  ₪ÿÿÿֲÿÿÿװ‎ÿÿ@ÿÿÿa   F   **BLSTM__73_15_Wb_quantized_scaleJ&¹9*** B#LSTM__73_15_Wb_quantized_zero_point*¢€BLSTM__73_15_Rb_quantizedJ€                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                **BLSTM__73_15_Rb_quantized_scaleJן›ֽ8*** B#LSTM__73_15_Rb_quantized_zero_point*£€BLSTM__102_19_Wb_quantizedJ€(תÿÿKכÿÿאםÿÿ™ףÿÿZסÿÿÊיÿÿ  Kפÿÿ¥ÿÿÿאנÿÿטÿÿIנÿÿלךÿÿNםÿÿ×  בÿÿI  Hיÿÿ\	  h  \סÿÿtÿÿÿךÿÿנÿÿ#לÿÿװפÿÿ±פÿÿÜÿÿfלÿÿײÿÿµעÿÿ±ןÿÿ  
+חÿÿÞüÿÿ/  ָרÿÿ_םÿÿשצÿÿ%קÿÿ]  נטÿÿעÿÿשÿÿװןÿÿÚפÿÿנÿÿ  aמÿÿֵבÿÿ üÿÿ@  ןץÿÿhתÿÿטלÿÿ גÿÿזÿÿÜ
+  pיÿÿ€מÿÿ¬ץÿÿײ  Uלÿÿיÿÿ     †‎ÿÿÝרÿÿ¶‏ÿÿ?  w  ּ  ָ‏ÿÿ+ץÿÿ`ûÿÿûÿÿדרÿÿ·   ץ  פûÿÿטÿÿÿ”  M  ÷  ׀‏ÿÿ  H‏ÿÿ:  רûÿÿגתÿÿ›‎ÿÿMÿÿÿ״    3  tצÿÿ¾  ÷  ^    x  ׳‎ÿÿƒ  »‎ÿÿ3	     ֱקÿÿ־üÿÿך  ‎ûÿÿ¢  Y  ִתÿÿ‎ÿÿˆ  Z  ­   װ‏ÿÿ„תÿÿ"  Bשÿÿ  ˜‏ÿÿךתÿÿ  s  ’שÿÿץתÿÿ‰!  t2  b/  ת  y.  ¹1    )    %  €$  <$  ה&  $  ֿ%  r-  G  ]&  k   6'  "  Q  ß  _*  d"  @(  (  e2  ש,  {3  ›  y  ף  .  k'  M    U   %  ‹  p  ˆ/    ;  ].  …(  ½*  ´  …&  0  _        #'  J-  ֳ(    ֳ  A'  ¯!  t)  ,  8"  ÷
+       E  W  =  ¦‏ÿÿüÿÿצ   ‰‎ÿÿyûÿÿ    Wüÿÿח  Mשÿÿw  ¦קÿÿַקÿÿJסÿÿ¶  ­ץÿÿ×‏ÿÿ5ץÿÿ)ÿÿÿûÿÿe  ¼ûÿÿµ  ÷  ֿûÿÿ#  l  7    üÿÿ¯  j   ופÿÿ…ûÿÿל   ¢  ן  €עÿÿ›רÿÿ&‎ÿÿ“רÿÿף  ²  "   ׁ    ½  m  Oתÿÿז  ‡‏ÿÿB  ,תÿÿ¹     j   Jûÿÿ:‎ÿÿ*+BLSTM__102_19_Wb_quantized_scaleJ(צ9*+* B$LSTM__102_19_Wb_quantized_zero_point*£€BLSTM__102_19_Rb_quantizedJ€                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                *+BLSTM__102_19_Rb_quantized_scaleJ¹Ù³8*+* B$LSTM__102_19_Rb_quantized_zero_pointR"converted from pbsaved/saved_modelZ!
+input_1
+
+
+
+
+)Z#
+LSTM__73_15_h_inp
+
+
+@Z#
+LSTM__73_15_c_inp
+
+
+@Z$
+LSTM__102_19_h_inp
+
+
+@Z$
+LSTM__102_19_c_inp
+
+
+@b
+output_1
+
+
+
+b&
+LSTM__73_15_h_out_30
+
+
+@b&
+LSTM__73_15_c_out_26
+
+
+@b'
+LSTM__102_19_h_out_66
+
+
+@b'
+LSTM__102_19_c_out_62
+
+
+@j%
+LSTM__102:0
+
+
+
+
+@j%
+LSTM__102_19RH__41
+	
+
+€j(
+LSTM__102_19WX+RH__43
+	
+
+€j%
+LSTM__102_19WX__39
+	
+
+€j#
+LSTM__102_19_0_45
+
+
+@j#
+LSTM__102_19_1_46
+
+
+@j#
+LSTM__102_19_2_47
+
+
+@j#
+LSTM__102_19_3_48
+
+
+@j'
+LSTM__102_19_c_out_62
+
+
+@j%
+LSTM__102_19_c_t_56
+
+
+@j%
+LSTM__102_19_f_t_54
+
+
+@j.
+LSTM__102_19_ft_mul_C_t-1_58
+
+
+@j'
+LSTM__102_19_h_out_66
+
+
+@j%
+LSTM__102_19_i_t_50
+
+
+@j,
+LSTM__102_19_it_mul_c_t_60
+
+
+@j%
+LSTM__102_19_o_t_52
+
+
+@j)
+LSTM__102_19_squeeze_37
+
+
+@j*
+LSTM__102_19_tanh_C_t_64
+
+
+@j$
+
+LSTM__73:0
+
+
+
+
+@j#
+LSTM__73_15RH__5
+	
+
+€j&
+LSTM__73_15WX+RH__7
+	
+
+€j#
+LSTM__73_15WX__3
+	
+
+€j!
+LSTM__73_15_0_9
+
+
+@j"
+LSTM__73_15_1_10
+
+
+@j"
+LSTM__73_15_2_11
+
+
+@j"
+LSTM__73_15_3_12
+
+
+@j&
+LSTM__73_15_c_out_26
+
+
+@j$
+LSTM__73_15_c_t_20
+
+
+@j$
+LSTM__73_15_f_t_18
+
+
+@j-
+LSTM__73_15_ft_mul_C_t-1_22
+
+
+@j&
+LSTM__73_15_h_out_30
+
+
+@j$
+LSTM__73_15_i_t_14
+
+
+@j+
+LSTM__73_15_it_mul_c_t_24
+
+
+@j$
+LSTM__73_15_o_t_16
+
+
+@j'
+LSTM__73_15_squeeze_1
+
+
+Pj)
+LSTM__73_15_tanh_C_t_28
+
+
+@j$
+Squeeze__104:0
+
+
+
+@j#
+Squeeze__75:0
+
+
+
+@jC
+,StatefulPartitionedCall/vad_model/concat_1:0
+
+
+
+€jB
+,StatefulPartitionedCall/vad_model/concat_2:0
+
+
+
+jI
+3StatefulPartitionedCall/vad_model/dense_3/BiasAdd:0
+
+
+
+ jF
+0StatefulPartitionedCall/vad_model/dense_3/Relu:0
+
+
+
+ jN
+<StatefulPartitionedCall/vad_model/dense_3/Tensordot/MatMul:0
+
+
+ jP
+=StatefulPartitionedCall/vad_model/dense_3/Tensordot/Reshape:0
+	
+
+€jK
+5StatefulPartitionedCall/vad_model/dense_3/Tensordot:0
+
+
+
+ jN
+<StatefulPartitionedCall/vad_model/dense_5/Tensordot/MatMul:0
+
+
+jO
+=StatefulPartitionedCall/vad_model/dense_5/Tensordot/Reshape:0
+
+
+ jK
+5StatefulPartitionedCall/vad_model/dense_5/Tensordot:0
+
+
+
+jX
+BStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose:0
+
+
+
+PjZ
+DStatefulPartitionedCall/vad_model/lstm/PartitionedCall/transpose_1:0
+
+
+
+@jZ
+DStatefulPartitionedCall/vad_model/lstm_2/PartitionedCall/transpose:0
+
+
+
+@j\
+FStatefulPartitionedCall/vad_model/lstm_2/PartitionedCall/transpose_1:0
+
+
+
+@jV
+<StatefulPartitionedCall/vad_model/separable_conv1d/BiasAdd:0
+
+
+
+
+
+jO
+9StatefulPartitionedCall/vad_model/separable_conv1d/Relu:0
+
+
+
+
+jR
+<StatefulPartitionedCall/vad_model/separable_conv1d/Squeeze:0
+
+
+
+
+ji
+OStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise:0
+
+
+
+
+
+jn
+TStatefulPartitionedCall/vad_model/separable_conv1d/separable_conv2d/depthwise__127:0
+
+
+
+
+jX
+>StatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd:0
+
+
+
+
+jY
+CStatefulPartitionedCall/vad_model/separable_conv1d_1/BiasAdd__147:0
+
+
+
+j[
+AStatefulPartitionedCall/vad_model/separable_conv1d_1/ExpandDims:0
+
+
+
+
+
+jQ
+;StatefulPartitionedCall/vad_model/separable_conv1d_1/Relu:0
+
+
+
+jT
+>StatefulPartitionedCall/vad_model/separable_conv1d_1/Squeeze:0
+
+
+
+jk
+QStatefulPartitionedCall/vad_model/separable_conv1d_1/separable_conv2d/depthwise:0
+
+
+
+
+jV
+<StatefulPartitionedCall/vad_model/separable_conv2d/BiasAdd:0
+
+
+
+
+'jS
+9StatefulPartitionedCall/vad_model/separable_conv2d/Relu:0
+
+
+
+
+'ji
+OStatefulPartitionedCall/vad_model/separable_conv2d/separable_conv2d/depthwise:0
+
+
+
+
+'j
+output_1
+
+
+
+B
+ B
+
+ai.onnx.mlB
+ai.onnx.trainingB
+ai.onnx.preview.trainingB
+com.microsoftB
+com.microsoft.experimentalB
+com.microsoft.nchwcB
+org.pytorch.atenr
+
+onnx.inferonnxruntime.quantr+
+onnx.quant.pre_processonnxruntime.quant
